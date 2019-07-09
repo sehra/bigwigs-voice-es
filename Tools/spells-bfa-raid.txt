@@ -31,7 +31,7 @@
 
 ; Boss: Fetid Devourer
 262277	Vapuleo terrible
-;	Rotting Regurgitation
+breath	Regurgitación putrefacta
 262288	Pisotón de onda de choque
 262313y	Miasma maloliente
 262314y	Paroxismo pútrido
@@ -43,9 +43,9 @@
 265231	Latigazo del Vacío
 265248	Trizar
 264382y	Haz ocular
-;-18390	Qiraji Warrior
+-18390	Guerrero silítido
 265360y	Engaño turbio
-;-18397	Anub'ar Voidweaver
+-18397	Tejevacío nerubiano
 267180	Descarga del Vacío
 267239	Orbe de corrupción
 265662y	Pacto del Corruptor
@@ -64,13 +64,13 @@
 
 ; Boss: Zul, Reborn
 269936y	Fijar
--18530	Minion of Zul
+-18530	Esbirro de Zul
 273365y	Revelación oscura
 273360	Charco de oscuridad
 273889	Llamada de la sangre
-;	Crusher spawning soon
-;	Blood Hexer spawning soon
-;	Crawg spawning soon
+; TODO crusher	Crusher spawning soon
+; TODO bloodhexer	Blood Hexer spawning soon
+; TODO crawg	Crawg spawning soon
 273288	Pulso vibrante
 273451	Cuajar sangre
 273350	Fragmento de sangre
@@ -93,7 +93,7 @@
 279157	Ecos del Vacío
 
 ; Boss: G'huun
-;-18109	Power Matrix
+-18109	Matriz de poder
 263482	Explosión de recreación
 272506y	Corrupción explosiva
 270287	Tierra contagiada
@@ -181,7 +181,7 @@
 
 ; Boss: Opulence
 286541	Llama acuciante
-;-19494	The Zandalari Crown Jewels
+-19494	Las joyas de la corona Zandalari
 284645y	Topacio de luz solar brillante
 283606	Machacar
 289383	Desplazamiento caótico
@@ -283,7 +283,7 @@
 289387	Sangre congelante
 289488	Bloqueo congelante
 288169	Vientos aulladores
-;-19825	Icebound Image
+-19825	Imagen glacial
 
 
 ; -------------------------------------
@@ -323,9 +323,133 @@
 285453	Obsequio de N'Zoth: oscuridad
 285820	Llamar a guardián imperecedero
 285638	Obsequio de N'Zoth: histeria
-;-19118	Primordial Mindbender
+-19118	Dominamentes primordial
 285427	Consumir esencia
 285562	Terror inescrutable
 285652y	Tormento insaciable
 285685	Obsequio de N'Zoth: locura
 285307	Alimentar
+
+
+; -------------------------------------
+;    Zone: The Eternal Palace
+; -------------------------------------
+
+; Boss: Trash
+
+; Boss: Blackwater Behemoth
+292127	Profundidades Lúgubres
+292205	Nube bioluminiscente
+292133	Bioluminiscencia
+292307	Miradas desde abajo
+292138	Biomasa radiante
+298428	Frenesí hambriento
+292159	Espina tóxica
+292270	Pulso de choque
+301494y	Púa perforante
+292083	Cavitación
+301180	Estela
+
+; Boss: Za'qul, Harbinger of Ny'alotha
+298192	Oscuridad del más allá
+292971	Histeria
+295444	Atadura mental
+294535	Portal de la locura
+301141	Abrazo aplastante
+292963	Terror
+293509y	Manifestar pesadillas
+292996	Erupción enloquecedora
+295099	Oscuridad perforada
+304733	Descenso al delirio
+303971	Pulso oscuro
+299702	Pasadizo oscuro
+296018	Terror frenético
+295814	Ruptura psicótica
+
+; Boss: Orgozoa
+298156	Picadura insensibilizante
+298103	Goteo de icor
+298242	Fluido de incubación
+305048	Corriente voltaica
+298465	Salpique amniótico
+298548	Incubadora gigante
+295779y	Lanza acuática
+295822	Pulso conductivo
+296691	Pisotón poderoso
+
+; Boss: Abyssal Commander Sivara
+294726	Marcas quiméricas
+295332	Reverberación aplastante
+-20300y	Púas con veneno de Escarcha
+296551	Tromba sobrecogedora
+-20006y	Desbordamiento
+295601y	Descargas de choque de escarcha
+295791y	Inversión
+
+; Boss Radiance of Azshara
+296546	Puño de marea
+296428	Ráfaga de arcanado
+296459	Trampa de borrasca
+296737y	Bomba Arcana
+296894	Poder desencadenado
+295916	Tempestad ancestral
+296701	Sacudida de vendaval
+
+; Boss: Lady Ashvane
+296569	Crecimiento de coral
+296662	Ola ondulante
+297397y	Burbuja salina
+298056	Ráfaga fría
+296725	Azote de percebes
+-20096	Azerita voltaica
+
+; Boss: The Queen's Court
+300088	Medidas desesperadas
+296716	Separación de poderes
+298050	Formar filas
+301244	Repetir actuación
+297656	Aislamiento
+297566	Sentencia aplazada
+297585	Obedece o sufre
+
+; Boss: Silivaz the Zealous
+299914y	Carga frenética
+300545	Ruptura poderosa
+301807	Erupción ferviente
+
+; Boss: Pashmar the Fanatical
+301830	Toque de Pashmar
+296851y	Veredicto fanático
+297325	Arrebato violento
+301947	Chispa potente
+
+; Boss: Queen Azshara
+300074	Oleada de presión
+298569	Alma drenada
+297937	Recuerdos dolorosos
+297934	Anhelo
+297912	Tormento
+297907	Corazón maldito
+298121	Orbes de relámpagos
+297972	Cadena de relámpagos
+298014	Explosión de frío
+298021	Fragmento de hielo
+298756	Filo dentado
+301078y	Lanza cargada
+-20480	Mole fanática
+298531	Aporrear suelo
+300428	Exasperante
+298787	Orbes Arcanos
+299094	Señal
+299250	Decreto de la Reina
+302999	Vulnerabilidad Arcana
+304475	Zarandeo Arcano
+300519	Detonación Arcana
+297371	Inversión de fortuna
+303657y	Ráfaga Arcana
+300492y	Choque estático
+300620	Escudo cristalino
+297372	Inversión de fortuna superior
+300743	Tocado por el Vacío
+303980	Portal abisal
+300807	Sobrecarga
