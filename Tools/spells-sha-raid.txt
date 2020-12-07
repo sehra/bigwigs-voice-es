@@ -1,0 +1,162 @@
+; Type: Shadowlands Raid
+
+; -------------------------------------
+;    Zone: Castle Nathria
+; -------------------------------------
+
+; Boss: Trash
+
+; Boss: Shriekwing
+330711	Chillido ensordecedor
+340324	Icor sanguino
+342074	Ecolocalización
+342863	Chirrido resonante
+345397	Oleada de sangre
+343005	Barrido ciego
+328857	Mordisco desangrador
+328897	Desangrado
+328921	Velo de sangre
+329362	Sónar resonante
+341684	El farol de sangre
+341489	Luz de sangre
+
+; Boss: Huntsman Altimor
+335114	Buscapecados
+334404	Tiro de dispersión
+334971	Garras dentadas
+334945	Embestida sañosa
+334797	Destripar alma
+334884	Devorar alma
+334757	Sombras de Bargast
+334860	Piedra aplastante
+334852	Aullido petrificador
+334893	Fragmentos de piedra
+
+; Boss: Sun King's Salvation
+326455	Golpe ígneo
+326456	Vestigios ardientes
+325877	Explosión de ascuas
+329518	Oleada llameante
+328579	Restos humeantes
+328479	Ojos en el objetivo
+-21954	Vencedor ligarroca
+325440	Golpe vencedor
+325442	Vencido
+325506	Machaque de conmoción
+-21993	Asesina Alalúgubre
+326583	Aluvión carmesí
+333145	Volver a la piedra
+-21952	Ocultista vil
+333002	Marca vulgar
+-21953	Inyectora de almas
+-22082	Maligno molesto
+326078	Bendición de inyectora
+339251	Alma drenada
+328889	Escarmiento superior
+337859	Capa de llamas
+
+; Boss: Artificer Xy'mox
+328437	Rasgadura dimensional
+325236	Glifo de destrucción
+326271	Trampa de estasis
+335013	Explosión de falla
+325399	Chispa de hiperluz
+340758	Espíritus fugaces
+327902	Fijar
+327414	Posesión
+340788	Semillas de extinción
+329107	Extinción
+340860	Toque marchitador
+328789	Aniquilar
+
+; Boss: Hungering Destroyer
+329298	Miasma glotón
+334522	Consumir
+329725	Expurgar
+334266	Eyección volátil
+329455	Desolar
+329774	Arrollar
+332295	Hambre creciente
+
+; Boss: Lady Inerva Darkvein
+331870	Enfocar ánima
+341621	Exponer deseos
+325382	Deseos deformados
+325936	Cognición compartida
+325769	Ánima embotellada
+325713	Ánima persistente
+324983	Sufrimiento compartido
+332664	Ánima concentrada
+331573	Culpa desmesurada
+331550	Condenar
+
+; Boss: The Council of Blood
+346690	Estocada de duelista
+346698	Invocar auxiliar obediente
+346651	Drenar esencia
+337110	Salva de descarga aterradora
+346657	Erupción orgullosa
+327497	Embestida evasiva
+331634	Recital oscuro
+346800	Vals de sangre
+330959	Danza macabra
+330848	Pasos incorrectos
+347350	Fiebre del baile
+
+; Boss: Sludgefist
+331209	Mirada odiosa
+331314	Impacto destructivo
+341102	Roca fracturada
+335293	Enlace de cadenas
+332318	Pisotón destructivo
+335361	Piedremoto
+332687	Rugido colosal
+335470	Embate de cadenas
+340817	Desplazamiento sísmico
+341250	Furia truculenta
+
+; Boss: Stone Legion Generals
+329636	Forma de piedra endurecida
+333387	Hoja maligna
+334765	Desgarrar corazón
+334929	Barrido dentado
+339690	Cristalizar
+342544	Meteoro pulverizador
+343063	Púa de piedra
+332406	Infusión de ánima
+339885	Infección de ánima
+342722	Expulsión de cólera pétrea
+332683	Ráfaga devastadora
+329808	Forma de piedra endurecida
+342425	Puño pétreo
+334009	Salto resonante
+334498	Agitación sísmica
+342256	Pedir fuerzas de las Sombras
+342655	Infusión de ánima volátil
+340037	Capa pétrea volátil
+342698	Infección de ánima volátil
+342733	Festín voraz
+342985	Efigie tempespiedra
+
+; Boss: Sire Denathrius
+328936	Inevitable
+326699	Carga del pecado
+326707	Dolor purificador
+326851	Precio de sangre
+327796	Cazador de la noche
+327122	Despedazar
+327992	Desolación
+328276	Marcha del penitente
+329906	Carnicería
+329951	Empalar
+335873	Rencor
+329181	Dolor atroz
+333932	Mano de destrucción
+330042	Ordenar: Masacre
+332585	Desdén
+332619	Dolor devastador
+332794	Sutileza letal
+336008	Ira humeante
+333979	Reflejo siniestro
+332937	Despedazar
+333111	Masacre
