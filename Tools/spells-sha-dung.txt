@@ -22,6 +22,7 @@
 323687	Relámpagos Arcanos
 
 ; Boss: Mueh'zala
+327646	Aplastaalmas
 325725	Artificio cósmico
 325258	Maestro de la muerte
 326171	Destrozar realidad

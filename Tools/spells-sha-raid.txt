@@ -15,6 +15,7 @@
 343005	Barrido ciego
 328857	Mordisco desangrador
 328897	Desangrado
+345936	Chillido ensordecedor
 328921	Velo de sangre
 329362	Sónar resonante
 341684	El farol de sangre
@@ -93,9 +94,14 @@
 ; Boss: The Council of Blood
 346690	Estocada de duelista
 346698	Invocar auxiliar obediente
+330978	Sirvientes dragadores
+330965	Cohorte de castellano
+346790	Hoja tocada por el pecado
 346651	Drenar esencia
 337110	Salva de descarga aterradora
 346657	Erupción orgullosa
+346945	Dolor manifiesto
+346681	Púas de alma
 327497	Embestida evasiva
 331634	Recital oscuro
 346800	Vals de sangre
@@ -106,7 +112,6 @@
 ; Boss: Sludgefist
 331209	Mirada odiosa
 331314	Impacto destructivo
-341102	Roca fracturada
 335293	Enlace de cadenas
 332318	Pisotón destructivo
 335361	Piedremoto
@@ -149,6 +154,7 @@
 328276	Marcha del penitente
 329906	Carnicería
 329951	Empalar
+-22131	Cabalista carmesí
 335873	Rencor
 329181	Dolor atroz
 333932	Mano de destrucción
@@ -157,6 +163,5 @@
 332619	Dolor devastador
 332794	Sutileza letal
 336008	Ira humeante
-333979	Reflejo siniestro
-332937	Despedazar
-333111	Masacre
+332849	Reflejo: Despedazar
+333980	Reflejo: Masacre
