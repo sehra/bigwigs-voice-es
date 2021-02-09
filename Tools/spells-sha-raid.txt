@@ -5,11 +5,27 @@
 ; -------------------------------------
 
 ; Boss: Trash
+343322	Maldición de Moldovaak
+343320	Maldición de Caramain
+343325	Maldición de Sindrel
+343316	Maldición de Hargitas
+343155	Piel de piedra
+343302	Alas de granito
+329989	Enfurecer
+341441	Golpe en el suelo
+341352	Trampa maestra de jugador astuto
+341735	Restaurar piedra
+340630	Ulceración
+329298	Miasma glotón
+339553	Ánima persistente
+339557	Ánima embotellada
+339528	Deseos deformados
+339525	Concentrar ánima
 
 ; Boss: Shriekwing
 330711	Chillido ensordecedor
 340324	Icor sanguino
-342074	Ecolocalización
+342074y	Ecolocalización
 342863	Chirrido resonante
 345397	Oleada de sangre
 343005	Barrido ciego
@@ -30,7 +46,7 @@
 334884	Devorar alma
 334757	Sombras de Bargast
 334860	Piedra aplastante
-334852	Aullido petrificador
+334852y	Aullido petrificador
 334893	Fragmentos de piedra
 
 ; Boss: Sun King's Salvation
@@ -39,13 +55,13 @@
 325877	Explosión de ascuas
 329518	Oleada llameante
 328579	Restos humeantes
-328479	Ojos en el objetivo
+328479y	Ojos en el objetivo
 -21954	Vencedor ligarroca
 325440	Golpe vencedor
 325442	Vencido
 325506	Machaque de conmoción
 -21993	Asesina Alalúgubre
-326583	Aluvión carmesí
+326583y	Aluvión carmesí
 333145	Volver a la piedra
 -21952	Ocultista vil
 333002	Marca vulgar
@@ -55,15 +71,16 @@
 339251	Alma drenada
 328889	Escarmiento superior
 337859	Capa de llamas
+343026	Capa de llamas
 
 ; Boss: Artificer Xy'mox
-328437	Rasgadura dimensional
+328437y	Rasgadura dimensional
 325236	Glifo de destrucción
 326271	Trampa de estasis
 335013	Explosión de falla
 325399	Chispa de hiperluz
 340758	Espíritus fugaces
-327902	Fijar
+327902y	Fijar
 327414	Posesión
 340788	Semillas de extinción
 329107	Extinción
@@ -71,10 +88,10 @@
 328789	Aniquilar
 
 ; Boss: Hungering Destroyer
-329298	Miasma glotón
+329298y	Miasma glotón
 334522	Consumir
 329725	Expurgar
-334266	Eyección volátil
+334266y	Eyección volátil
 329455	Desolar
 329774	Arrollar
 332295	Hambre creciente
@@ -83,11 +100,12 @@
 331870	Enfocar ánima
 341621	Exponer deseos
 325382	Deseos deformados
+340452y	Corazón mudable
 325936	Cognición compartida
 325769	Ánima embotellada
 325713	Ánima persistente
-324983	Sufrimiento compartido
-332664	Ánima concentrada
+324983y	Sufrimiento compartido
+332664y	Ánima concentrada
 331573	Culpa desmesurada
 331550	Condenar
 
@@ -103,31 +121,38 @@
 346945	Dolor manifiesto
 346681	Púas de alma
 327497	Embestida evasiva
-331634	Recital oscuro
+331634y	Recital oscuro
 346800	Vals de sangre
+346303	Clamor violento
 330959	Danza macabra
 330848	Pasos incorrectos
-347350	Fiebre del baile
+-22433	Imagen persistente de la baronesa Frieda
+347350y	Fiebre del baile
 
 ; Boss: Sludgefist
 331209	Mirada odiosa
 331314	Impacto destructivo
-335293	Enlace de cadenas
+335293y	Enlace de cadenas
 332318	Pisotón destructivo
+341193	Caída de escombros
 335361	Piedremoto
 332687	Rugido colosal
 335470	Embate de cadenas
+341102	Roca fracturada
 340817	Desplazamiento sísmico
 341250	Furia truculenta
 
 ; Boss: Stone Legion Generals
 329636	Forma de piedra endurecida
-333387	Hoja maligna
+333387y	Hoja maligna
+333913	Laceración maligna
 334765	Desgarrar corazón
 334929	Barrido dentado
 339690	Cristalizar
 342544	Meteoro pulverizador
 343063	Púa de piedra
+342733	Festín voraz
+342985	Efigie tempespiedra
 332406	Infusión de ánima
 339885	Infección de ánima
 342722	Expulsión de cólera pétrea
@@ -140,21 +165,22 @@
 342655	Infusión de ánima volátil
 340037	Capa pétrea volátil
 342698	Infección de ánima volátil
-342733	Festín voraz
-342985	Efigie tempespiedra
 
 ; Boss: Sire Denathrius
 328936	Inevitable
 326699	Carga del pecado
 326707	Dolor purificador
 326851	Precio de sangre
+327039y	Hora de comer
 327796	Cazador de la noche
+327227	Orden: Despedazar
 327122	Despedazar
 327992	Desolación
 328276	Marcha del penitente
 329906	Carnicería
 329951	Empalar
 -22131	Cabalista carmesí
+336162	Crescendo
 335873	Rencor
 329181	Dolor atroz
 333932	Mano de destrucción
@@ -165,3 +191,6 @@
 336008	Ira humeante
 332849	Reflejo: Despedazar
 333980	Reflejo: Masacre
+344776	Lamento vengativo
+338738	A través del espejo
+333979	Reflejo siniestro

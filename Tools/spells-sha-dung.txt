@@ -5,10 +5,28 @@
 ; -------------------------------------
 
 ; Boss: Trash
+328740	Loto oscuro
+333227	Rabia inmortal
+333787	Ira
+334051	Oscuridad eruptiva
+332678	Herida sangrante
+332672	Filotormenta
+332706	Sanar
+332612	Ola de sanación
+332605	Maleficio
+332608	Descarga relampagueante
+331927	Descontrolado
+331548	Mandíbulas metálicas
+331846	6U4U
+332084	Ciclo de autolimpieza
+332157	Rotación
+340026	Pesadumbre gemebunda
 
 ; Boss: Hakkar the Soulflayer
+322736	Púa perforante
 322746	Sangre corrupta
 322759	Barrera de sangre
+323569	Esencia derramada
 
 ; Boss: The Manastorms
 320787	Invocar cristal de poder
@@ -34,6 +52,17 @@
 ; -------------------------------------
 
 ; Boss: Trash
+326450	Bestias leales
+325799	Fuego rápido
+344993	Barrido serrado
+346866	Aliento de piedra
+325523	Impulso mortal
+325876	Maldición de desintegración
+325700	Recoger pecados
+325701	Succionar vida
+326409	Vapulear
+326607	Convertir en piedra
+326997	Zarpazo poderoso
 
 ; Boss: Halkias, the Sin-Stained Goliath
 323001	Fragmentos de cristal
@@ -67,6 +96,30 @@
 ; -------------------------------------
 
 ; Boss: Trash
+324909	Paliza furiosa
+324923	Ráfaga de zarzas
+322938	Cosechar esencia
+322569	Mano de Thros
+322557	División de alma
+331718	Aluvión de lanzas
+340304	Secreciones venenosas
+340305	Salto aplastante
+340300	Azote de lengua
+331743	Desenfreno corcoveante
+340189	Charco de radiancia
+340160	Aliento radiante
+340208	Triturar armadura
+340289	Mordedura triple
+340279	Descarga venenosa
+324776	Abrigo gujaespino
+324987	Mordedura de Velo de Niebla
+325224	Inyección de ánima
+324914	Nutrir al bosque
+325418y	Ácido volátil
+340544	Estimular regeneración
+326046	Estimular resistencia
+321968	Polen desconcertante
+322486	Sobrecrecimiento
 
 ; Boss: Ingra Maloch
 323057	Descarga de espíritu
@@ -88,7 +141,9 @@
 322614	Vínculo mental
 322563	Presa marcada
 322651	Expulsión ácida
-parasitic	Parasitic
+337235	Pacificación parasitaria
+337249	Incapacidad parasitaria
+337255	Dominio parasitario
 
 
 ; -------------------------------------
@@ -102,13 +157,13 @@ parasitic	Parasitic
 330403	Sacudida de alas
 327882	Picoañublo
 327233	Eructar peste
+327584	Atraer baba
 320512	Garras corroídas
 318949	Eructo purulento
 320517	Espinas serradas
 328180	Infección atenazante
 321935	Escoria marchita
 336451	Baluarte de Maldraxxus
-328395	Perforador venenoso
 328475	Telarañas envolventes
 330786	Cadáver rezumante
 330816	Paso fantasmal
@@ -183,6 +238,7 @@ parasitic	Parasitic
 327481	Lanza oscura
 321009	Lanza cargada
 324368	Tromba atenuada
+331251	Conexión profunda
 
 ; Boss: Ventunax
 324146	Zancada oscura
@@ -190,7 +246,6 @@ parasitic	Parasitic
 334485	Recargar
 
 ; Boss: Oryphrion
-323878	Drenado
 324046	Recargar ánima
 324427	Artillería empírea
 334053	Explosión purificadora
@@ -201,11 +256,30 @@ parasitic	Parasitic
 322818	Confianza perdida
 323943	Atravesar
 
+
 ; -------------------------------------
 ;    Zone: The Necrotic Wake
 ; -------------------------------------
 
 ; Boss: Trash
+334748	Drenar fluidos
+323190	Escudo de carne
+323347	Oscuridad aferradora
+322756	Cólera de Zolramus
+328667	Salva de descarga de Escarcha
+324293	Chillido estridente
+335143	Alivio de huesos
+335141	Velo oscuro
+327396	Destino lúgubre
+324394	Trizar
+324387	Pinchos gélidos
+324372	Vientos segadores
+338353	Salpicasangre
+338456	Mutilar
+338357	Ablandar
+327130	Reparar carne
+323496	Lanzar cuchilla
+338606	Fijación mórbida
 
 ; Boss: Blightbone
 320596	Arcadas fulminantes
@@ -225,9 +299,10 @@ parasitic	Parasitic
 322681	Gancho de carnicero
 320376	Mutilar
 334476	Icor embalsamante
-320200	Coseaguja
+320200y	Coseaguja
 334488	Sajar carne
 320359	Escapar
+343556	Fijación mórbida
 
 ; Boss: Nalthor the Rimebinder
 320772	Lluvia de cometas
@@ -241,12 +316,17 @@ parasitic	Parasitic
 ; -------------------------------------
 
 ; Boss: Trash
+330562	Grito desmoralizador
+341969	Descarga marchitadora
+330614	Erupción vil
+330868	Salva de descarga necrótica
+342675	Lanza ósea
 
 ; Boss: An Affront of Challengers
 320063	Embate
 320069	Golpe mortal
-326892	Fijar
 324085	Enfurecer
+326892	Fijar
 320248	Alteración genética
 333231	Muerte abrasadora
 320293	Unión con la muerte
@@ -268,8 +348,8 @@ parasitic	Parasitic
 339415	Pisotón ensordecedor
 
 ; Boss: Kul'tharok
-319521	Extraer alma
-319637	Alma reclamada
+319521y	Extraer alma
+319637y	Alma reclamada
 319626	Parásito fantasmal
 319669	Alcance espectral
 
