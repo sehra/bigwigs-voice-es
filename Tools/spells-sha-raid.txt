@@ -221,7 +221,7 @@
 348074	Lanza asaltante
 349028	Mirada de la muerte titánica
 350847y	Haz de desolación
-350022y	Fracturar alma
+350022	Fracturar alma
 351825	Sufrimiento compartido
 350713	Corrupción perezosa
 351827y	Angustia en expansión
@@ -247,7 +247,7 @@
 350109y	Réquiem lastimero de Brynja
 350039	Mirada aplastante de Arthura
 350475	Perforar alma
-351399	Resentimiento
+355294	Resentimiento
 350482	Vincular esencia
 350687	Palabra de regreso
 
@@ -257,6 +257,7 @@
 350647y	Marca de tormento
 350422	Hojarruina
 350615	Llamar a los jurafauces
+-23517	Señor supremo jurafauces
 351779	Nova agonizante
 350650	Estoicidad
 350411	Grito infernal
