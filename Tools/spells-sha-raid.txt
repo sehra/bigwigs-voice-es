@@ -20,6 +20,11 @@
 339557	Ánima embotellada
 339528	Deseos deformados
 339525	Concentrar ánima
+342770	Semillas de erradicación
+339975	Golpe severo
+342752	Carga supurante
+341146	Salva de descarga de pecado
+343271	Festín voraz
 
 ; Boss: Shriekwing
 330711	Chillido ensordecedor
@@ -37,7 +42,7 @@
 341489	Luz de sangre
 
 ; Boss: Huntsman Altimor
-335114	Buscapecados
+335114y	Buscapecados
 334404	Tiro de dispersión
 334971	Garras dentadas
 334945	Embestida sañosa
@@ -45,7 +50,7 @@
 334884	Devorar alma
 334757	Sombras de Bargast
 334860	Piedra aplastante
-334852y	Aullido petrificador
+334852	Aullido petrificador
 334893	Fragmentos de piedra
 
 ; Boss: Sun King's Salvation
@@ -60,7 +65,7 @@
 325442	Vencido
 325506	Machaque de conmoción
 -21993	Asesina Alalúgubre
-326583	Aluvión carmesí
+341473	Aluvión carmesí
 333145	Volver a la piedra
 -21952	Ocultista vil
 333002	Marca vulgar
@@ -104,7 +109,7 @@
 325769	Ánima embotellada
 325713	Ánima persistente
 324983y	Sufrimiento compartido
-332664y	Ánima concentrada
+332664	Ánima concentrada
 331573y	Culpa desmesurada
 331550	Condenar
 
@@ -126,7 +131,7 @@
 330959	Danza macabra
 330848y	Pasos incorrectos
 -22433	Imagen persistente de la baronesa Frieda
-347350y	Fiebre del baile
+347350	Fiebre del baile
 
 ; Boss: Sludgefist
 331209y	Mirada odiosa
@@ -151,7 +156,7 @@
 342544	Meteoro pulverizador
 343063	Púa de piedra
 342733	Festín voraz
-342985	Efigie tempespiedra
+343898	Efigie almamácula
 332406	Infusión de ánima
 339885	Infección de ánima
 342722	Expulsión de cólera pétrea
@@ -221,7 +226,7 @@
 348074	Lanza asaltante
 349028	Mirada de la muerte titánica
 350847y	Haz de desolación
-350022	Fracturar alma
+350022y	Fracturar alma
 351825	Sufrimiento compartido
 350713	Corrupción perezosa
 351827y	Angustia en expansión
@@ -283,6 +288,8 @@
 348456	Trampa presaflamígera
 355505y	Cadenas de acero sombrío
 355534	Ascuas de acero sombrío
+355536	Invocar horror de acero sombrío
+357735	Grito final
 
 ; Boss: Guardian of the First Ones
 352385	Vínculo energizante
@@ -323,7 +330,7 @@
 348978	Agotamiento de alma
 348428	Aullido perforador
 346459	Cólera glacial
-346530y	Destrucción helada
+346530	Destrucción helada
 347292y	Eco del olvido
 348760y	Explosión de Escarcha
 354289	Miasma siniestro
@@ -400,19 +407,21 @@
 360451	Arcadas
 359979	Desgarrar
 359975	Faucefalla
+364522	Sangre devoradora
 364778	Destruir
+359778	Polvo de esencia efímera
+366070	Residuo volátil
 
 ; Boss: Artificer Xy'mox
 364465	Anillos de predecesor
-364040	Ascensión de hiperluz
-364030	Rayo debilitante
 362721	Rasgadura dimensional
 362803	Glifo de traslado
-362849	Nova de chispas de hiperluz
 362885	Trampa de estasis
-363485	La élite del cártel
+362849	Nova de chispas de hiperluz
 365681	Estallido masivo
-365701	Órdenes de sobrestante
+364040	Ascensión de hiperluz
+364030	Rayo debilitante
+363485	La élite del cártel
 
 ; Boss: Dausegne, the Fallen Oracle
 361966	Golpes imbuidos
@@ -446,23 +455,29 @@
 364652	Cascada de protoforma
 363088	Cambio Cósmico
 362622	Mota inestable
+360159	Mota inestable
 363795	Energía deconstructiva
 363130	Sintetizar
 360869	Requisado
 366012	Mota de terminal
+362659	Cambio de alineación
 
 ; Boss: Halondrus the Reclaimer
+368969	Carga volátil
 360115	Recolectar
 367079	Temblores sísmicos
+360114	Fisura efímera
 361676	Misiles rompesuelos
 369207	Haz quiebraplanetas
 360977	Haz quiebraluz
 365297	Prisma aplastante
+368363	Prisma destrozado
 364979	Destrozar
 368529	Sobrecarga de eternidad
 
 ; Boss: Anduin Wrynn
 362405	Agonía del Rey está hambrienta
+362055	Alma perdida
 361989	Blasfemia
 365295	Barrera contaminada
 365021	Estrella malvada
@@ -478,5 +493,55 @@
 365958	Desesperanza
 
 ; Boss: Lords of Dread
+360374	Enjambre arrasador
+360319	Hacia la oscuridad
+360012	Nube de carroña
+361913	Manifestar sombras
+361934	Forma incompleta
+359960	Garras parasitantes
+359963	Venas abiertas
+360717	Infiltración del terror
+360146	Agitación temerosa
+360229	Nube somnífera
+360284	Golpe angustioso
+
 ; Boss: Rygelon
+362806	Eclipse oscuro
+362275	Colapso celestial
+362206	Horizonte de sucesos
+362390	Manifestar cosmos
+362184	Golpes corruptos
+362172	Herida corrupta
+363533	Explosión masiva
+364386	Colapso gravitacional
+366606	Plasma radiante
+362207	La Singularidad
+364114	Destrozar esfera
+362088	Irregularidad Cósmica
+366379	Sudario estelar
+362798	Radiación Cósmica
+368080	Cuásar oscuro
+
 ; Boss: The Jailer
+362028	Dominación invencible
+362075	Dominación
+366132	Tiranía
+359809	Cadenas de opresión
+363893	Martirio
+366545	Hostigar
+365436	Tormento
+360281	Runa de condenación
+360373	Armonización profana
+363332	Agarre inquebrantable
+359856	Ráfaga devastadora
+366285	Runas de compulsión
+360562	Diezmador
+365033	Desolación
+365150	Runa de dominación
+365212	Cadenas de angustia
+365169	Profanar
+362012	Fin de la Eternidad
+366377	Trituramundos
+366776	Quiebramundos
+367053	Destrozamundos
+365810	Desprendimiento de escombros

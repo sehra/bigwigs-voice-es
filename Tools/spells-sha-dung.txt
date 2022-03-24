@@ -176,7 +176,7 @@ summon_stealthlings	Stealthlings
 328177	Tormenta de hongos
 
 ; Boss: Globgrog
-324490	Atraer baba
+324490	Invocación de baba viviente
 324527	Pisotón de peste
 324667	Onda de baba
 
@@ -398,6 +398,34 @@ summon_stealthlings	Stealthlings
 ; -------------------------------------
 ;	Zone: Tazavesh the Veiled Market
 ; -------------------------------------
+
+; Boss: Trash
+356031	Haz de estasis
+356001	Haz rebanador
+356929	Cadena de custodia
+356942	A cal y canto
+356404	Aliento de lava
+356407	Pavor ancestral
+357512	Carga frenética
+356967	Revés de hiperluz
+357029	Bomba de hiperluz
+355980	Escudo de refracción
+355934	Barrera de luz sólida
+347721	Abrir jaula
+355637	Golpe calmante
+355782	Multiplicador de fuerza
+355477	Patada poderosa
+355480	Fuerza letal
+355132	Palito de pescado vigorizador
+355057	Grito de Mrrggllrrgg
+355429	Pisotón de marea
+355584	Pulso cargado
+355577	Chisporroteo
+356133	Superbrebaje
+357226	Estrella errante
+357238	Púlsar errante
+357260	Falla inestable
+357284	Revigorizar
 
 ; Boss: Zo'phex the Sentinel
 347949	Interrogatorio
