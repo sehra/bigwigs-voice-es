@@ -523,6 +523,7 @@
 368080	Cuásar oscuro
 
 ; Boss: The Jailer
+362012	Fin de la Eternidad
 362028	Dominación invencible
 362075	Dominación
 366132	Tiranía
@@ -530,7 +531,7 @@
 363893	Martirio
 366545	Hostigar
 365436	Tormento
-360281	Runa de condenación
+360281y	Runa de condenación
 360373	Armonización profana
 363332	Agarre inquebrantable
 359856	Ráfaga devastadora
@@ -540,8 +541,9 @@
 365150	Runa de dominación
 365212	Cadenas de angustia
 365169	Profanar
-362012	Fin de la Eternidad
-366377	Trituramundos
-366776	Quiebramundos
-367053	Destrozamundos
-365810	Desprendimiento de escombros
+366374	Trituramundos
+366678	Quiebramundos
+367051	Destrozamundos
+368383	Escudo de salud desviado
+360378	Raja meteórica
+368591	Sentencia de muerte
