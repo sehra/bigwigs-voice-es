@@ -1,0 +1,79 @@
+; Type: Warlords of Draenor Dungeon
+
+; -------------------------------------
+;    Zone: Grimrail Depot
+; -------------------------------------
+
+; Boss: Trash
+163966	Activando
+164192	50 000 voltios
+164168	Carrerilla
+166675	Explosión de metralla
+176032	Lengua de Fuego
+156301	Mortero Roca Negra
+176127	Tromba de cañón
+166335	Escudo de tormenta
+166341	Zona de trueno
+166380	Tajo temerario
+166397	Ataque relámpago Arcano
+
+; Boss: Railmaster Rocketspark
+162407	Tromba de misiles X21-01A
+163947	Recuperación
+162171	Mejor posición
+162500	Supresor de objetivos VX18-B
+161091	¡Nuevo plan!
+161090	Carrerilla loca
+162617	Embate
+161092	Agresión descontrolada
+
+; Boss: Nitrogg Thundertower
+161073	Granada Roca Negra
+160965	Proyectiles de mortero Roca Negra
+160681	Fuego supresivo
+166570	Carga de escoria
+
+; Boss: Skylord Tovra
+161801	Aliento atronador
+162058	Lanza giratoria
+161588	Energía difusa
+162066	Cepo congelante
+163447	Marca del cazador
+
+
+; -------------------------------------
+;    Zone: Iron Docks
+; -------------------------------------
+
+; Boss: Trash
+167233	Filotormenta
+173148	Flechas flamígeras
+172636	Grasa resbaladiza
+172982	Golpe devastador
+172952	Lanzar rompepuertas
+172963	Rompepuertas
+172943	Inspiración brutal
+173135	Pisotón atronador
+173105	Cadenas giratorias
+167815	Tajo desgarrador
+173324	Abrojos dentados
+173384	Estampida aplastante
+158337	Frenesí
+173514	Explosión de lava
+173480	Tromba de lava
+
+; Boss: Fleshrender Nok'gar
+164426	Provocación temeraria
+164632	Flechas ardientes
+164837	Vapuleo salvaje
+164835	Aullido sanguinario
+
+; Boss: Ahri'ok Dugru
+sphere	Sanguine Sphere
+
+; Boss: Oshir
+162415	Hora de alimentarse
+
+; Boss: Skulloc
+168227	Machaque gronn
+168929	Tromba de cañón

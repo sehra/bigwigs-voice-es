@@ -176,7 +176,7 @@ summon_stealthlings	Stealthlings
 328177	Tormenta de hongos
 
 ; Boss: Globgrog
-324490	Invocación de baba viviente
+324490	Atraer baba
 324527	Pisotón de peste
 324667	Onda de baba
 
@@ -312,6 +312,8 @@ summon_stealthlings	Stealthlings
 327130	Reparar carne
 323496	Lanzar cuchilla
 338606	Fijación mórbida
+333477	Rebanar tripas
+333479	Escupir enfermedad
 
 ; Boss: Blightbone
 320596	Arcadas fulminantes
@@ -401,6 +403,7 @@ summon_stealthlings	Stealthlings
 
 ; Boss: Trash
 356031	Haz de estasis
+356324	Glifo de contención potenciado
 356001	Haz rebanador
 356929	Cadena de custodia
 356942	A cal y canto
@@ -413,6 +416,7 @@ summon_stealthlings	Stealthlings
 355934	Barrera de luz sólida
 347721	Abrir jaula
 355637	Golpe calmante
+355642	Andanada de hiperluz
 355782	Multiplicador de fuerza
 355477	Patada poderosa
 355480	Fuerza letal
@@ -434,11 +438,15 @@ summon_stealthlings	Stealthlings
 346204	Seguridad armada
 
 ; Boss: Myza's Oasis
+356482	Comida podrida
+353783	Teletransporte
+353835	Supresión
+350916	Embate de seguridad
+353706	Tumulto
 350922	Grito amenazador
 350919	Control de masas
 355438	Chispa de supresión
-350916	Embate de seguridad
-356482	Comida podrida
+359028	Embate de seguridad
 
 ; Boss: Mailroom Mayhem
 346286	Líquidos peligrosos
@@ -465,6 +473,7 @@ summon_stealthlings	Stealthlings
 
 ; Boss: Hylbrande
 ;346971	[DNT] Summon Vault Defender
+353312	Ráfaga purificadora
 346116	Golpes tajantes
 347094	Colisión titánica
 346957	Fuego purgador
@@ -485,3 +494,4 @@ summon_stealthlings	Stealthlings
 350796	Chispa de hiperluz
 351086	Poder sobrecogedor
 351096	Fragmentación de energía
+351119	Tormenta de shurikens

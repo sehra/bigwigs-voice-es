@@ -547,3 +547,11 @@
 368383	Escudo de salud desviado
 360378	Raja meteórica
 368591	Sentencia de muerte
+
+
+; Zone: Season 4
+; Boss: Affixes
+372634	Esencia caótica
+369505	Chispa de creación
+371447	Barrera de protoforma
+371254	Emisor de reconfiguración
