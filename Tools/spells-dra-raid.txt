@@ -1,0 +1,126 @@
+; Type: Dragonflight Raid
+
+; -------------------------------------
+;	Zone: Vault of the Incarnates
+; -------------------------------------
+
+; Boss: Trash
+; TODO
+
+; Boss: Eranog
+390715	Falla de llamas
+370649	Flujo de lava
+370615	Tajo de magma
+396023	Rugido incinerador
+396022	Pinchos de magma
+394906	Herida ardiente
+370597	Orden de ejecución
+370307	El ejército de las llamas
+396094	Falla de llamas superior
+394917	Llamas saltarinas
+393780	Piroexplosión
+
+; Boss: Terros
+380487	Explosión de roca
+381315	Tierra despierta
+377166	Aniquilación resonante
+382458	Secuelas resonantes
+383073	Impacto destrozador
+376279	Embate de conmoción
+377505	Devastación frenética
+388393	Tromba tectónica
+391592	Efecto colateral imbuido
+
+; Boss: The Primal Council
+391599	Ventisca primigenia
+386661	Convocación glacial
+371624	Marca conductiva
+372275	Cadena de relámpagos
+386375	Convocación tormentosa
+370991	Pilar terráneo
+372056	Machacar
+386370	Convocación sísmica
+374043	Hacha meteórica
+372027	Llamarada fulminante
+386289	Convocación ardiente
+
+; Boss: Sennarth, the Cold Breath
+371976	Explosión escalofriante
+371979	Expulsión de Escarcha
+372030	Red pegajosa
+372044	Envuelto en telas de araña
+372238	Llamar a arañitas
+372082	Telas envolventes
+373405	Ráfaga delicada
+385083	Ráfaga de telarañas
+-24899	Arácnido de aliento de escarcha
+374112	Aliento helado
+372539	Cumbre de hielo
+373048	Telarañas asfixiantes
+371983	Ráfaga repelente
+
+; Boss: Dathea, Ascended
+387849	Tormenta fusionada
+395501	Golpe de vuelta
+387943	Esencia desviada
+385812	Tajo aéreo
+384273	Descarga tormentosa
+390450	Adhesión estática
+388302	Ráfaga furibunda
+391686	Marca conductiva
+376943	Ciclón
+388410	Viento cruzado
+375580	Embate de céfiro
+376851	Sacudida aérea
+
+; Boss: Kurog Grimtotem
+371981	Oleada elemental
+374861	Cambio primigenio
+372158	Golpe hendiente
+382563	Ráfaga de magma
+373329	Ruptura de magma
+374023	Matanza abrasadora
+373678	Escalofrío cortante
+391019	Torrente gélido
+372458	Cero absoluto
+391056	Tierra envolvente
+395893	Peñón en erupción
+374691	Ruptura sísmica
+373487	Colisión de relámpagos
+390920	Ráfaga electrizante
+374215	Golpe atronador
+374321	Destrozando gravilla
+374427	Destrucción terrestre
+374430	Agitación violenta
+374623	Ataduras de Escarcha
+374624	Tempestad congelante
+391696	Corriente letal
+396241	Armonización primigenia
+
+; Boss: Broodkeeper Diurna
+375809	Vínculo de la vigilante de linaje
+380175	Gran bastón de la vigilante de linaje
+375889	Cólera del gran bastón
+375829	Ira de la vigilante del Nido Laberinto
+376073	Incubación rápida
+389049	Semilla incubadora
+375871	Fuego salvaje
+388716	Embozo helado
+375870	Garras pétreas mortales
+378782	Heridas letales
+375716	Tromba de hielo
+376266	Golpe excavador
+376257	Temblores
+375485	Fogonazos cauterizantes
+375575	Centinela de llamas
+375475	Mordisco desgarrador
+375457	Rabieta escalofriante
+375653	Sacudida estática
+375630	Carga ionizada
+375879	Furia de la vigilante de linaje
+392194	Gran bastón potenciado
+380483	Cólera del gran bastón potenciada
+388918	Sudario congelado
+
+; Boss: Raszageth the Storm Eater
+; TODO
