@@ -220,13 +220,18 @@
 ; -------------------------------------
 
 ; Boss: Trash
-; TODO
+375596	Crecimiento errático
+386546	Terror despierto
+371358	Conocimiento prohibido
+377488	Ataduras heladas
+370766	Ruptura cristalina
+387067	Azote Arcano
 
 ; Boss: Leymor
 374364	Brotes de línea Ley
 374567	Marca de detonación
-374720	Pisotón acuciante
 386660	Fisura en erupción
+374720	Pisotón acuciante
 374789	Ataque imbuido
 
 ; Boss: Azureblade
@@ -254,7 +259,13 @@
 ; -------------------------------------
 
 ; Boss: Trash
-; TODO
+384365	Grito alborotador
+384336	Pisotón de guerra
+383823	Reunir al clan
+395035	Destrozar alma
+387411	Salva de Descarga mortal
+373395	Grito desgarrador
+397394	Trueno mortal
 
 ; Boss: Granyth
 388283	Erupción

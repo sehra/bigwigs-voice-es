@@ -32,15 +32,15 @@
 391592	Efecto colateral imbuido
 
 ; Boss: The Primal Council
-391599	Ventisca primigenia
+373059	Ventisca primigenia
 386661	Convocación glacial
 371624	Marca conductiva
-372275	Cadena de relámpagos
+372279	Cadena de relámpagos
 386375	Convocación tormentosa
-370991	Pilar terráneo
+397134	Pilar terráneo
 372056	Machacar
 386370	Convocación sísmica
-374043	Hacha meteórica
+374038	Hachas meteóricas
 372027	Llamarada fulminante
 386289	Convocación ardiente
 
@@ -103,11 +103,11 @@
 375889	Cólera del gran bastón
 375829	Ira de la vigilante del Nido Laberinto
 376073	Incubación rápida
-389049	Semilla incubadora
 375871	Fuego salvaje
 388716	Embozo helado
 375870	Garras pétreas mortales
 378782	Heridas letales
+-25129	Refuerzos primalistas
 375716	Tromba de hielo
 376266	Golpe excavador
 376257	Temblores
@@ -116,7 +116,7 @@
 375475	Mordisco desgarrador
 375457	Rabieta escalofriante
 375653	Sacudida estática
-375630	Carga ionizada
+375620	Carga ionizada
 375879	Furia de la vigilante de linaje
 392194	Gran bastón potenciado
 380483	Cólera del gran bastón potenciada
