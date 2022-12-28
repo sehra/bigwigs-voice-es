@@ -61,9 +61,9 @@
 
 ; Boss: Dathea, Ascended
 387849	Tormenta fusionada
-395501	Golpe de vuelta
 387943	Esencia desviada
 385812	Tajo aéreo
+395501	Golpe de vuelta
 384273	Descarga tormentosa
 390450	Adhesión estática
 388302	Ráfaga furibunda
@@ -93,9 +93,18 @@
 374427	Destrucción terrestre
 374430	Agitación violenta
 374623	Ataduras de Escarcha
+374622	Ruptura de tormenta
 374624	Tempestad congelante
 391696	Corriente letal
 396241	Armonización primigenia
+400473	Ira elemental
+393309	Punición de llamas
+394416	Inferno enfurecido
+393296	Punición de Escarcha
+391425	Tempestad helada
+391268	Punición terránea
+393429	Punición de tormenta
+394719	Orbe relampagueante
 
 ; Boss: Broodkeeper Diurna
 375809	Vínculo de la vigilante de linaje
@@ -121,6 +130,36 @@
 392194	Gran bastón potenciado
 380483	Cólera del gran bastón potenciada
 388918	Sudario congelado
+396269	Petromachaque mortal
+396266	Sufrimiento mortal
+396264	Petromachaque detonante
 
 ; Boss: Raszageth the Storm Eater
-; TODO
+377612	Ala de huracán
+381615	Carga estática
+388643	Corriente volátil
+395906	Fauces electrificadas
+377594	Aliento de relámpagos
+381251	Latigazo eléctrico
+382434	Nova de tormenta
+385065	Devastación de relámpagos
+396037	Explosión en oleada
+385553	Descarga tormentosa
+397382	Sudario de destrucción
+397387	Escudo de Llamas
+387261	Oleada tormentosa
+391989	Cargado de tormenta
+394582	Carga enfocada
+394583	Carga dispersa
+385574	Ala de tempestad
+377467	Carga fulminante
+389870	Ruptura de tormenta
+389878	Fusión
+385068	Bola de relámpagos
+385569	Tormenta enfurecida
+395929	Maldad de la tormenta
+399713	Carga magnética
+386410	Explosión atronadora
+391285	Armadura derretida
+394584	Inversión
+395885	Devoradora de Tormentas

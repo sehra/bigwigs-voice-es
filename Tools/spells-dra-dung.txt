@@ -144,7 +144,17 @@
 ; -------------------------------------
 
 ; Boss: Trash
-; TODO
+382708	Guardia volcánica
+395427	Rugido ardiente
+376186	Machaque eruptivo
+372223	Arcilla aliviante
+372201	Aliento agostador
+372296	Batería incandescente
+373084	Acribillamiento agostador
+376200	Detonación de llamas
+378282	Núcleo de magma
+381663	Tempestad incandescente
+383651	Ejército fundido
 
 ; Boss: Chargath, Bane of Scales
 373424	Lanza derribadora
@@ -184,6 +194,7 @@
 372743	Escudo de hielo
 372087	Carga en llamas
 372047	Tromba de acero
+385536	Baile de llamas
 373693	Bomba viva
 373692	Inferno
 373614	Consunción
@@ -192,7 +203,10 @@
 391726	Aliento tormentoso
 392395	Fauces de trueno
 391723	Aliento de llamas
-
+392569	Sangre de magma
+392486	Tormenta de relámpagos
+392451	Fuego rápido
+		
 ; Boss: Melidrussa Chillworn
 373046	Despertar crías
 372682	Escalofrío primigenio
@@ -220,10 +234,14 @@
 ; -------------------------------------
 
 ; Boss: Trash
+397726	Graznido
+387564	Vapores místicos
 375596	Crecimiento errático
+375649	Suelo imbuido
 386546	Terror despierto
 371358	Conocimiento prohibido
 377488	Ataduras heladas
+370764	Fragmentos perforadores
 370766	Ruptura cristalina
 387067	Azote Arcano
 
@@ -262,6 +280,18 @@
 384365	Grito alborotador
 384336	Pisotón de guerra
 383823	Reunir al clan
+334610	Cazar presa
+386223	Escudo de Tormenta
+386024	Tempestad
+386015	Invocar borrasca
+386694	Oleada tormentosa
+387127	Cadena de relámpagos
+387125	Tronadora
+386028	Atronar
+387629	Viento putrefacto
+387614	Cántico de los muertos
+387596	Viento veloz
+387440	Rugido profanador
 395035	Destrozar alma
 387411	Salva de Descarga mortal
 373395	Grito desgarrador
@@ -313,8 +343,10 @@
 369400	Resguardo terráneo
 369365	Maldición de piedra
 369366	Atrapado en piedra
+369465	Granizo de piedra
 369411	Ráfaga sónica
 369337	Terreno dificultoso
+381593	Aplauso atronador
 
 ; Boss: The Lost Dwarves
 369573	Flecha pesada

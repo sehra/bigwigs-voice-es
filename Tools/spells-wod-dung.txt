@@ -77,3 +77,38 @@ sphere	Sanguine Sphere
 ; Boss: Skulloc
 168227	Machaque gronn
 168929	Tromba de cañón
+
+
+; -------------------------------------
+;    Zone: Shadowmoon Burial Grounds
+; -------------------------------------
+
+; Boss: Trash
+152818	Alivio de las Sombras
+152964	Pulso del Vacío
+394512	Erupciones del Vacío
+398151	Concentración siniestra
+153268	Exhumar las criptas
+398206	Explosión de muerte
+156718	Ráfaga necrótica
+153395	Embate corporal
+
+; Boss: Sadana Bloodfury
+164974	Eclipse oscuro
+153240	Hoja de la aflicción
+153153	Comunión oscura
+
+; Boss: Nhallish
+153623	Cambio de plano
+152801	Vórtice del Vacío
+152979	Triturar alma
+153067	Devastación del Vacío
+
+; Boss: Bonemaw
+153804	Inhalar
+154175	Embate corporal
+
+; Boss: Ner'zhul
+154442	Malevolencia
+154350	Augurio de muerte
+-9680	Ritual de huesos
