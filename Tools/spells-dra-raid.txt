@@ -1,11 +1,40 @@
 ; Type: Dragonflight Raid
 
 ; -------------------------------------
-;	Zone: Vault of the Incarnates
+; Zone: Dragon Isles
+; -------------------------------------
+
+; Boss: Strunraan, The Sky's Misery
+383496	Tormenta potenciada
+387199	Tempestad de Strunraan
+387265	Sobrecarga
+387216	Agua electrizante
+385980	Vórtice de truenos
+389951	Expulsión en arco
+
+; Boss: Basrikron, The Shale Wing
+386259	Colisión hendiente
+386059	Risco despierto
+385270	Temblor fisurador
+385137	Aliento de esquisto
+
+; Boss: Bazual, The Dreaded Flame
+389514	Aliento de lava
+389725	Erupción de magma
+389431	Llama disuasoria
+391247	Infusión de llamas
+390635	Lluvia de destrucción
+
+; Boss: Liskanoth, The Futurebane
+391026	Congelación profunda
+389960	Hielo apresador
+
+
+; -------------------------------------
+; Zone: Vault of the Incarnates
 ; -------------------------------------
 
 ; Boss: Trash
-; TODO
 
 ; Boss: Eranog
 390715	Falla de llamas
@@ -61,7 +90,7 @@
 
 ; Boss: Dathea, Ascended
 387849	Tormenta fusionada
-387943	Esencia desviada
+397431	Esencia desviada
 385812	Tajo aéreo
 395501	Golpe de vuelta
 384273	Descarga tormentosa
@@ -80,6 +109,7 @@
 382563	Ráfaga de magma
 373329	Ruptura de magma
 374023	Matanza abrasadora
+374554	Charco de magma
 373678	Escalofrío cortante
 391019	Torrente gélido
 372458	Cero absoluto
@@ -93,18 +123,22 @@
 374427	Destrucción terrestre
 374430	Agitación violenta
 374623	Ataduras de Escarcha
-374622	Ruptura de tormenta
 374624	Tempestad congelante
+374622	Ruptura de tormenta
 391696	Corriente letal
 396241	Armonización primigenia
 400473	Ira elemental
-393309	Punición de llamas
+393314	Erradicador forjallamas
 394416	Inferno enfurecido
-393296	Punición de Escarcha
+393309	Punición de llamas
+393295	Dominador hieloforjado
 391425	Tempestad helada
+393296	Punición de Escarcha
+392098	Machacador de hierro forjado
 391268	Punición terránea
-393429	Punición de tormenta
+393459	Hurtador tronaforjado
 394719	Orbe relampagueante
+393429	Punición de tormenta
 
 ; Boss: Broodkeeper Diurna
 375809	Vínculo de la vigilante de linaje
@@ -130,11 +164,12 @@
 392194	Gran bastón potenciado
 380483	Cólera del gran bastón potenciada
 388918	Sudario congelado
+396779	Fisura de tormenta
 396269	Petromachaque mortal
 396266	Sufrimiento mortal
 396264	Petromachaque detonante
 
-; Boss: Raszageth the Storm Eater
+; Boss: Raszageth the Storm-Eater
 377612	Ala de huracán
 381615	Carga estática
 388643	Corriente volátil
@@ -160,6 +195,160 @@
 395929	Maldad de la tormenta
 399713	Carga magnética
 386410	Explosión atronadora
-391285	Armadura derretida
+391285	Armadura golpeada por el trueno
 394584	Inversión
 395885	Devoradora de Tormentas
+
+
+; -------------------------------------
+; Zone: Aberrus, the Shadowed Crucible
+; -------------------------------------
+
+; Boss: Trash
+
+; Boss: Kazzara, the Hellforged
+401319	Carnicería Aceroinfernal
+407196	Fallas aterradoras
+406530	Quemadura de falla
+407069	Rayo de angustia
+402421	Cicatriz fundida
+400430	Haz infernal
+403326	Alas de extinción
+404743	Garras de terror
+
+; Boss: The Amalgamation Chamber
+401809	Sombra corruptora
+403459	Vacío aglomerado
+405036	Deflagración umbría
+405084	Umbra persistente
+407640	Convergencia de las sombras
+403699	Púa de las Sombras
+402617	Calor llameante
+404732	Meteorito ígneo
+403101	Erupción de magma
+404896	Llama arremolinada
+403203	Tajo de llamas
+405394	Contaminación de Pirosombra
+405437	Conflagración de penumbra
+405642	Crepúsculo virulento
+405645	Calor envolvente
+408193	Erupción convergente
+405914	Vulnerabilidad marchitadora
+406783	Ráfaga de Pirosombra
+409385	Llamas y sombras
+
+; Boss: The Forgotten Experiments
+406311	Golpes imbuidos
+407302	Explosión imbuida
+406358	Embestida desgarradora
+404472	Embate masivo
+404713	Rugido bramante
+407327	Esencia inestable
+405492	Esputo volátil
+405375	Erupción violenta
+406227	Aliento profundo
+407552	Anomalía temporal
+405392	Desintegrar
+
+; Boss: Assault of the Zaqali
+404382	Ayudante de campo zaqali
+404687	Réplica de barrera
+408959	Salto apabullante
+401258	Cayada pesada
+397383	Barrera de magma
+409275	Flujo de magma
+397386	Descarga de lava
+401401	Lanza de llamas
+408620	Rugido agostador
+401867	Escudo volcánico
+401108	Carga de fénix
+401381	Foco llameante
+407017	Vendaval vigoroso
+406585	Furia de Ignara
+410516	Embate catastrófico
+410351	Cayada llameante
+
+; Boss: Rashok, the Elder
+410070	Liberar Pirosombra
+410075	Energía de Pirosombra
+405316	Furia antigua
+405821	Embate abrasador
+403543	Ola de lava
+406851	Llamas de fatalidad
+406333	Explosión de lava de las Sombras
+400777	Machaque cargado
+407641	Cólera de Djaruun
+407547	Tajo flamígero
+407597	Aplastamiento terráneo
+401419	Conducto del Anciano
+405091	Ira llameante
+
+; Boss: The Vigilant Steward, Zskarn
+409942	Protocolo de eliminación
+405736	Trampas de fuego de dragón
+405812	Animar gólems
+405592	Piezas recuperadas
+406678	Destrucción táctica
+406725	Bomba de metralla
+404010	Ascuas inestables
+403978	Ola explosiva
+404942	Garras abrasadoras
+
+; Boss: Magmorax
+408358	Erupción catastrófica
+402994	Babas de arrabio
+408839	Calor abrasador
+407879	Rabieta llameante
+403740	Rugido de ignición
+403671	Pisotón sobrecogedor
+409093	Aliento llameante
+404846	Fauces incineradoras
+406712	Lava
+411633	Cadenas ardientes
+411182	Magma explosivo
+
+; Boss: Echo of Neltharion
+410953	Corazón volcánico
+407221	Oscuridad premurosa
+401998	Golpe calamitoso
+402902	Tierra retorcida
+402115	Fisura replicante
+403057	Sucumbir a la corrupción
+401010	Corrupción
+405433	Aniquilación umbría
+407790	Hender sombra
+403049	Barrera de las Sombras
+407936	Hender realidad
+407919	Realidad hendida
+407917	Destrucción de ébano
+
+; Boss: Scalecommander Sarkareth
+401951	Olvido
+401215	El vacío entre las estrellas
+403997	Fragmento de la mente
+407576	Centella astral
+410625	Fin de la existencia
+401383	Aullido opresor
+401810	Oleada resplandeciente
+401500	Bomba agostadora
+406989	Suelo ardiente
+401680	Desintegración en masa
+402050	Aliento abrasador
+401330	Garras ardientes
+401340	Explosión llameante
+404027	Bomba del Vacío
+404218	Fractura del Vacío
+404456	Aliento abisal
+404754	Grito explosivo
+404403	Florecimiento desolador
+404288	Coacción infinita
+411241	Garras de Vacío
+411238	Explosión del Vacío
+403771	Ascensión cósmica
+405486	Tromba de acometida
+403625	Eternidad asoladora
+403520	Abrazo de la nada
+408429	Tajo del Vacío
+408457	Explosión del Vacío
+
+

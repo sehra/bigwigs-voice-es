@@ -11,15 +11,18 @@
 389536	Promesa del Vuelo Verde
 389501	Insignia del Vuelo Rojo
 388863	Vacío de maná
+388911	Tajo amputador
 396812	Detonación mística
 388886	Lluvia Arcana
 388976	Aliento de falla
 388984	Emboscada sañosa
 388392	Lección monótona
 377912	Expulsar intrusos
+378003	Vientos mortales
+377991	Tajo de tormenta
 377389	Llamada de la bandada
+377383	Soplo
 390912	Semillas de detonación
-387862	Pulso de perturbación
 387910	Torbellino astral
 387843	Bomba astral
 387955	Escudo celestial
@@ -50,7 +53,7 @@
 377004	Chirrido ensordecedor
 376997	Picotazo salvaje
 
-; Boss: Echo of Dorogosa
+; Boss: Echo of Doragosa
 389011	Poder sobrecogedor
 388901	Falla Arcana
 374361	Aliento astral
@@ -59,18 +62,41 @@
 
 
 ; -------------------------------------
-;	Zone: Brackenhide Hollow
+; Zone: Brackenhide Hollow
 ; -------------------------------------
 
 ; Boss: Trash
+382435	Tótem putrecanto
+367503	Ráfaga marchitadora
+368081	Marchitándose
+367484	Desgarre sañoso
+368287	Trampa tóxica
 367500	Carcajada espantosa
+382555	Furiatormenta
+372711	Infundir corrupción
+373897	Raíces putrefactas
+373943	Pisotón
+382712	Aliento necrótico
+374057	Invocar tótem
+374544	Ráfaga de descomposición
+374569	Ráfaga
+373929	Azote
 388060	Aliento apestoso
+388046	Torbellino violento
+385832	Arremetida sanguinaria
+385827	Rabia sangrienta
+384974	Carne aromatizada
+385058	Veneno fulminante
+385029	Chirrido
+383399	Oleada putrefacta
+383087	Contagio marchito
 
 ; Boss: Hackclaw's War-Band
 381444	Carga indómita
 377827	Filotormenta
 381694	Sentidos en descomposición
 378029	Frenesí de cuchilladas
+378208	Marcado para la carnicería
 381470	Tótem timoembrujo
 377950	Rápidos de sanación superior
 377965	Delirasangre
@@ -81,6 +107,8 @@
 376811	Rociada de descomposición
 377859	Flema infecciosa
 377559	Látigo de vid
+383875	Parcialmente digerido
+390968	Frenesí famélico
 
 ; Boss: Gutshot
 384827	Llamar hienas
@@ -97,18 +125,35 @@
 
 
 ; -------------------------------------
-;	Zone: Halls of Infusion
+; Zone: Halls of Infusion
 ; -------------------------------------
+
 ; Boss: Trash
+391241	Inmortalidad limitada
+391471	Esporas purificadoras
 374080	Soplo fulminante
+374073	Embate sísmico
 374045	Expulsar
 374339	Grito desmoralizador
+393432	Aluvión de lanzas
 374563	Fulgor
+374389	Tragar toxina de Corno
+395694	Enfoque elemental
 374724	Subducción de magma
+374741	Machaque de magma
+374699	Cauterizar
+375079	Furia giratoria
+374823	Llamada de céfiro
 375384	Tierra resonadora
+385141	Tormenta de truenos
+376171	Mareas refrescantes
 375348	Aliento de ráfaga
+391610	Vientos vinculantes
 375351	Aliento oceánico
+391634	Escalofrío profundo
 375327	Aliento tectónico
+391613	Moho reptante
+377341	Divergencia de marea
 377402	Barrera acuosa
 390290	Crecida relámpago
 
@@ -117,41 +162,50 @@
 384351	Salva de chispas
 384014	Oleada estática
 384524	Puño titánico
-389446	Pulso anulador
 383840	Barrera ablativa
+389446	Pulso anulador
 
 ; Boss: Gulping Goliath
 385551	Tragar
 385187	Croar abrumador
 385531	Embate de tripa
 385442	Efluvios tóxicos
-374389	Tragar toxina de Corno
+;374389	Tragar toxina de Corno
+385743	Famélico y furioso
 
 ; Boss: Khajin the Unyielding
 386757	Granizada
 386559	Oleada glacial
 385963	Choque de Escarcha
+390111	Ciclón de escarcha
 
 ; Boss: Primal Tsunami
 387559	Glóbulos imbuidos
 388424	Furia de la tempestad
 387504	Sacudida borrascosa
+389875	Resaca
 388882	Inundar
 
 
 ; -------------------------------------
-;	Zone: Neltharus
+; Zone: Neltharus
 ; -------------------------------------
 
 ; Boss: Trash
 382708	Guardia volcánica
+384597	Tajo llameante
+372561	Lanza vinculante
 395427	Rugido ardiente
 376186	Machaque eruptivo
+372311	Puño de magma
 372223	Arcilla aliviante
 372201	Aliento agostador
+384161	Mota de combustión
+379406	Lanzar lava
 372296	Batería incandescente
 373084	Acribillamiento agostador
 376200	Detonación de llamas
+378827	Brebaje explosivo
 378282	Núcleo de magma
 381663	Tempestad incandescente
 383651	Ejército fundido
@@ -175,6 +229,7 @@
 375068	Lanzamiento de magma
 375251	Rociado de lava
 375439	Carga abrasadora
+391457	Potenciación de lava
 
 ; Boss: Warlord Sargha
 376780	Escudo de magma
@@ -183,18 +238,21 @@
 377204	Fogón del dragón
 377018	Oro fundido
 377522	Persecución ardiente
+391762	Maldición del tesoro de dragón
 
 
 ; -------------------------------------
-;	Zone: Ruby Life Pools
+; Zone: Ruby Life Pools
 ; -------------------------------------
 
 ; Boss: Trash
 372696	Explosión excavadora
+372735	Embate tectónico
 372743	Escudo de hielo
 372087	Carga en llamas
 372047	Tromba de acero
 385536	Baile de llamas
+373972	Fulgor de gloria
 373693	Bomba viva
 373692	Inferno
 373614	Consunción
@@ -204,15 +262,17 @@
 392395	Fauces de trueno
 391723	Aliento de llamas
 392569	Sangre de magma
+392394	Fauces ígneas
 392486	Tormenta de relámpagos
 392451	Fuego rápido
-		
+
 ; Boss: Melidrussa Chillworn
 373046	Despertar crías
 372682	Escalofrío primigenio
-373680	Sobrecarga de Escarcha
 372851	Tormenta gélida
 396044	Bombas de granizo
+372988	Baluarte de hielo
+373680	Sobrecarga de Escarcha
 
 ; Boss: Kokia Blazehoof
 372863	Ritual de vinculación de llamas
@@ -224,19 +284,21 @@
 ; Boss: Kyrakka and Erkhart Stormvein
 381862	Núcleo infernal
 381525	Aliento de fuego rugidor
+381602	Flema de llamas
 381517	Vientos de cambio
 381516	Ráfaga de nubes interruptora
 381512	Golpetormentas
 
 
 ; -------------------------------------
-;	Zone: The Azure Vault
+; Zone: The Azure Vault
 ; -------------------------------------
 
 ; Boss: Trash
 397726	Graznido
 387564	Vapores místicos
 375596	Crecimiento errático
+375652	Erupción salvaje
 375649	Suelo imbuido
 386546	Terror despierto
 371358	Conocimiento prohibido
@@ -244,6 +306,8 @@
 370764	Fragmentos perforadores
 370766	Ruptura cristalina
 387067	Azote Arcano
+391118	Aliento de Fríoarcano
+396991	Rugido bestial
 
 ; Boss: Leymor
 374364	Brotes de línea Ley
@@ -273,7 +337,7 @@
 
 
 ; -------------------------------------
-;	Zone: The Nokhud Offensive
+; Zone: The Nokhud Offensive
 ; -------------------------------------
 
 ; Boss: Trash
@@ -281,6 +345,7 @@
 384336	Pisotón de guerra
 383823	Reunir al clan
 334610	Cazar presa
+384476	Lluvia de flechas
 386223	Escudo de Tormenta
 386024	Tempestad
 386015	Invocar borrasca
@@ -296,6 +361,9 @@
 387411	Salva de Descarga mortal
 373395	Grito desgarrador
 397394	Trueno mortal
+382277	Carga vehemente
+372147	Lanza devastadora
+382233	Pisotón ancho
 
 ; Boss: Granyth
 388283	Erupción
@@ -321,9 +389,10 @@
 386063	Rugido pavoroso
 382836	Brutalizar
 392198	Vínculo ancestral
+395669	Réplica
 
 ; Boss: Balakar Khan
-376660	Lanza de hierro
+376634	Lanza de hierro
 376683	Estampida de hierro
 375943	Agitación
 375937	Ataque desgarrador
@@ -334,19 +403,25 @@
 
 
 ; -------------------------------------
-;	Zone: Uldaman: Legacy of Tyr
+; Zone: Uldaman: Legacy of Tyr
 ; -------------------------------------
 
 ; Boss: Trash
+386104	Tomo perdido de Tyr
+375500	Bloqueo temporal
 369811	Embate brutal
 369823	Caparazón espinoso
 369400	Resguardo terráneo
 369365	Maldición de piedra
 369366	Atrapado en piedra
 369465	Granizo de piedra
-369411	Ráfaga sónica
+369335	Embate de fisura
 369337	Terreno dificultoso
+369328	Terremoto
+369411	Ráfaga sónica
 381593	Aplauso atronador
+382578	Buenaventura de Tyr
+377500	Célere
 
 ; Boss: The Lost Dwarves
 369573	Flecha pesada
@@ -384,3 +459,5 @@
 376049	Sacudida de alas
 377405	Sumidero de tiempo
 375727	Aliento de arena
+
+

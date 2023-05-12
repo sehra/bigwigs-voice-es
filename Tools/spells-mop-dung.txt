@@ -1,38 +1,52 @@
 ; Type: Mists of Pandaria Dungeon
 
 ; -------------------------------------
-;    Zone: Temple of the Jade Serpent
+; Zone: Temple of the Jade Serpent
 ; -------------------------------------
 
 ; Boss: Trash
 397881	Inundación impetuosa
+397878	Onda corrupta
 397889	Ráfaga de marea
 395859	Alarido mortificador
+114646	Mirada mortificadora
 395872	Soliloquio adormilado
 396001	Exhibición territorial
 396018	Arrebato de ira
 396073	Siesta felina
 396020	Barrera dorada
 397899	Barrido de pierna
+397911	Toque de ruina
 397914	Niebla profanadora
 398300	Llamas de duda
+397931	Garra oscura
+110125	Resolución quebrantada
 
 ; Boss: Wise Mari
 397785	Arrastrar
 397797	Vórtice corrupto
+397793	Géiser corrupto
 -6327	Invocar agua
 106653	Residuo de sha
 115167	Aguas corruptas
 
 ; Boss: Lorewalker Stonestep
 -5549	Intensidad
+396150	Sensación de superioridad
+396152	Sensación de inferioridad
 
 ; Boss: Liu Flameheart
 106823	Golpe del dragón
+106856	Patada del dragón
 106841	Golpe del Dragón de Jade
+106864	Patada del Dragón de Jade
 118540	Ola del Dragón de Jade
+396907	Aliento de fuego de jade
 107110	Fuego de jade
 
 ; Boss: Sha of Doubt
 106113	Toque de la nada
 117665	Límite de la realidad
+117570	Recolectar duda
+
+

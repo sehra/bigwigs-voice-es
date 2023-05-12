@@ -1,0 +1,47 @@
+; Type: Cataclysm Dungeon
+
+; -------------------------------------
+; Zone: The Vortex Pinnacle
+; -------------------------------------
+
+; Boss: Trash
+410999	Explosión presurizada
+410870	Ciclón
+411001	Corriente letal
+411002	Turbulencia
+411005	Ciclón de bombas
+88170	Ráfaga de nubes
+88171	Huracán
+88186	Forma vaporosa
+88182	Veneno aletargante
+411910	Pozo de sanación
+411012	Aliento escalofriante
+88194	Sacudida helada
+413387	Piedra aplastante
+87761	Convocar
+87779	Sanación superior
+87772	Mano de protección
+87762	Latigazo de relámpagos
+413385	Sobrecargar campo derribador
+
+; Boss: Grand Vizier Ertan
+86292	Escudo de ciclón
+413151	Invocar tempestad
+413562	Corriente letal
+
+; Boss: Altairus
+-2425	Llamar al viento
+88282	Viento a favor de Altairus
+88286	A contraviento de Altairus
+88308	Aliento escalofriante
+413275	Frente frío
+413295	Ráfaga descendente
+
+; Boss: Asaad, Caliph of Zephyrs
+86911	Campo inestable de puesta a tierra
+86930	Supremacía de la tormenta
+87622	Cadena de relámpagos
+-2434	Estrella de Hundecielos
+87618	Adhesión estática
+
+

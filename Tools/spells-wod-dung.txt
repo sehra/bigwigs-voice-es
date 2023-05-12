@@ -1,7 +1,7 @@
 ; Type: Warlords of Draenor Dungeon
 
 ; -------------------------------------
-;    Zone: Grimrail Depot
+; Zone: Grimrail Depot
 ; -------------------------------------
 
 ; Boss: Trash
@@ -12,12 +12,13 @@
 176032	Lengua de Fuego
 156301	Mortero Roca Negra
 176127	Tromba de cañón
+176023	Enfadándose
 166335	Escudo de tormenta
 166341	Zona de trueno
 166380	Tajo temerario
 166397	Ataque relámpago Arcano
 
-; Boss: Railmaster Rocketspark
+; Boss: Rocketspark and Borka
 162407	Tromba de misiles X21-01A
 163947	Recuperación
 162171	Mejor posición
@@ -28,10 +29,12 @@
 161092	Agresión descontrolada
 
 ; Boss: Nitrogg Thundertower
-161073	Granada Roca Negra
-160965	Proyectiles de mortero Roca Negra
+163550	Mortero Roca Negra
 160681	Fuego supresivo
 166570	Carga de escoria
+160965	Proyectiles de mortero Roca Negra
+156357	Metralla Roca Negra
+161073	Granada Roca Negra
 
 ; Boss: Skylord Tovra
 161801	Aliento atronador
@@ -42,12 +45,12 @@
 
 
 ; -------------------------------------
-;    Zone: Iron Docks
+; Zone: Iron Docks
 ; -------------------------------------
 
 ; Boss: Trash
 167233	Filotormenta
-173148	Flechas flamígeras
+164632	Flechas ardientes
 172636	Grasa resbaladiza
 172982	Golpe devastador
 172952	Lanzar rompepuertas
@@ -64,51 +67,74 @@
 
 ; Boss: Fleshrender Nok'gar
 164426	Provocación temeraria
-164632	Flechas ardientes
+;164632	Flechas ardientes
+166923	Tromba de flechas dentadas
 164837	Vapuleo salvaje
 164835	Aullido sanguinario
+164734	Golpes cortantes
 
-; Boss: Ahri'ok Dugru
-sphere	Sanguine Sphere
+; Boss: Grimrail Enforcers
+163689	Esfera sanguina
+163705	Restauración súbita
+163740	Sangre corrupta
+163665	Tajo flamígero
+165152	Barrido de lava
+163376	Desfibriladores averiados 9000-XL
+163390	Trampas de ogro
+163379	Gran bum
 
 ; Boss: Oshir
 162415	Hora de alimentarse
+178124	Fuga
+161256	Asalto primigenio
 
 ; Boss: Skulloc
 168227	Machaque gronn
 168929	Tromba de cañón
+168965	Salto rabioso
+168348	Fuego rápido
 
 
 ; -------------------------------------
-;    Zone: Shadowmoon Burial Grounds
+; Zone: Shadowmoon Burial Grounds
 ; -------------------------------------
 
 ; Boss: Trash
 152818	Alivio de las Sombras
+152819	Palabra de las Sombras: flaqueza
+164907	Tajo del Vacío
 152964	Pulso del Vacío
 394512	Erupciones del Vacío
 398151	Concentración siniestra
+398154	Grito de angustia
+398150	Dominación
 153268	Exhumar las criptas
 398206	Explosión de muerte
 156718	Ráfaga necrótica
 153395	Embate corporal
 
 ; Boss: Sadana Bloodfury
-164974	Eclipse oscuro
-153240	Hoja de la aflicción
 153153	Comunión oscura
+153240	Hoja de la aflicción
+153224	Quemadura de las Sombras
+153094	Susurros de la Estrella Oscura
+164974	Eclipse oscuro
 
 ; Boss: Nhallish
 153623	Cambio de plano
 152801	Vórtice del Vacío
-152979	Triturar alma
+152792	Explosión del Vacío
 153067	Devastación del Vacío
+152979	Triturar alma
 
 ; Boss: Bonemaw
-153804	Inhalar
+165578	Aliento de cadáver
 154175	Embate corporal
+153804	Inhalar
 
 ; Boss: Ner'zhul
 154442	Malevolencia
 154350	Augurio de muerte
--9680	Ritual de huesos
+154469	Ritual de huesos
+
+

@@ -1,12 +1,13 @@
 ; Type: Shadowlands Dungeon
 
 ; -------------------------------------
-;    Zone: De Other Side
+; Zone: De Other Side
 ; -------------------------------------
 
 ; Boss: Trash
 328740	Loto oscuro
 333227	Rabia inmortal
+333250	Atracador
 333787	Ira
 334051	Oscuridad eruptiva
 332678	Herida sangrante
@@ -31,7 +32,9 @@
 ; Boss: The Manastorms
 320787	Invocar cristal de poder
 323877	Láser de dedo eco X-tremo
+320141	¡Condenación diabólicaaaaaaa!
 320823	Bomba de ardillas experimental
+320132	Furia de las Sombras
 321061	Tromba de gallina cohete aérea
 
 ; Boss: Dealer Xy'exa
@@ -48,7 +51,7 @@
 
 
 ; -------------------------------------
-;    Zone: Halls of Atonement
+; Zone: Halls of Atonement
 ; -------------------------------------
 
 ; Boss: Trash
@@ -56,11 +59,13 @@
 325799	Fuego rápido
 344993	Barrido serrado
 346866	Aliento de piedra
+342171	Natopiedra fiel
 325523	Impulso mortal
 325876	Maldición de desintegración
 325700	Recoger pecados
 325701	Succionar vida
 326409	Vapulear
+326441	Temblor de pecado
 326607	Convertir en piedra
 326997	Zarpazo poderoso
 326891	Angustia
@@ -70,7 +75,7 @@
 322936	Embate desintegrador
 322943	Arrojar escombros
 322711	Luz de pecado refractada
-322977	Visiones de luz de pecado
+339237	Visiones de luz de pecado
 
 ; Boss: Echelon
 319733	Llamamiento pétreo
@@ -87,13 +92,14 @@
 ; Boss: Lord Chamberlain
 329104	Puerta de las Sombras
 328791	Ritual de tragedia
-323150	Lanzamiento telequinético
+323143	Lanzamiento telequinético
 323236	Sufrimiento desatado
 323437	Estigma de orgullo
+327885	Tormento emergente
 
 
 ; -------------------------------------
-;    Zone: Mists of Tirna Scithe
+; Zone: Mists of Tirna Scithe
 ; -------------------------------------
 
 ; Boss: Trash
@@ -116,7 +122,7 @@
 324987	Mordedura de Velo de Niebla
 325224	Inyección de ánima
 324914	Nutrir al bosque
-325418y	Ácido volátil
+325418	Ácido volátil
 340544	Estimular regeneración
 326046	Estimular resistencia
 321968	Polen desconcertante
@@ -125,6 +131,7 @@
 ; Boss: Ingra Maloch
 323137	Polen desconcertante
 323177	Lágrimas del bosque
+323250	Charco de ánima
 323059	Cólera de droman
 323057	Descarga de espíritu
 328756	Rostro repugnante
@@ -134,14 +141,14 @@
 336499	Acertijo
 321834	Balón prisionero
 321828	Palmas palmitas
-326180	Marca de congelación
-321891y	Fijación de marca de congelación
+341709	Marca de congelación
+321891	Fijación de marca de congelación
 
 ; Boss: Tred'ova
 322651	Expulsión ácida
 322450	Consumo
 322550	Incubación acelerada
-322563y	Presa marcada
+322563	Presa marcada
 326309	Ácido de descomposición
 322614	Vínculo mental
 337235	Pacificación parasitaria
@@ -150,11 +157,14 @@
 
 
 ; -------------------------------------
-;    Zone: Plaguefall
+; Zone: Plaguefall
 ; -------------------------------------
 
 ; Boss: Trash
+330069	Peste concentrada
+330092	Bajapestado
 323572	Peste rodante
+335882	Infestación aferradora
 327515	Aguijón de pantano
 329239	Reptadores espeluznantes
 330403	Sacudida de alas
@@ -166,9 +176,11 @@
 320517	Espinas serradas
 328180	Infección atenazante
 321935	Escoria marchita
+328429	Abrazo aplastante
+319898	Flema vil
 336451	Baluarte de Maldraxxus
+328338	Invocar colmillo de veneno
 328475	Telarañas envolventes
-summon_stealthlings	Stealthlings
 330786	Cadáver rezumante
 330816	Paso fantasmal
 328016	Crecimiento maravilloso
@@ -188,11 +200,12 @@ summon_stealthlings	Stealthlings
 332617	Oleada de pestilencia
 321406	Deflagración virulenta
 
-; Boss: Domina Vendomblade
+; Boss: Domina Venomblade
 332313	Asesinos de linaje
 325552	Tajo citotóxico
 325245	Emboscada de las Sombras
 336258	Presa solitaria
+336301	Trampa arácnida
 
 ; Boss: Margrave Stradama
 322232	Lluvia infecciosa
@@ -201,18 +214,17 @@ summon_stealthlings	Stealthlings
 
 
 ; -------------------------------------
-;    Zone: Sanguine Depths
+; Zone: Sanguine Depths
 ; -------------------------------------
 
 ; Boss: Trash
-341321	Invocar acechador de recolector de ánima
+341331	Drenaje de ánima
 328170	Fractura rocosa
 322429	Tajo mutilador
 322433	Piel de piedra
 335305	Grilletes con púas
 335308	Golpe aplastante
 334558	Trampa volátil
-324103	Ráfaga tenebrosa
 326827	Ataduras aterradoras
 334329	Tajo de barrido
 334326	Porrazo aporreador
@@ -221,6 +233,9 @@ summon_stealthlings	Stealthlings
 320991	Estocada resonante
 334377	Vitela explosiva
 326836	Maldición de supresión
+321105	Absorber sangre vital
+324089	Esencia de Z'rali
+324086	Radiancia brillante
 
 ; Boss: Kryxis the Voracious
 319650	Cabezazo sañoso
@@ -230,7 +245,7 @@ summon_stealthlings	Stealthlings
 
 ; Boss: Executor Tarvold
 322554	Reprender
-322573	Fusionar manifestación
+322574	Fusionar manifestación
 328494	Ánima tocada por el pecado
 323551	Residuo
 
@@ -244,11 +259,10 @@ summon_stealthlings	Stealthlings
 323845	Carga perversa
 323821	Disipación perforadora
 322903	Ráfaga tenebrosa
-324086	Radiancia brillante
 
 
 ; -------------------------------------
-;    Zone: Spires of Ascension
+; Zone: Spires of Ascension
 ; -------------------------------------
 
 ; Boss: Trash
@@ -290,7 +304,109 @@ summon_stealthlings	Stealthlings
 
 
 ; -------------------------------------
-;    Zone: The Necrotic Wake
+; Zone: Tazavesh, the Veiled Market
+; -------------------------------------
+
+; Boss: Trash
+356031	Haz de estasis
+356324	Glifo de contención potenciado
+356548	Pulso radiante
+356001	Haz rebanador
+356929	Cadena de custodia
+356942	A cal y canto
+356404	Aliento de lava
+356407	Pavor ancestral
+357512	Carga frenética
+356967	Revés de hiperluz
+357029	Bomba de hiperluz
+355980	Escudo de refracción
+355934	Barrera de luz sólida
+347721	Abrir jaula
+355637	Golpe calmante
+355642	Andanada de hiperluz
+355782	Multiplicador de fuerza
+355477	Patada poderosa
+355480	Fuerza letal
+358443	Sangre en el agua
+355132	Palito de pescado vigorizador
+355057	Grito de Mrrggllrrgg
+355429	Pisotón de marea
+355584	Pulso cargado
+355577	Chisporroteo
+356133	Superbrebaje
+357226	Estrella errante
+357238	Púlsar errante
+357260	Falla inestable
+357284	Revigorizar
+
+; Boss: Zo'phex the Sentinel
+347949	Interrogatorio
+345990	Celda de contención
+345770	Incautación de contrabando
+346204	Seguridad armada
+
+; Boss: The Grand Menagerie
+349627	Gula
+350010	Ánima devorada
+349663	Presa del hambre
+349797	Consumo copioso
+349954	Protocolo de purificación
+349934	Protocolo de flagelación
+349987	Protocolo de descarga
+350101	Cadenas de condenación
+350086	Aniquilación giratoria
+
+; Boss: Mailroom Mayhem
+346286	Líquidos peligrosos
+346742	Torbellino postal
+346962	Giro postal
+346947	Mercancía inestable
+346296	Inestabilidad
+
+; Boss: Myza's Oasis
+356482	Comida podrida
+353783	Teletransporte
+353835	Supresión
+350916	Embate de seguridad
+353706	Tumulto
+350922	Grito amenazador
+350919	Control de masas
+355438	Chispa de supresión
+359028	Embate de seguridad
+
+; Boss: So'azmi
+357188	Técnica doble
+347610	Shuri
+347249	Dividir
+347623	Hoja rauda
+
+; Boss: Hylbrande
+353312	Ráfaga purificadora
+346116	Golpes tajantes
+347094	Colisión titánica
+346959	Fuego purgador
+346766	Ciclo de desinfección
+
+; Boss: Timecap'n Hooktail
+347149	Aliento infinito
+347151	Barrido con gancho
+354334	¡Enganche!
+352345	Disparo con ancla
+347371	Disparo de racimo
+350517	Doble carga
+
+; Boss: So'leah
+351124	Invocar asesinos
+353635	Estrella en colapso
+350804	Energía en colapso
+350796	Chispa de hiperluz
+351086	Poder sobrecogedor
+351096	Fragmentación de energía
+351119	Tormenta de shurikens
+
+
+; -------------------------------------
+; Zone: The Necrotic Wake
 ; -------------------------------------
 
 ; Boss: Trash
@@ -298,9 +414,12 @@ summon_stealthlings	Stealthlings
 323190	Escudo de carne
 323347	Oscuridad aferradora
 322756	Cólera de Zolramus
+321780	Animar a los muertos
 328667	Salva de descarga de Escarcha
 324293	Chillido estridente
+343470	Escudo triturahuesos
 335143	Alivio de huesos
+320822	Trato final
 335141	Velo oscuro
 327396	Destino lúgubre
 324394	Trizar
@@ -328,12 +447,12 @@ summon_stealthlings	Stealthlings
 320012	Frenesí profano
 320171	Descarga necrótica
 
-; Boss: Surgeon Stichflesh
+; Boss: Surgeon Stitchflesh
 320358	Despertar creación
 322681	Gancho de carnicero
 320376	Mutilar
 334476	Icor embalsamante
-320200y	Coseaguja
+320200	Coseaguja
 334488	Sajar carne
 320359	Escapar
 343556	Fijación mórbida
@@ -346,15 +465,38 @@ summon_stealthlings	Stealthlings
 
 
 ; -------------------------------------
-;    Zone: Theater of Pain
+; Zone: Theater of Pain
 ; -------------------------------------
 
 ; Boss: Trash
-330562	Grito desmoralizador
+333241	Rabieta enfurecida
+319290	Escudo de carne
+330700	Añublo putrefacto
 341969	Descarga marchitadora
+341949	Añublo marchitador
+330586	Devorar carne
+332836	Golpe cortante
 330614	Erupción vil
+342139	Trance de batalla
+342125	Salto brutal
+342135	Rugido interruptor
+317605	Torbellino
+337037	Hoja giratoria
+332708	Golpe en el suelo
+333861	Hoja rebotadora
+334023	Arremetida sanguinaria
+330562	Grito desmoralizador
+333827	Pisotón sísmico
+331275	Guardia inquebrantable
+333845	Arremetida desequilibrante
+330716	Tormenta de almas
+330725	Vulnerabilidad a las Sombras
 330868	Salva de descarga necrótica
+333708	Corrupción de alma
 342675	Lanza ósea
+333294	Vientos de la muerte
+331223	Tormenta de huesos
+331237	Púas óseas
 
 ; Boss: An Affront of Challengers
 320063	Embate
@@ -382,116 +524,19 @@ summon_stealthlings	Stealthlings
 339415	Pisotón ensordecedor
 
 ; Boss: Kul'tharok
-319521y	Extraer alma
-319637y	Alma reclamada
+319521	Extraer alma
+319637	Alma reclamada
 319626	Parásito fantasmal
 319669	Alcance espectral
 
 ; Boss: Mordretha, the Endless Empress
 324079	Guadaña segadora
 323608	Devastación oscura
-323683	Falla enredadora
+323825	Falla enredadora
+323831	Agarre de la muerte
 324449	Muerte manifiesta
 339573	Ecos de matanza
 339706	Carga fantasmal
 339550	Eco de batalla
 
 
-; -------------------------------------
-;	Zone: Tazavesh the Veiled Market
-; -------------------------------------
-
-; Boss: Trash
-356031	Haz de estasis
-356324	Glifo de contención potenciado
-356001	Haz rebanador
-356929	Cadena de custodia
-356942	A cal y canto
-356404	Aliento de lava
-356407	Pavor ancestral
-357512	Carga frenética
-356967	Revés de hiperluz
-357029	Bomba de hiperluz
-355980	Escudo de refracción
-355934	Barrera de luz sólida
-347721	Abrir jaula
-355637	Golpe calmante
-355642	Andanada de hiperluz
-355782	Multiplicador de fuerza
-355477	Patada poderosa
-355480	Fuerza letal
-355132	Palito de pescado vigorizador
-355057	Grito de Mrrggllrrgg
-355429	Pisotón de marea
-355584	Pulso cargado
-355577	Chisporroteo
-356133	Superbrebaje
-357226	Estrella errante
-357238	Púlsar errante
-357260	Falla inestable
-357284	Revigorizar
-
-; Boss: Zo'phex the Sentinel
-347949	Interrogatorio
-345990	Celda de contención
-345770	Incautación de contrabando
-346204	Seguridad armada
-
-; Boss: Myza's Oasis
-356482	Comida podrida
-353783	Teletransporte
-353835	Supresión
-350916	Embate de seguridad
-353706	Tumulto
-350922	Grito amenazador
-350919	Control de masas
-355438	Chispa de supresión
-359028	Embate de seguridad
-
-; Boss: Mailroom Mayhem
-346286	Líquidos peligrosos
-346742	Torbellino postal
-346962	Giro postal
-346947	Mercancía inestable
-
-; Boss: The Grand Menagerie
-349627	Gula
-350010y	Ánima devorada
-349663	Presa del hambre
-349797	Consumo copioso
-349954	Protocolo de purificación
-349934	Protocolo de flagelación
-349987	Protocolo de descarga
-350101	Cadenas de condenación
-350086	Aniquilación giratoria
-
-; Boss: So'azmi
-357188	Técnica doble
-347610	Shuri
-347249	Dividir
-347623	Hoja rauda
-
-; Boss: Hylbrande
-;346971	[DNT] Summon Vault Defender
-353312	Ráfaga purificadora
-346116	Golpes tajantes
-347094	Colisión titánica
-346957	Fuego purgador
-346766	Ciclo de desinfección
-
-; Boss: Timecap'n Hooktail
-347149	Aliento infinito
-347151	Barrido con gancho
-354334	¡Enganche!
-352345y	Disparo con ancla
-347371	Disparo de racimo
-350517	Doble carga
-
-; Boss: So'leah
-351124	Invocar asesinos
-353635	Estrella en colapso
-350804	Energía en colapso
-350796	Chispa de hiperluz
-351086	Poder sobrecogedor
-351096	Fragmentación de energía
-351119	Tormenta de shurikens
