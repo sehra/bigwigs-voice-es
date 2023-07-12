@@ -496,17 +496,21 @@
 
 ; Boss: Trash
 265568	Presagio oscuro
+278755	Desesperación angustiosa
 265089	Reconstitución oscura
 265091	Ofrenda de G'huun
 265540	Bilis podrida
+265016	Cosecha de sangre
 265019	Tajo salvaje
 265081	Grito de guerra
+265377	Trampa con gancho
 278961	Mente putrefacta
 266107	Sed de sangre
 266106	Chirrido sónico
 265668	Ola de descomposición
 272183	Resucitar a los muertos
 266209	Frenesí perverso
+266265	Abrazo perverso
 413044	Ecos oscuros
 265487	Salva de descarga de las Sombras
 265433	Maldición fulminante

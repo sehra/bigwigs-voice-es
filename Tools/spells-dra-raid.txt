@@ -205,6 +205,17 @@
 ; -------------------------------------
 
 ; Boss: Trash
+408975	Acero danzante
+406282	Ráfaga onírica
+406210	Flor sanadora
+408811	Formar filas
+411439	Golpe hendiente
+406399	Zona de Poderío azur
+411900	Fluido de penumbra
+411905	Hervor de llamarada
+411892	Bilis mucilaginosa
+411808	Eyección de baba
+412498	Charco paralizante
 
 ; Boss: Kazzara, the Hellforged
 401319	Carnicería Aceroinfernal
@@ -263,14 +274,12 @@
 401867	Escudo volcánico
 401108	Carga de fénix
 401381	Foco llameante
-407017	Vendaval vigoroso
+407009	Vendaval vigoroso
 406585	Furia de Ignara
 410516	Embate catastrófico
 410351	Cayada llameante
 
 ; Boss: Rashok, the Elder
-410070	Liberar Pirosombra
-410075	Energía de Pirosombra
 405316	Furia antigua
 405821	Embate abrasador
 403543	Ola de lava
@@ -282,9 +291,10 @@
 407597	Aplastamiento terráneo
 401419	Conducto del Anciano
 405091	Ira llameante
+410070	Liberar Pirosombra
+410075	Energía de Pirosombra
 
 ; Boss: The Vigilant Steward, Zskarn
-409942	Protocolo de eliminación
 405736	Trampas de fuego de dragón
 405812	Animar gólems
 405592	Piezas recuperadas
@@ -293,6 +303,7 @@
 404010	Ascuas inestables
 403978	Ola explosiva
 404942	Garras abrasadoras
+409942	Protocolo de eliminación
 
 ; Boss: Magmorax
 408358	Erupción catastrófica
@@ -315,6 +326,7 @@
 402115	Fisura replicante
 403057	Sucumbir a la corrupción
 401010	Corrupción
+407036	Oculto en el Vacío
 405433	Aniquilación umbría
 407790	Hender sombra
 403049	Barrera de las Sombras
@@ -331,6 +343,7 @@
 401383	Aullido opresor
 401810	Oleada resplandeciente
 401500	Bomba agostadora
+402746	Ascuas a la deriva
 406989	Suelo ardiente
 401680	Desintegración en masa
 402050	Aliento abrasador
@@ -344,11 +357,14 @@
 404288	Coacción infinita
 411241	Garras de Vacío
 411238	Explosión del Vacío
-403771	Ascensión cósmica
+406428	Motas de olvido
+403741	Ascensión cósmica
 405486	Tromba de acometida
 403625	Eternidad asoladora
 403520	Abrazo de la nada
 408429	Tajo del Vacío
 408457	Explosión del Vacío
+404269	Poderío de ébano
+404769	Golpe vacío
 
 

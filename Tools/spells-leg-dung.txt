@@ -405,7 +405,9 @@
 ; -------------------------------------
 
 ; Boss: Trash
+183407	Salpique de ácido
 183465	Bilis viscosa
+226388	Moco rancio
 202181	Mirada de piedra
 226296	Fragmentos perforadores
 193505	Fractura
@@ -418,14 +420,17 @@
 183548	Llamada de gusano
 193803	Metamorfosis
 183539	Lengua con púas
+188587	Antracito
+200154	Odio ardiente
 193585	Atado
 226406	Flagelo de ascuas
 201983	Frenesí
 
 ; Boss: Rokmora
-188169	Fragmentos de cuchilla
 188114	Trizar
 192800	Polvo asfixiante
+188169	Fragmentos de cuchilla
+198024	Suelo cristalino
 
 ; Boss: Ularogg Cragshaper
 198564	Forma de la montaña
@@ -448,7 +453,7 @@
 200404	Ola de magma
 200551	Púas de cristal
 216407	Géiser de lava
-200154	Odio ardiente
+;200154	Odio ardiente
 200672	Cristal rajado
 
 

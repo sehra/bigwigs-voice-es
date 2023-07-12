@@ -6,6 +6,7 @@
 
 ; Boss: Trash
 410999	Explosión presurizada
+410873	Viento impetuoso
 410870	Ciclón
 411001	Corriente letal
 411002	Turbulencia
