@@ -206,7 +206,7 @@
 
 ; Boss: Trash
 408975	Acero danzante
-406282	Ráfaga onírica
+418113	Ráfaga onírica
 406210	Flor sanadora
 408811	Formar filas
 411439	Golpe hendiente

@@ -504,7 +504,9 @@
 419511	Enlace temporal
 407535	Desplegar zapadores goblin
 407205	Mortero volátil
+418684	Desplegar bombarderos enanos
 407891	Ola de sanación
+417011	Luz Sagrada
 407124	Grito alentador
 407125	Embate hendedor
 412378	Arenas vertiginosas

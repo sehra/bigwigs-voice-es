@@ -42,7 +42,7 @@
 86911	Campo inestable de puesta a tierra
 86930	Supremacía de la tormenta
 87622	Cadena de relámpagos
--2434	Estrella de Hundecielos
+413264	Nova Hundecielos
 87618	Adhesión estática
 
 
