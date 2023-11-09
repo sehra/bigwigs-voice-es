@@ -463,6 +463,7 @@
 ; Boss: Emberon
 368990	Llamas purgantes
 369043	Infusión
+369038	Resguardo titánico
 369110	Ascuas inestables
 369061	Pisotón abrasador
 
@@ -500,19 +501,24 @@
 417481	Desplazar cronosecuencia
 419351	Exhalación bronce
 418200	Quemadura infinita
+411300	Salva de descarga de pescado
+412156	Bombardeo
+412200	Gigaexplosión electropotenciada
 419516	Erupción cronal
 419511	Enlace temporal
 407535	Desplegar zapadores goblin
 407205	Mortero volátil
 418684	Desplegar bombarderos enanos
 407891	Ola de sanación
+407906	Terremoto
 417011	Luz Sagrada
+417002	Consagración
 407124	Grito alentador
 407125	Embate hendedor
 412378	Arenas vertiginosas
 
 ; Boss: Chronikar
-413105	Destrozo de eón
+413142	Destrozo de eón
 413013	Cronocorte
 401421	Pisotón de arena
 
@@ -555,22 +561,22 @@
 405279	Rostros familiares
 406481	Trampas temporales
 401667	Estasis temporal
+401200	Fijar
 
 ; Boss: Time-Lost Battlefield
-410234	Filotormenta
+410235	Filotormenta
 418059	Golpes mortales
 418054	Ola de choque
 418047	¡POR LA ALIANZA!
-418062	Grito de batalla
 410254	Decapitar
 408227	Ola de choque
 418046	¡POR LA HORDA!
-410496	Grito de guerra
 
 ; Boss: Chrono-Lord Deios
 416152	Invocar guardián infinito
 412027	Quemadura cronal
 410904	Orbe de infinidad
+410908	Nova de infinidad
 416139	Aliento temporal
 416264	Corrupción de los Infinitos
 

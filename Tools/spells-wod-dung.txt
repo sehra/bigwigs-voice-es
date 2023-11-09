@@ -138,3 +138,49 @@
 154469	Ritual de huesos
 
 
+; -------------------------------------
+; Zone: The Everbloom
+; -------------------------------------
+
+; Boss: Trash
+
+; Boss: Witherbark
+164275	Corteza quebradiza
+164438	Energizar
+164357	Aliento reseco
+164294	Crecimiento descontrolado
+-10098	Crecimiento descontrolado
+
+; Boss: Ancient Protectors
+168082	Revitalizar
+168105	Mareas rápidas
+168041	Piel de brezo
+167977	Zona de zarzas
+168383	Tajo
+168520	Entereza del modelador
+
+; Boss: Archmage Sol
+168885	Crecimiento parasitario
+166492	Flor de fuego
+166726	Lluvia helada
+
+; Boss: Xeri'tac
+172643	Descender
+169376	Picadura venenosa
+169382	Salva gaseosa
+169248	Consumir
+-10502	Pálido enloquecido por el veneno
+169233	Inhalar
+-10492	Arañita tóxica
+173080	Fijar
+
+; Boss: Yalnu
+169179	Arremetida colosal
+169120	Fuente de vida
+169613	Génesis
+169240	Enredo
+170132	Enredo
+169878	Aliento nocivo
+169929	Flagelo de madera
+
+

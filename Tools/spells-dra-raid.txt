@@ -216,6 +216,8 @@
 411892	Bilis mucilaginosa
 411808	Eyección de baba
 412498	Charco paralizante
+409576	Ataduras oscuras
+409612	Torrente umbrío
 
 ; Boss: Kazzara, the Hellforged
 401319	Carnicería Aceroinfernal
@@ -366,5 +368,165 @@
 408457	Explosión del Vacío
 404269	Poderío de ébano
 404769	Golpe vacío
+
+
+; -------------------------------------
+; Zone: Amirdrassil, the Dream's Hope
+; -------------------------------------
+
+; Boss: Trash
+
+; Boss: Gnarlroot
+421898	Pestilencia llameante
+422053	Espinas de sombras
+421972	Fuego controlado
+422023	Tierra agostada por las sombras
+424352	Tromba de fuego aterrador
+422026	Grito de tortura
+422039	Tajo de llama de las Sombras
+421038	Carbonizado
+424970	Marga tóxica
+421840	Agonía desarraigada
+425816	Polen llameante
+425820	Savia llameante
+
+; Boss: Igira the Cruel
+414340	Cuchillas empapadas
+414888	Lanza virulenta
+414770	Tormento virulento
+416996	Filo giratorio
+422776	Marcado para el tormento
+414367	Tormento creciente
+419462	Mortificación de carne
+419048	Final ruinoso
+416048	Destrucción umbría
+424456	Vísceras aplastantes
+415623	Parar corazón
+426056	Ruptura vital
+
+; Boss: Volcoross
+421082	Hervor infernal
+421672	Furia de serpiente
+421207	Espiral de llamas
+420933	Inundación de las Tierras de Fuego
+421616	Regurgitar volcánico
+420415	Choque Abrasacola
+423494	Marea ígnea
+419054	Veneno de magma
+423117	Fauces del cataclismo
+421703	Cólera de serpiente
+424218	Ira combustionadora
+
+; Boss: Council of Dreams
+418187	Renacer
+420525	Ira ciega
+425114	Ira osuna
+420948	Carga arrolladora
+423420	Carga arrolladora
+421022	Garras agonizantes
+421570	Saltar
+421292	Matorral constrictor
+420937	Tromba despiadada
+420671	Flor nociva
+426390	Polen corrosivo
+420858	Jabalina venenosa
+421029	Canción del dragón
+421032	Desenlace cautivador
+418720	Bomba de Polimorfia
+421024	Vientos esmeralda
+423551	Soplo caprichoso
+
+; Boss: Larodar, Keeper of the Flame
+417653	Fuerza de la Naturaleza ígnea
+418520	Astillas virulentas
+426524	Floritura ígnea
+422614	Raíces agostadoras
+420544	Persecución agostadora
+426387	Gujaespino agostador
+418637	Carga furiosa
+423719	Furia de la naturaleza
+426206	Espinas llameantes
+426249	Coalescencia llameante
+426256	Coalescencia llameante
+417634	Inferno enfurecido
+417632	Suelo ardiente
+421316	Llama acuciante
+427252	Lluvia de rescoldos
+427299	Destello ígneo
+427306	Encerrado en ceniza
+427343	Remolino de fuego
+421318	Explosión de humo ardiente
+421594	Asfixia humeante
+421325	Llamada cinérea
+421407	Pavesa abrasadora
+
+; Boss: Nymue, Weaver of the Cycle
+420554	Matriz Verdeante
+423195	Inflorescencia
+420846	Continuo
+429615	Telar inminente
+420907	Lluvia veridiana
+426519	Carga de tejedora
+426855	Florecimiento pleno
+429108	Embate pesado
+425370	Floritura radial
+
+; Boss: Smolderon
+421343	Marca de condenación
+421656	Herida cauterizante
+422577	Secuelas abrasadoras
+421455	Recalentado
+421969	Olas de llamas
+422691	Géiseres de lava
+421532	Suelo humeante
+426725	Destrucción inexorable
+422277	Devorar esencia
+421858	Esencia prendida
+422172	Mundo en llamas
+425885	Inferno buscador
+
+; Boss: Tindral Sageswift, Seer of the Flame
+422000	Cólera abrasadora
+423260	Champiñón llameante
+424581	Crecimiento ígneo
+424499	Tierra agostadora
+420236	Estrella fugaz
+422503	Fragmentos de estrella
+424495	Enredo masivo
+420540	Encarnación: Lechúcico lunar
+421398	Rayo de Fuego
+424258	Esencia del Sueño
+422509	Pluma potenciada
+421939	Nube agostadora
+424140	Supernova
+422115	Encarnación: Árbol de llamas
+424579	Ascua supresora
+423265	Germinación llameante
+424665	Semilla de llama
+422325	Árbol llameante
+424582	Ceniza persistente
+
+; Boss: Fyrakk the Blazing
+419506	Tormenta de Fuego
+419504	Llamas enfurecidas
+420422	Fuego salvaje
+417455	Desgarrar el Sueño
+425483	Incinerado
+414186	Llamarada
+417807	En llamas
+417431	Mordedura de Fyr'alath
+417443	Marca de Fyr'alath
+419144	Corromper
+410223	Aliento de llama de las Sombras
+412761	Encarnación
+421937	Orbes de llama de las Sombras
+429866	Erupción de llama de las Sombras
+422518	Tormenta de fuego superior
+419123	Descenso de la Llama
+422524	Devastación de llama de las Sombras
+423717	Floración
+422935	Tormenta de Fuego eterna
+422837	Rugido apocalíptico
+425492	Fauce infernal
 
 

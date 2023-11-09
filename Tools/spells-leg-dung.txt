@@ -63,23 +63,30 @@
 ; -------------------------------------
 
 ; Boss: Trash
-200248	Ataque relámpago Arcano
-200261	Golpe rompehuesos
-197974	Golpe machacahuesos
-214003	Golpe de gracia
-200343	Tromba de flechas
-200291	Baile de cuchillos
+200084	Hoja de alma
+200105	Sacrificar alma
 225573	Alivio oscuro
+194966	Ecos de almas
+196916	Lanzar guja
+225908	Veneno de alma
+200261	Golpe rompehuesos
+200291	Baile de cuchillos
+200343	Tromba de flechas
+200248	Ataque relámpago Arcano
+200913	Indigestión
+204896	Drenar vida
 203163	Azuzar murciélagos
 227913	Frenesí vil
+214003	Golpe de gracia
+214001	Picado del cuervo
 
 ; Boss: The Amalgam of Souls
-196078	Llamar almas
 194956	Segar alma
-196587	Ráfaga de almas
-194966	Ecos de almas
 195254	Guadaña espiral
+;194966	Ecos de almas
+196078	Llamar almas
 196930	Atracón de almas
+196587	Ráfaga de almas
 
 ; Boss: Illysanna Ravencrest
 197418	Corte vengativo
@@ -87,22 +94,23 @@
 197546	Guja brutal
 197696	Haces oculares
 197797	Ataque relámpago Arcano
-;197974	Golpe machacahuesos
+197974	Golpe machacahuesos
 
 ; Boss: Smashspite the Hateful
 198073	Pisotón sacudetierra
-198245	Gancho brutal
 198079	Mirada odiosa
+224188	Carga odiosa
+198245	Gancho brutal
 198446	Vómito vil
 
 ; Boss: Lord Kur'talos Ravencrest
 198635	Corte infalible
-198820	Explosión oscura
 198641	Hoja giratoria
-199193	Argucia de Señor del Terror
-202019	Salva de descarga de las Sombras
+198820	Explosión oscura
 201733	Enjambre punzante
 199143	Nube de hipnosis
+199193	Argucia de Señor del Terror
+202019	Salva de descarga de las Sombras
 
 
 ; -------------------------------------
@@ -218,37 +226,51 @@
 ; -------------------------------------
 
 ; Boss: Trash
+200630	Chirrido desconcertante
 200658	Lluvia estelar
 200684	Toxina de la Pesadilla
 200768	Carga propulsora
 200580	Rugido enloquecedor
 218759	Charco de corrupción
+201129	Explosión de raíces
+198904	Lanza venenosa
+198910	Champiñón repugnante
+204243	Ojo atormentador
+204246	Miedo atormentador
 201226	Ataque de sangre
 201272	Bomba de sangre
 225562	Metamorfosis de sangre
+201839	Maldición de aislamiento
 201399	Inferno aterrador
+201365	Drenaje de alma negra
 
 ; Boss: Archdruid Glaidalis
 198379	Desenfreno primigenio
-198408	Ocaso
+212464	Ocaso
+196354	Salto doloroso
 196376	Lágrima dolorosa
+198477	Fijar
 
 ; Boss: Oakheart
-204646	Agarre aplastante
+204611	Agarre aplastante
+212786	Desarraigar
 204574	Raíces estranguladoras
 204667	Aliento de la Pesadilla
 204666	Tierra destrozada
 
 ; Boss: Dresaron
+191325	Aliento de corrupción
+199389	Rugido sacudetierra
 199345	Corriente inferior
 199460	Desprendimiento de rocas
-191325	Aliento de corrupción
 
 ; Boss: Shade of Xavius
-200050	Pesadilla apocalíptica
-200289	Paranoia creciente
-200185	Descarga de la Pesadilla
+200182	Destripe degenerativo
 200238	Alimentarse de los débiles
+200185	Descarga de la Pesadilla
+200243	Pesadilla lúcida
+200289	Paranoia creciente
+200050	Pesadilla apocalíptica
 
 
 ; -------------------------------------
@@ -443,8 +465,9 @@
 210150	Arcada tóxica
 199178	Lengua con pinchos
 199775	Frenesí
--12527	Devoto Hablagusanos
+199817	Llamar a esbirros
 199246	Voraz
+198963	Cielos pútridos
 
 ; Boss: Dargrul the Underking
 200700	Derrumbamiento

@@ -46,3 +46,31 @@
 87618	Adhesión estática
 
 
+; -------------------------------------
+; Zone: Throne of the Tides
+; -------------------------------------
+
+; Boss: Trash
+76820	Maleficio
+76813	Ola de sanación
+75992	Oleada de relámpagos
+76590	Machaque de las Sombras
+76634	Marejada
+
+; Boss: Lady Naz'jar
+75683	Marea alta
+
+; Boss: Commander Ulthok, the Festering Prince
+76047	Fisura oscura
+76026	Exprimir
+76094	Maldición de fatiga
+76100	Enfurecer
+
+; Boss: Mindbender Ghur'sha
+76207	Esclavizar
+76307	Absorber magia
+76230	Niebla mental
+
+; Boss: Ozumat
+
+

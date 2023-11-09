@@ -15,23 +15,27 @@
 253544	Manto de Bwonsamdi
 253517	Palabra de alivio
 253583	Encantamiento ígneo
+255626	Erupción purulenta
 
 ; Boss: Priestess Alun'za
 255558	Sangre corrupta
 255577	Transfusión
 255579	Garras doradas
 255582	Oro fundido
-258709	Oro corrupto
+277072	Oro corrupto
+259205	Espíritu de oro
 
 ; Boss: Vol'kaal
 250258	Salto tóxico
 259572	Hedor nocivo
+259531	Reanimar
 250241	Descomposición rápida
 250585	Charco tóxico
 
 ; Boss: Rezan
 255371	Rostro aterrador
 257407	Perseguir
+255421	Devorar
 255434	Dientes serrados
 
 ; Boss: Yazma
@@ -73,6 +77,7 @@
 
 ; Boss: Skycap'n Kragg
 255952	Carrrga
+256056	Engendrar loro
 256005	Bombardeo traicionero
 256016	Cubierta traicionera
 272046	Ataque en picado
@@ -589,41 +594,45 @@
 ; -------------------------------------
 
 ; Boss: Trash
-265407	Campanilla para la cena
-271174	Arcadas
-264456	Explosivo de seguimiento
 263943	Grabar
 263905	Tajo marcador
+265368	Defensa vivaz
+265372	Cuchilla de las Sombras
+266036	Drenar esencia
+265352	Añublo de sapo
+265346	Mirada pálida
 263891	Espinas enredadoras
-264525	Trampa de metralla
-264520	Serpiente mutiladora
-265759	Púa astillada
-265760	Tromba espinosa
-265741	Drenar esencia de alma
+264396	Talismán espectral
+264390	Hechizo de vinculación
 264050	Espina infectada
 278474	Reconstrucción de efigie
 264038	Desarraigar
 264556	Golpe desgarrador
 264150	Trizar
-265352	Añublo de sapo
-265346	Mirada pálida
-263959	Salva de almas
-263961	Velas de amparo
-265368	Defensa vivaz
-264396	Talismán espectral
-264390	Hechizo de vinculación
+265759	Púa astillada
+265760	Tromba espinosa
+265741	Drenar esencia de alma
+278444	Infestar
+271174	Arcadas
+265407	Campanilla para la cena
+264456	Explosivo de seguimiento
+264525	Trampa de metralla
+264520	Serpiente mutiladora
+264407	Rostro horripilante
 264105	Señal rúnica
 265876	Salva ruinosa
 265880	Marca pérfida
 265881	Toque putrefacto
+263959	Salva de almas
+263961	Velas de amparo
 
 ; Boss: Heartsbane Triad
-260805	Iris de enfoque
-260773	Ritual temible
-260907	Manipulación de alma
+260741	Ortigas dentadas
 260703	Señal rúnica inestable
 268086	Aura de terror
-260741	Ortigas dentadas
+260907	Manipulación de alma
+260805	Iris de enfoque
+260773	Ritual temible
 
 ; Boss: Soulbound Goliath
 260508	Machacar
@@ -635,7 +644,7 @@
 ; Boss: Raal the Gluttonous
 264734	Consumirlo todo
 264931	Llamar a sirviente
-265005	Sirviente consumido
+265005	Bien alimentado
 264923	Ablandar
 264694	Expulsión pútrida
 
