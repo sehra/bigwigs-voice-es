@@ -53,24 +53,44 @@
 ; Boss: Trash
 76820	Maleficio
 76813	Ola de sanación
+426663	Persecución voraz
+426741	Rompecaparazones
+428542	Profundidades aplastantes
+426684	Andanada volátil
+426645	Tromba de ácido
 75992	Oleada de relámpagos
+426783	Tortura mental
+426808	Explosión de la nada
 76590	Machaque de las Sombras
+429021	Machacar
 76634	Marejada
 
 ; Boss: Lady Naz'jar
 75683	Marea alta
+428054	Explosión de choque
+427771	Géiseres
+428374	Tempestad enfocada
+428263	Descarga de agua
+428293	Aluvión de tridentes
 
 ; Boss: Commander Ulthok, the Festering Prince
-76047	Fisura oscura
-76026	Exprimir
-76094	Maldición de fatiga
-76100	Enfurecer
+427672	Fisura burbujeante
+427456	Despertar moco
+427668	Ola de choque degenerativa
+427670	Zarpa aplastante
 
 ; Boss: Mindbender Ghur'sha
-76207	Esclavizar
-76307	Absorber magia
-76230	Niebla mental
+429051	Furiaterrenal
+429037	Tótem de aluvión tormentoso
+429048	Choque de llamas
+429172	Visión terrorífica
 
 ; Boss: Ozumat
+428407	Tromba tintórea
+428868	Rugido pútrido
+428530	Escupitajo turbio
+428889	Descarga fétida
+428668	Flujo purificador
+428594	Inundación de inmundicia
 
 

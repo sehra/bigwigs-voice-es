@@ -104,7 +104,6 @@
 
 ; Boss: Kurog Grimtotem
 371981	Oleada elemental
-374861	Cambio primigenio
 372158	Golpe hendiente
 382563	Ráfaga de magma
 373329	Ruptura de magma
@@ -326,7 +325,6 @@
 401998	Golpe calamitoso
 402902	Tierra retorcida
 402115	Fisura replicante
-403057	Sucumbir a la corrupción
 401010	Corrupción
 407036	Oculto en el Vacío
 405433	Aniquilación umbría
@@ -517,7 +515,6 @@
 417431	Mordedura de Fyr'alath
 417443	Marca de Fyr'alath
 419144	Corromper
-410223	Aliento de llama de las Sombras
 412761	Encarnación
 421937	Orbes de llama de las Sombras
 429866	Erupción de llama de las Sombras
@@ -525,8 +522,8 @@
 419123	Descenso de la Llama
 422524	Devastación de llama de las Sombras
 423717	Floración
-422935	Tormenta de Fuego eterna
 422837	Rugido apocalíptico
+410223	Aliento de llama de las Sombras
 425492	Fauce infernal
 
 

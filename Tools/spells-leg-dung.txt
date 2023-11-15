@@ -520,7 +520,6 @@
 232153	¡Kara Kazham!
 
 ; Boss: Maiden of Virtue
-227817	Baluarte Sagrado
 227823	Cólera Sagrada
 227800	Choque Sagrado
 227809	Descarga Sagrada

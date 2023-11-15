@@ -153,16 +153,15 @@
 
 ; Boss: Ancient Protectors
 168082	Revitalizar
-168105	Mareas rápidas
-168041	Piel de brezo
-167977	Zona de zarzas
-168383	Tajo
-168520	Entereza del modelador
+427498	Furia torrencial
+427459	Flor tóxica
+427509	Furia terrestre
+427510	Carga nociva
 
 ; Boss: Archmage Sol
-168885	Crecimiento parasitario
-166492	Flor de fuego
-166726	Lluvia helada
+427899	Tormenta de descarga de ceniza
+428082	Fusión glacial
+428139	Compresión espacial
 
 ; Boss: Xeri'tac
 172643	Descender
@@ -176,11 +175,8 @@
 
 ; Boss: Yalnu
 169179	Arremetida colosal
-169120	Fuente de vida
+428823	Erupción verdeante
 169613	Génesis
-169240	Enredo
-170132	Enredo
-169878	Aliento nocivo
 169929	Flagelo de madera
 
 
