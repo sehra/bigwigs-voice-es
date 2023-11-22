@@ -29,6 +29,12 @@
 391026	Congelación profunda
 389960	Hielo apresador
 
+; Boss: Aurostor, The Hibernator
+420895	Azote tambaleante
+420925	Arrebato pulverizador
+421059	Rabieta de cascarrabias
+421260	Rugido soñoliento
+
 
 ; -------------------------------------
 ; Zone: Vault of the Incarnates
@@ -463,6 +469,8 @@
 420554	Matriz Verdeante
 420846	Continuo
 429615	Telar inminente
+429983	Crecimiento en oleada
+430563	Ephemeral Flora
 420907	Lluvia veridiana
 427722	Carga de tejedora
 426855	Florecimiento pleno
@@ -470,6 +478,8 @@
 429108	Embate pesado
 422721	Floritura radial
 429798	Desgarro verdeante
+-28482	Manifested Dream
+428471	Exterminio del despertar
 
 ; Boss: Smolderon
 421343	Marca de condenación

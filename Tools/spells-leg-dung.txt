@@ -73,6 +73,7 @@
 200291	Baile de cuchillos
 200343	Tromba de flechas
 200248	Ataque relámpago Arcano
+200784	"Beber" poción antigua
 200913	Indigestión
 204896	Drenar vida
 203163	Azuzar murciélagos

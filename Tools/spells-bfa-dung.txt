@@ -7,9 +7,11 @@
 ; Boss: Trash
 255041	Chirrido aterrorizador
 255567	Carga frenética
+256882	Paliza salvaje
 253721	Baluarte juju
 252781	Maleficio inestable
 256849	Fuerza jurásica
+253239	Asalto despiadado
 260666	Transfusión
 252687	Golpe de colmillo de veneno
 253544	Manto de Bwonsamdi
@@ -40,9 +42,9 @@
 
 ; Boss: Yazma
 259187	Desgarre de alma
-250096	Dolor atroz
 250050	Ecos de Shadra
 250036	Restos sombríos
+250096	Dolor atroz
 249919	Ensartar
 
 
