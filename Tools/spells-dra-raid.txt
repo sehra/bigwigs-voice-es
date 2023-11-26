@@ -506,6 +506,7 @@
 424495	Enredo masivo
 420540	Encarnación: Lechúcico lunar
 421398	Rayo de Fuego
+421636	Tifón
 424258	Esencia del Sueño
 422509	Pluma potenciada
 421939	Nube agostadora
@@ -515,9 +516,13 @@
 423265	Germinación llameante
 424665	Semilla de llama
 422325	Árbol llameante
+425576	Bomba destellante
+425606	Llama potenciadora
 424582	Ceniza persistente
+430583	Germinating Aura
 
 ; Boss: Fyrakk the Blazing
+429872	Amirdrassil arde
 419506	Tormenta de Fuego
 419504	Llamas enfurecidas
 420422	Fuego salvaje

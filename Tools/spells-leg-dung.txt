@@ -229,6 +229,7 @@
 ; Boss: Trash
 200630	Chirrido desconcertante
 200658	Lluvia estelar
+200642	Desesperación
 200684	Toxina de la Pesadilla
 200768	Carga propulsora
 200580	Rugido enloquecedor
