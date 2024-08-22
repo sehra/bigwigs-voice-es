@@ -1,6 +1,52 @@
 ; Type: Cataclysm Dungeon
 
 ; -------------------------------------
+; Zone: Grim Batol
+; -------------------------------------
+
+; Boss: Trash
+451871	Temblor masivo
+456696	Pisotón de obsidiana
+451613	Llama Crepuscular
+451939	Viento umbrío
+76711	Abrasar mente
+451965	Despertar fundido
+451971	Puño de lava
+451224	Llama de las Sombras envolvente
+462216	Llama de las Sombras ardiente
+456711	Explosión de lava de las Sombras
+456713	Erupción oscura
+451387	Ascensión
+451391	Perforamentes
+
+; Boss: General Umbriss
+448847	Rugido de orden
+448877	Púa rocosa
+447261	Machacacráneos
+
+; Boss: Forgemaster Throngus
+457664	Forjar arma
+449687	Maza de magma
+449444	Aluvión de arrabio
+449474	Chispa de arrabio
+447395	Mella ígnea
+
+; Boss: Drahga Shadowburner
+448013	Invocación de llama de las Sombras
+450095	Maldición de entropía
+456751	Sacudida Crepuscular
+448105	Llama devoradora
+82850	Fijación flameante
+
+; Boss: Erudax, the Duke of Below
+449939	Vendaval de las Sombras
+450077	Oleada de Vacío
+450088	Infusión del Vacío
+450100	Machacar
+448057	Corrupción abisal
+
+
+; -------------------------------------
 ; Zone: The Vortex Pinnacle
 ; -------------------------------------
 
