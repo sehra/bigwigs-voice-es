@@ -1,0 +1,179 @@
+; Type: The War Within Raid
+
+; -------------------------------------
+; Zone: Khaz Algar
+; -------------------------------------
+
+; Boss: Kordac, the Dormant Protector
+
+; Boss: Aggregation of Horrors
+
+; Boss: Shurrai, Atrocity of the Undersea
+
+; Boss: Orta, the Broken Mountain
+
+
+; -------------------------------------
+; Zone: Nerub-ar Palace
+; -------------------------------------
+
+; Boss: Trash
+
+; Boss: Ulgrax the Devourer
+434803	Competición carnívora
+440849	Ira despectiva
+441452	Telaraña de acechador
+439419	Red de acechador
+435136	Latigazo ponzoñoso
+435138	Ácido digestivo
+434697	Machaque brutal
+434705	Ablandado
+445052	Enjambre chasqueador
+439037	Sacar tripas
+438657	Tropezón de vísceras
+436200	Carga irresistible
+443842	Oscuridad engullidora
+440177	Listo para alimentarse
+438012	Bramidos hambrientos
+445123	Colisión descomunal
+
+; Boss: The Bloodbound Horror
+444363	Regurgitar truculento
+443612	Regurgitar truculento
+445570	Añublo insólito
+445936	Hemorragia escupidora
+459444	Hemorragia interna
+442530	Salpicasangre
+443203	Lluvia carmesí
+443042	Tentáculo del más allá
+445518	Sangre negra
+438696	Sepsis negra
+451288	Baluarte negro
+452237	Cuajar sangre
+
+; Boss: Sikran, Captain of the Sureki
+433517	Hojas de fase
+434860	Hojas de fase
+442428	Diezmar
+459273	Fragmentos cósmicos
+456420	Barrido destrozador
+439511	Floritura del capitán
+438845	Exponer
+432969	Embestida de fase
+435410	Embestida de fase
+439559	Lluvia de flechas
+
+; Boss: Rasha'nan
+439789	Ácido rodante
+439785	Corrosión
+439787	Estupor ácido
+439776	Charcos de ácido
+455373	Engendro infestado
+455287	Mordedura infectada
+439784	Hebras de hilera
+444687	Asalto cruel
+458067	Herida salvaje
+439811	Pulverización erosiva
+452806	Erupción ácida
+457877	Caparazón ácido
+439795	Desgarro de telaraña
+439792	Ráfaga pegajosa
+454989	Telas envolventes
+
+; Boss: Broodtwister Ovi'nax
+442526	Dosis experimental
+442660	Dosis experimental
+442432	Ingerir sangre negra
+443274	Infusión inestable
+442799	Desbordamiento sanguino
+450661	Reacción cáustica
+446349	Telaraña pegajosa
+446351	Erupción de telaraña
+441362	Brebaje volátil
+458212	Herida necrótica
+446700	Ráfaga de veneno
+442250	Fijar
+442257	Infestar
+
+; Boss: Nexus-Princess Ky'veza
+436867	Asesinato
+437343	Azote de reinas
+439409	Vísceras oscuras
+438245	Masacre crepuscular
+437620	Falla abisal
+439576	Dagas del Nexo
+440377	Trituradoras del Vacío
+440576	Cuchillada abismal
+435405	Noche sin estrellas
+442277	Noche eterna
+
+; Boss: The Silken Court
+438218	Golpe perforador
+438801	Llamada del enjambre
+440246	Carga imprudente
+440178	Impacto temerario
+440179	Enredado
+441791	Erupción enterrada
+440504	Erupción empaladora
+449857	Empalado
+438200	Descarga de veneno
+438656	Lluvia venenosa
+439838	Bomba de telaraña
+440001	Telarañas apresadoras
+450045	Correteo y salto
+450980	Destrozar existencia
+460600	Tromba entrópica
+438677	Enjambre punzante
+456245	Delirio punzante
+441772	Descarga del Vacío
+441626	Vórtice de telaraña
+450129	Desolación entrópica
+441782	Hebras de la realidad
+450483	Paso por el Vacío
+438355	Entropía cataclísmica
+451277	Tormenta de púas
+460364	Agitación sísmica
+443068	Erupción de pinchos
+442994	Enjambre desatado
+455849	Marca de paranoia
+460359	Degeneración de Vacío
+455850	Marca de ira
+460281	Ira ardiente
+455863	Marca de muerte
+
+; Boss: Queen Ansurek
+437592	Toxina reactiva
+451278	Toxina concentrada
+464638	Toxina espumosa
+438481	Oleadas tóxicas
+437078	Ácido
+437417	Nova venenosa
+441556	Vapor de reacción
+439814	Tumba de seda
+441958	Seda enredadora
+440899	Licuar
+437093	Festín
+439299	Hojas de telarañas
+447207	Depredación
+447456	Veneno paralizante
+447411	Arrebatar
+447950	Explosión de las Sombras
+464056	Toque de penumbra
+443403	Penumbra
+448147	Expulsión
+451600	Haz de expulsión
+449236	Colmillos cáusticos
+449986	Comunión afótica
+443888	Infusión abisal
+455387	Reverberación abisal
+445422	Gula espumosa
+445880	Vapor espumoso
+444829	Invocaciones de la reina
+445152	Esencia del acólito
+445021	Detonación de la nada
+438976	Condenación regia
+443325	Infestar
+443726	Prole de la penumbra
+443336	Engullir
+
+

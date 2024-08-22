@@ -347,34 +347,35 @@
 ; -------------------------------------
 
 ; Boss: Trash
-268260	Andanada
-272874	Atropello
-275826	Grito reforzador
-275835	Revestimiento de veneno punzante
+256627	Zumbababas
+256640	Alquitrán ardiente
+256957	Caparazón hermético
+257170	Tempestad salvaje
+257288	Tajo pesado
+454437	Carga de azerita
 272421	Artillería avistada
+268260	Andanada
+275826	Grito reforzador
 257169	Rugido aterrorizador
 272711	Embate aplastante
-272827	Baba viscosa
-274569	Niebla revitalizante
 272546	Aluvión de plátanos
-257170	Tempestad salvaje
-256957	Caparazón hermético
-256627	Zumbababas
-257288	Tajo pesado
-257641	Proyectil de arrabio
-256897	Mandíbulas apresadoras
-256866	Emboscada de hierro
-257036	Carga feral
-256640	Alquitrán ardiente
-256673	Inmolación
+272571	Aguas asfixiantes
+275835	Revestimiento de veneno punzante
 
 ; Boss: Chopper Redhook
+257459	Enganche
+257348	Gancho de carnicero
+257326	Choque sangriento
+257585	Tromba de cañón
+273721	Artillería pesada
+;257288	Tajo pesado
 
 ; Boss: Dread Captain Lockwood
-272471	Evasiva
 269029	Despejar la cubierta
 273470	Disparo en la tripa
 268752	Retirada
+463185	Bombardeo masivo
+463182	Rebote ígneo
 268230	Flagelo carmesí
 ;268260	Andanada
 268963	Artillería inestable
@@ -387,6 +388,7 @@
 ; Boss: Viq'Goth
 275014	Aguas pútridas
 270185	Llamada de las profundidades
+269456	Erradicación
 269366	Reparar
 269266	Embate
 270590	Rompecascos
@@ -467,7 +469,6 @@
 269090	Tromba de artillería
 263601	Medidas desesperadas
 269429	Disparo cargado
-262412	Escudo de energía
 263628	Pinza cargada
 
 ; Boss: Coin-Operated Crowd Pummeler
@@ -607,9 +608,7 @@
 264396	Talismán espectral
 264390	Hechizo de vinculación
 264050	Espina infectada
-278474	Reconstrucción de efigie
 264038	Desarraigar
-264556	Golpe desgarrador
 264150	Trizar
 265759	Púa astillada
 265760	Tromba espinosa

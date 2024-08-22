@@ -13,7 +13,6 @@
 388863	Vacío de maná
 388911	Tajo amputador
 396812	Detonación mística
-388886	Lluvia Arcana
 388976	Aliento de falla
 388984	Emboscada sañosa
 388392	Lección monótona
@@ -54,6 +53,7 @@
 376997	Picotazo salvaje
 
 ; Boss: Echo of Doragosa
+439488	Desatar energía
 389011	Poder sobrecogedor
 388901	Falla Arcana
 374361	Aliento astral
@@ -66,7 +66,6 @@
 ; -------------------------------------
 
 ; Boss: Trash
-382435	Tótem putrecanto
 367503	Ráfaga marchitadora
 368081	Marchitándose
 367484	Desgarre sañoso
@@ -89,8 +88,7 @@
 388046	Torbellino violento
 385832	Arremetida sanguinaria
 385827	Rabia sangrienta
-384974	Carne aromatizada
-385058	Veneno fulminante
+384974	Carne podrida
 385029	Chirrido
 383399	Oleada putrefacta
 383087	Contagio marchito
@@ -150,7 +148,7 @@
 375079	Furia giratoria
 374823	Llamada de céfiro
 375384	Tierra resonadora
-385141	Tormenta de truenos
+437719	Impacto de trueno
 376171	Mareas refrescantes
 375351	Aliento oceánico
 391634	Escalofrío profundo
@@ -273,6 +271,7 @@
 392394	Fauces ígneas
 392486	Tormenta de relámpagos
 392451	Fuego rápido
+391050	Escudo de tempestormenta
 
 ; Boss: Melidrussa Chillworn
 373046	Despertar crías
@@ -316,6 +315,7 @@
 387067	Azote Arcano
 391118	Aliento de Fríoarcano
 396991	Rugido bestial
+391136	Embate con hombro
 
 ; Boss: Leymor
 374364	Brotes de línea Ley
@@ -361,7 +361,7 @@
 387127	Cadena de relámpagos
 387125	Tronadora
 386028	Atronar
-387629	Viento putrefacto
+436841	Viento putrefacto
 387614	Cántico de los muertos
 387596	Viento veloz
 387440	Rugido profanador
@@ -492,22 +492,24 @@
 413621	Maldición intemporal
 413622	Furia infinita
 412806	Flema de añublo
+411958	Descarga de piedra
 413607	Salva corrosiva
+412136	Golpe temporal
+413024	Baluarte titánico
 412215	Tormenta de arena protectora
 412922	Presa implacable
 412129	Orbe de contemplación
-412136	Golpe temporal
-413024	Baluarte titánico
 417481	Desplazar cronosecuencia
 419351	Exhalación bronce
 418200	Quemadura infinita
 411300	Salva de descarga de pescado
+411407	Tromba espumosa
 412156	Bombardeo
 412200	Gigaexplosión electropotenciada
 419516	Erupción cronal
 419511	Enlace temporal
-407535	Desplegar zapadores goblin
 407205	Mortero volátil
+407535	Desplegar zapadores goblin
 418684	Desplegar bombarderos enanos
 407891	Ola de sanación
 407906	Terremoto
@@ -516,6 +518,7 @@
 407124	Grito alentador
 407125	Embate hendedor
 412378	Arenas vertiginosas
+411952	Ayuda del milenio
 
 ; Boss: Chronikar
 413142	Destrozo de eón
@@ -543,6 +546,7 @@
 414535	Tromba partepiedras
 409456	Terraluvión
 409635	Exhalación pulverizadora
+409879	Creaciones pulverizadoras
 414184	Desintegración cataclísmica
 
 ; Boss: Tyr, the Infinite Keeper
@@ -579,5 +583,6 @@
 410908	Nova de infinidad
 416139	Aliento temporal
 416264	Corrupción de los Infinitos
+417413	Cicatriz temporal
 
 

@@ -157,6 +157,7 @@
 427459	Flor tóxica
 427509	Furia terrestre
 427510	Carga nociva
+427513	Descarga nociva
 
 ; Boss: Archmage Sol
 427899	Tormenta de descarga de ceniza

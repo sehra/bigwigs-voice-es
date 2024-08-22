@@ -86,8 +86,8 @@
 ; Boss: High Adjudicator Aleez
 323538	Saeta de poder
 323552	Salva de poder
-323650	Fijación inquietante
 329340	Fuente de ánima
+323650	Fijación inquietante
 
 ; Boss: Lord Chamberlain
 329104	Puerta de las Sombras
@@ -103,30 +103,32 @@
 ; -------------------------------------
 
 ; Boss: Trash
-324909	Paliza furiosa
-324923	Ráfaga de zarzas
+321968	Polen desconcertante
+322486	Sobrecrecimiento
 322938	Cosechar esencia
 322569	Mano de Thros
 322557	División de alma
-331718	Aluvión de lanzas
+324909	Paliza furiosa
+324923	Ráfaga de zarzas
+463256	Resguardo de niebla
+463248	Expulsar
 340304	Secreciones venenosas
 340305	Salto aplastante
 340300	Azote de lengua
-331743	Desenfreno corcoveante
+463217	Tajo de ánima
 340189	Charco de radiancia
 340160	Aliento radiante
 340208	Triturar armadura
 340289	Mordedura triple
 340279	Descarga venenosa
 324776	Abrigo gujaespino
-324987	Mordedura de Velo de Niebla
+325021	Desgarro de Velo de Niebla
 325224	Inyección de ánima
 324914	Nutrir al bosque
 325418	Ácido volátil
 340544	Estimular regeneración
 326046	Estimular resistencia
-321968	Polen desconcertante
-322486	Sobrecrecimiento
+326021	Glóbulo ácido
 
 ; Boss: Ingra Maloch
 323137	Polen desconcertante
@@ -145,15 +147,14 @@
 321891	Fijación de marca de congelación
 
 ; Boss: Tred'ova
-322651	Expulsión ácida
+322654	Expulsión ácida
 322450	Consumo
+322527	Escudo engullidor
 322550	Incubación acelerada
 322563	Presa marcada
 326309	Ácido de descomposición
 322614	Vínculo mental
-337235	Pacificación parasitaria
-337249	Incapacidad parasitaria
-337255	Dominio parasitario
+463602	Veneno aglomerado
 
 
 ; -------------------------------------
@@ -415,13 +416,14 @@
 323347	Oscuridad aferradora
 322756	Cólera de Zolramus
 321780	Animar a los muertos
+327396	Destino lúgubre
 328667	Salva de descarga de Escarcha
 324293	Chillido estridente
 343470	Escudo triturahuesos
 335143	Alivio de huesos
 320822	Trato final
 335141	Velo oscuro
-327396	Destino lúgubre
+345623	Ráfaga mortífera
 324394	Trizar
 324387	Pinchos gélidos
 324372	Vientos segadores
@@ -429,7 +431,8 @@
 338456	Mutilar
 338357	Ablandar
 327130	Reparar carne
-323496	Lanzar cuchilla
+323471	Lanzar cuchilla
+327240	Machacar columna
 338606	Fijación mórbida
 333477	Rebanar tripas
 333479	Escupir enfermedad
@@ -446,16 +449,18 @@
 333488	Aliento necrótico
 320012	Frenesí profano
 320171	Descarga necrótica
+;328667	Salva de descarga de Escarcha
 
 ; Boss: Surgeon Stitchflesh
 320358	Despertar creación
-322681	Gancho de carnicero
-320376	Mutilar
 334476	Icor embalsamante
 320200	Coseaguja
+327100	Niebla nociva
 334488	Sajar carne
-320359	Escapar
 343556	Fijación mórbida
+320359	Escapar
+322681	Gancho de carnicero
+320376	Mutilar
 
 ; Boss: Nalthor the Rimebinder
 320772	Lluvia de cometas

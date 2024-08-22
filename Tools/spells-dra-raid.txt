@@ -401,6 +401,7 @@
 416996	Filo giratorio
 422776	Marcado para el tormento
 414367	Tormento creciente
+419462	Mortificación de carne
 419048	Final ruinoso
 416048	Destrucción umbría
 424456	Vísceras aplastantes
@@ -419,6 +420,7 @@
 423117	Fauces del cataclismo
 421703	Cólera de serpiente
 424218	Ira combustionadora
+427201	Erupción en espiral
 
 ; Boss: Council of Dreams
 418187	Renacer
@@ -444,12 +446,13 @@
 418520	Astillas virulentas
 426524	Floritura ígnea
 422614	Raíces agostadoras
-420544	Persecución agostadora
+418655	Zarzas carbonizadas
 426387	Gujaespino agostador
 418637	Carga furiosa
 423719	Furia de la naturaleza
 426206	Espinas llameantes
 426249	Coalescencia llameante
+426256	Coalescencia llameante
 417634	Inferno enfurecido
 417632	Suelo ardiente
 425889	Crecimiento en llamas
@@ -464,21 +467,22 @@
 421325	Llamada cinérea
 421407	Pavesa abrasadora
 428896	Devastación cinérea
+428946	Asfixia cinérea
 
 ; Boss: Nymue, Weaver of the Cycle
 420554	Matriz Verdeante
 420846	Continuo
 429615	Telar inminente
 429983	Crecimiento en oleada
-430563	Ephemeral Flora
+426519	Carga de tejedora
+430563	Flora efímera
 420907	Lluvia veridiana
-427722	Carga de tejedora
 426855	Florecimiento pleno
 413443	Resguardo vital
 429108	Embate pesado
 422721	Floritura radial
 429798	Desgarro verdeante
--28482	Manifested Dream
+-28482	Sueño manifestado
 428471	Exterminio del despertar
 
 ; Boss: Smolderon
@@ -492,11 +496,13 @@
 426725	Destrucción inexorable
 422277	Devorar esencia
 421858	Esencia prendida
+421859	Esencia prendida
 422172	Mundo en llamas
 423896	Calentamiento
 425885	Inferno buscador
 
 ; Boss: Tindral Sageswift, Seer of the Flame
+427297	Oleada de llamas
 422000	Cólera abrasadora
 423260	Champiñón llameante
 424581	Crecimiento ígneo
@@ -519,30 +525,41 @@
 425576	Bomba destellante
 425606	Llama potenciadora
 424582	Ceniza persistente
-430583	Germinating Aura
+430583	Aura germinante
 
 ; Boss: Fyrakk the Blazing
 429872	Amirdrassil arde
+414186	Llamarada
+417807	En llamas
+417431	Mordedura de Fyr'alath
+417443	Marca de Fyr'alath
 419506	Tormenta de Fuego
 419504	Llamas enfurecidas
 420422	Fuego salvaje
 417455	Desgarrar el Sueño
 425483	Incinerado
-414186	Llamarada
-417807	En llamas
-417431	Mordedura de Fyr'alath
-417443	Marca de Fyr'alath
+430441	Sombras de Flama Oscura
+426368	Tajo de Flama Oscura
 419144	Corromper
+421937	Orbes de llama de las Sombras
 429866	Erupción de llama de las Sombras
+429906	Vínculo de las Sombras
+429903	Vinculado a las llamas
 422032	Espíritus de los kaldorei
 422518	Tormenta de fuego superior
+428963	Guantelete fundido
+428400	Núcleo detonante
 412761	Encarnación
 422524	Devastación de llama de las Sombras
 419123	Descenso de la Llama
-423717	Floración
+428970	Jaula de las Sombras
 422935	Tormenta de Fuego eterna
 422837	Rugido apocalíptico
 410223	Aliento de llama de las Sombras
 425492	Fauce infernal
+423601	Semilla de Amirdrassil
+423717	Floración
+423598	Semilla llameante
+430048	Semilla corrupta
 
 

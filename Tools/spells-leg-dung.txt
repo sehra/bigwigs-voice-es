@@ -108,6 +108,7 @@
 198635	Corte infalible
 198641	Hoja giratoria
 198820	Explosión oscura
+199368	Legado de los Cresta Cuervo
 201733	Enjambre punzante
 199143	Nube de hipnosis
 199193	Argucia de Señor del Terror
@@ -304,6 +305,7 @@
 193597	Nova estática
 193611	Relámpago enfocado
 193698	Maldición de la bruja
+193682	Atraer tormenta
 196610	Monzón
 
 ; Boss: King Deepbeard

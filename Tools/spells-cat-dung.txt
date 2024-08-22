@@ -83,10 +83,12 @@
 429051	Furiaterrenal
 429037	Tótem de aluvión tormentoso
 429048	Choque de llamas
+429878	Quítatelo de encima
 429172	Visión terrorífica
 
 ; Boss: Ozumat
 428407	Tromba tintórea
+428404	Oscuridad tintórea
 428868	Rugido pútrido
 428530	Escupitajo turbio
 428889	Descarga fétida
