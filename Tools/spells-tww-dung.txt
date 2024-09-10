@@ -22,6 +22,8 @@
 438471	Mordedura voraz
 438476	Berrido de alerta
 438473	Irrupción delicada
+434830	Tela de araña vil
+436614	Trampa arácnida
 446794	Insaciable
 
 ; Boss: Anub'zekt
@@ -251,6 +253,7 @@
 ; Boss: Speaker Shadowcrown
 451026	Llega la oscuridad
 426735	Sombras ardientes
+428086	Descarga de las Sombras
 425264	Explosión obsidiana
 445996	Oscuridad en colapso
 453212	Haz obsidiana
@@ -324,6 +327,7 @@
 ; -------------------------------------
 
 ; Boss: Trash
+462500	Energía de hierro imbuido
 425027	Ola sísmica
 447141	Salto pulverizador
 449455	Miedo aullante

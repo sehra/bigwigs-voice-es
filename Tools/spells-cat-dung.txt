@@ -34,6 +34,7 @@
 ; Boss: Drahga Shadowburner
 448013	Invocación de llama de las Sombras
 450095	Maldición de entropía
+447966	Descarga de llama de las sombras
 456751	Sacudida Crepuscular
 448105	Llama devoradora
 82850	Fijación flameante
@@ -43,6 +44,7 @@
 450077	Oleada de Vacío
 450088	Infusión del Vacío
 450100	Machacar
+450087	Trabazón de lo profundo
 448057	Corrupción abisal
 
 
