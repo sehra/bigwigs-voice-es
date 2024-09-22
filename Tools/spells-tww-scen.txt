@@ -1,0 +1,268 @@
+; Type: The War Within Delves
+
+; -------------------------------------
+; Zone: Delve Trash
+; -------------------------------------
+
+; Boss: Fungarian
+427710	Esporexplosión
+414944	Rugido de batalla
+424891	Lanza de enredadera
+424773	Esporagénesis
+424798	Erupción hinchada
+424704	Puñaladas sañosas
+425040	Salva de podredumbre
+425042	Oleada de esporas
+424750	Esporas infecciosas
+372529	Risa espantosa
+
+; Boss: Kobold
+449071	Mecha llameante
+448399	Grito de batalla
+445210	Carga de fuego
+445191	Salva prendemechas
+448528	Lanzar dinamita
+
+; Boss: Kobyss
+455932	Aliento profanador
+445252	Final necrótico
+430037	Pesca con lanza
+440622	Maldición de las profundidades
+445492	Cuchilla dentada
+445407	Sanguinario
+445774	Frenesí vapuleador
+374898	Enfurecer
+445771	Oleada de burbujas
+
+; Boss: Nerubian
+450714	Púas dentadas
+450637	Enjambre parasitante
+449318	Sombras de discordia
+450546	Égida enredada
+450509	Gran flagelo
+433410	Chillido atemorizador
+450197	Carga correteadora
+433448	Lanzamiento de telaraña
+
+; Boss: Nightfall
+441129	¡Descubierto!
+434740	Barrera de las Sombras
+443292	Embate umbrío
+434281	Eco de Renilash
+443482	Bendición del ocaso
+440205	Infligir muerte
+
+; Boss: Underkeep
+451913	Orbe de tejido nefasto
+;450714	Púas dentadas
+;450637	Enjambre parasitante
+448179	Caparazón acorazado
+448155	Temblores con onda de choque
+448161	Enfurecer
+453149	Telaraña de gasa
+
+; Boss: Rares
+445781	Explosión de lava
+445718	Martillo de magma
+415253	Aliento fúngico
+415250	Brote fúngico
+462686	Machacador de cráneos
+400335	Trampas de púas
+461741	Consagración
+459421	Luz Sagrada
+418295	Tajo umbrío
+418297	Reprender
+458325	Danza evasiva
+458311	Mordedura de veneno
+458397	Grito interruptor
+458369	Salva de veneno
+458104	Salva de veneno
+458090	Corte del Vacío
+458099	Oscuridad enredadora
+449038	Púas empaladoras
+450519	Red de pescador
+450492	Rugido horrendo
+450505	Babas debilitantes
+
+
+; -------------------------------------
+; Zone: Earthcrawl Mines
+; -------------------------------------
+
+; Boss: Web General Ab'enar
+448443	Maldición de agonía
+448412	Carro en llamas
+448444	Grilletes rúnicos
+
+
+; -------------------------------------
+; Zone: Fungal Folly
+; -------------------------------------
+
+; Boss: Spinshroom
+415406	Tormenta fúngica
+415499	Mareo
+415492	Carga fúngica
+425315	Hongoexplosión
+
+
+; -------------------------------------
+; Zone: Kriegval's Rest
+; -------------------------------------
+
+; Boss: Tomb-Raider Drywhisker
+449242	Tormenta de llamas
+449295	Embate en el suelo
+449339	Rabieta enfurecida
+
+
+; -------------------------------------
+; Zone: Mycomancer Cavern
+; -------------------------------------
+
+; Boss: Bogpiper
+454213	Carga de mugre
+470582	Descarga del pantano
+453897	Cantoespora
+
+
+; -------------------------------------
+; Zone: Nightfall Sanctum
+; -------------------------------------
+
+; Boss: Reformed Fury
+443837	Difusión de las Sombras
+;443482	Bendición del ocaso
+444408	Cólera del orador
+444479	Salva Fuegoscuro
+;440205	Infligir muerte
+;434281	Eco de Renilash
+
+; Boss: Speaker Halven
+;443837	Difusión de las Sombras
+443908	¡Fuego!
+443840	Oleada de desolación
+
+
+; -------------------------------------
+; Zone: Skittering Breach
+; -------------------------------------
+
+; Boss: Faceless One
+458849	Machaque de falla oscura
+458853	Drenaje de las Sombras
+458867	Llamada acechante
+
+; Boss: Nerl'athekk the Skulking
+454762	Supresión oscura
+440806	Machaque de falla oscura
+
+; Boss: Speaker Xanventh
+458874	Ola de las Sombras
+458834	Giro sombrío
+458879	Bendición del ocaso
+
+
+; -------------------------------------
+; Zone: Tak-Rethan Abyss
+; -------------------------------------
+
+; Boss: Undersea Abomination
+446300	Pólipos marfunda
+446405	Infección fúngica
+446230	Explosión repelente
+
+
+; -------------------------------------
+; Zone: The Dread Pit
+; -------------------------------------
+
+; Boss: Under-Lord Vik'tis
+448634	Empalar
+448644	Temblores excavadores
+448663	Enjambre punzante
+
+
+; -------------------------------------
+; Zone: The Sinkhole
+; -------------------------------------
+
+; Boss: Leviathan Caller
+446079	Llamada del abismo
+442422	Abrazo abisal
+
+; Boss: Mirror Master Murkna
+445860	Ilusiones ahogadas
+
+
+; -------------------------------------
+; Zone: The Spiral Weave
+; -------------------------------------
+
+; Boss: Overseer Kaskel
+;449038	Púas empaladoras
+;448644	Temblores excavadores
+449072	Invocar zánganos
+
+; Boss: The Puppetmaster
+;451913	Orbe de tejido nefasto
+;450197	Carga correteadora
+;450546	Égida enredada
+;450509	Gran flagelo
+;450714	Púas dentadas
+;448663	Enjambre punzante
+
+
+; -------------------------------------
+; Zone: The Underkeep
+; -------------------------------------
+
+; Boss: Researcher Ven'kex
+446832	Infusión de veneno
+447187	Desgarro del Vacío
+447143	Telarañas opresoras
+
+; Boss: Researcher Xik'vi
+;446832	Infusión de veneno
+;447187	Desgarro del Vacío
+;447143	Telarañas opresoras
+
+
+; -------------------------------------
+; Zone: The Waterworks
+; -------------------------------------
+
+; Boss: Waxface
+450330	Lanzar cera
+450142	Arder
+450128	Gas nocivo
+
+
+; -------------------------------------
+; Zone: Zekvir's Lair
+; -------------------------------------
+
+; Boss: Zekvir (Tier ?)
+450451	Machaque con garras
+;450505	Babas debilitantes
+;450492	Rugido horrendo
+;450519	Red de pescador
+450568	Llamar a terror de telarañas
+453937	Eclosionando...
+450597	Ráfaga de telarañas
+
+; Boss: Zekvir (Tier ??)
+;450451	Machaque con garras
+;450505	Babas debilitantes
+;450492	Rugido horrendo
+;450519	Red de pescador
+450449	Caparazón regenerativo
+;450568	Llamar a terror de telarañas
+;453937	Eclosionando...
+;450597	Ráfaga de telarañas
+451003	Sangre negra
+450872	Espinas inagotables
+450914	Caparazón imbuido de sangre
+451782	Horror infinito
+
+
