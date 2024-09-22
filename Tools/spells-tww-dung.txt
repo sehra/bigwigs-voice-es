@@ -13,6 +13,8 @@
 438877	Llamada de la progenie
 438826	Nube venenosa
 453161	Empalar
+465012	Embate
+432967	Berrido de alarma
 448248	Salva repugnante
 433845	Telarañas en erupción
 433841	Salva de veneno
@@ -55,6 +57,7 @@
 441627	Miel rejuvenecedora
 441434	Lote fallido
 448619	Envío imprudente
+441179	Rezumando miel
 441119	Abejazuca
 442589	Cera de abeja
 442995	Sorpresa enjambradora
@@ -144,12 +147,15 @@
 ; Boss: Trash
 423501	Golpetazo salvaje
 425536	Frenesí tálpido
+426883	¡Capón!
 440652	Cera en oleada
+428650	Contragolpe ardiente
 424322	Llama explosiva
 426261	Llama incesante
 426295	Atadura llameante
 426619	Llave con una mano
 426260	Piropuñetazo
+422393	Oscuridad agobiante
 422414	Machaque de las Sombras
 422541	Drenar luz
 
@@ -176,7 +182,7 @@
 426943	Penumbra emergente
 427157	Invocar engendros oscuros
 427025	Tajo umbrío
-427015	Explosión de las Sombras
+427011	Explosión de las Sombras
 427176	Drenar luz
 
 
@@ -205,6 +211,7 @@
 427346	Fuego interno
 427484	Fogonazo
 427601	Ráfaga de Luz
+424429	Consagración
 444743	Salva de bolas de Fuego
 
 ; Boss: Captain Dailcry
@@ -235,7 +242,9 @@
 449042	Luz radiante
 431309	Sombras enredadoras
 432448	Semilla estigia
+431364	Rayo atormentador
 450756	Aullido abisal
+431491	Tajo corrupto
 451107	Crisálida explosiva
 451091	Colocar bomba arathi
 451102	Descomposición sombría
@@ -333,6 +342,7 @@
 449455	Miedo aullante
 426308	Infección del Vacío
 426771	Arrebato del Vacío
+459210	Garra de las Sombras
 445207	Aullido perforador
 429545	Equipo de censura
 426345	Salva de cristal

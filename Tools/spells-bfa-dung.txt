@@ -348,6 +348,7 @@
 
 ; Boss: Trash
 256627	Zumbababas
+;257732	Bramido devastador
 256640	Alquitrán ardiente
 256957	Caparazón hermético
 257170	Tempestad salvaje
@@ -363,6 +364,7 @@
 275835	Revestimiento de veneno punzante
 
 ; Boss: Chopper Redhook
+274002	Llamar a los Marea de Hierro
 257459	Enganche
 257348	Gancho de carnicero
 257326	Choque sangriento

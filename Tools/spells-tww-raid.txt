@@ -21,13 +21,15 @@
 
 ; Boss: Ulgrax the Devourer
 434803	Competición carnívora
+434778	Competición carnívora
 440849	Ira despectiva
 441452	Telaraña de acechador
 439419	Red de acechador
-435136	Latigazo ponzoñoso
 435138	Ácido digestivo
+435136	Latigazo ponzoñoso
 434697	Machaque brutal
 434705	Ablandado
+445123	Colisión descomunal
 445052	Enjambre chasqueador
 439037	Sacar tripas
 438657	Tropezón de vísceras
@@ -35,9 +37,10 @@
 443842	Oscuridad engullidora
 440177	Listo para alimentarse
 438012	Bramidos hambrientos
-445123	Colisión descomunal
+455831	Redes endurecidas
 
 ; Boss: The Bloodbound Horror
+444497	Invocar terrores
 444363	Regurgitar truculento
 443612	Regurgitar truculento
 445570	Añublo insólito
@@ -60,7 +63,6 @@
 439511	Floritura del capitán
 438845	Exponer
 432969	Embestida de fase
-435410	Embestida de fase
 439559	Lluvia de flechas
 
 ; Boss: Rasha'nan
@@ -108,33 +110,34 @@
 442277	Noche eterna
 
 ; Boss: The Silken Court
-438218	Golpe perforador
-438801	Llamada del enjambre
 440246	Carga imprudente
 440178	Impacto temerario
 440179	Enredado
 441791	Erupción enterrada
+438801	Llamada del enjambre
 440504	Erupción empaladora
 449857	Empalado
-438200	Descarga de veneno
-438656	Lluvia venenosa
+438218	Golpe perforador
 439838	Bomba de telaraña
+438656	Lluvia venenosa
 440001	Telarañas apresadoras
 450045	Correteo y salto
+438200	Descarga de veneno
 450980	Destrozar existencia
 460600	Tromba entrópica
 438677	Enjambre punzante
 456245	Delirio punzante
-441772	Descarga del Vacío
+438355	Entropía cataclísmica
 441626	Vórtice de telaraña
 450129	Desolación entrópica
 441782	Hebras de la realidad
 450483	Paso por el Vacío
-438355	Entropía cataclísmica
+441772	Descarga del Vacío
 451277	Tormenta de púas
 460364	Agitación sísmica
 443068	Erupción de pinchos
 442994	Enjambre desatado
+443598	Ira sin control
 455849	Marca de paranoia
 460359	Degeneración de Vacío
 455850	Marca de ira
@@ -154,16 +157,19 @@
 440899	Licuar
 437093	Festín
 439299	Hojas de telarañas
-447207	Depredación
+447076	Depredación
 447456	Veneno paralizante
 447411	Arrebatar
-447950	Explosión de las Sombras
-464056	Toque de penumbra
 443403	Penumbra
+449940	Apocalipsis ácido
+447950	Explosión de las Sombras
+448046	Erupción de penumbra
+447967	Toque de penumbra
+462558	Ruptura sísmica
+448458	Apocalipsis cósmico
 448147	Expulsión
 451600	Haz de expulsión
 449236	Colmillos cáusticos
-449986	Comunión afótica
 443888	Infusión abisal
 455387	Reverberación abisal
 445422	Gula espumosa
@@ -172,8 +178,10 @@
 445152	Esencia del acólito
 445021	Detonación de la nada
 438976	Condenación regia
+441865	Grilletes reales
 443325	Infestar
 443726	Prole de la penumbra
 443336	Engullir
+451832	Evolución cataclísmica
 
 

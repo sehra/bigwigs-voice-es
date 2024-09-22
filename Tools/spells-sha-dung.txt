@@ -128,7 +128,9 @@
 325418	Ácido volátil
 340544	Estimular regeneración
 326046	Estimular resistencia
+460092	Nova de ácido
 326021	Glóbulo ácido
+326017	Ácido de descomposición
 
 ; Boss: Ingra Maloch
 323137	Polen desconcertante
@@ -277,8 +279,8 @@
 317985	Golpe aplastante
 328295	Aliviar superior
 328288	Bendecir arma
-328458	Diminuendo
 328462	Lanza cargada
+328458	Diminuendo
 
 ; Boss: Kin-Tara
 320966	Tajo aéreo

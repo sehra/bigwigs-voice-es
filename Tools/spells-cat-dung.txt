@@ -8,16 +8,19 @@
 451871	Temblor masivo
 456696	Pisotón de obsidiana
 451613	Llama Crepuscular
+451614	Ascua crepuscular
 451939	Viento umbrío
 76711	Abrasar mente
 451965	Despertar fundido
 451971	Puño de lava
 451224	Llama de las Sombras envolvente
 462216	Llama de las Sombras ardiente
+451241	Tajo de llama de las Sombras
 456711	Explosión de lava de las Sombras
 456713	Erupción oscura
 451387	Ascensión
 451391	Perforamentes
+451395	Corromper
 
 ; Boss: General Umbriss
 448847	Rugido de orden
