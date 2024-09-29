@@ -351,6 +351,7 @@
 ;257732	Bramido devastador
 256640	Alquitrán ardiente
 256957	Caparazón hermético
+272662	Gancho de hierro
 257170	Tempestad salvaje
 257288	Tajo pesado
 454437	Carga de azerita

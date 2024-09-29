@@ -219,11 +219,13 @@
 
 ; Boss: Researcher Ven'kex
 446832	Infusión de veneno
+463408	Infusión de Escarcha
 447187	Desgarro del Vacío
 447143	Telarañas opresoras
 
 ; Boss: Researcher Xik'vi
 ;446832	Infusión de veneno
+;463408	Infusión de Escarcha
 ;447187	Desgarro del Vacío
 ;447143	Telarañas opresoras
 

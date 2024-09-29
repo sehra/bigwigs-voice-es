@@ -131,6 +131,7 @@
 461842	Machaque rezumante
 441395	Pulso oscuro
 461880	Oleada sangrienta
+461825	Sangre negra
 
 ; Boss: Izo, the Grand Splicer
 439401	Anomalías cambiantes
@@ -248,6 +249,7 @@
 451107	Crisálida explosiva
 451091	Colocar bomba arathi
 451102	Descomposición sombría
+451119	Descarga abisal
 450854	Orbe oscuro
 451117	Embate terrorífico
 451098	Nova pegajosa
@@ -338,6 +340,7 @@
 ; Boss: Trash
 462500	Energía de hierro imbuido
 425027	Ola sísmica
+425974	Aporrear suelo
 447141	Salto pulverizador
 449455	Miedo aullante
 426308	Infección del Vacío

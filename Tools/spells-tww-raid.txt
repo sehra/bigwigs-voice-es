@@ -137,7 +137,6 @@
 460364	Agitación sísmica
 443068	Erupción de pinchos
 442994	Enjambre desatado
-443598	Ira sin control
 455849	Marca de paranoia
 460359	Degeneración de Vacío
 455850	Marca de ira

@@ -424,6 +424,7 @@
 343470	Escudo triturahuesos
 335143	Alivio de huesos
 320822	Trato final
+320464	Pozo de las Sombras
 335141	Velo oscuro
 345623	Ráfaga mortífera
 324394	Trizar
