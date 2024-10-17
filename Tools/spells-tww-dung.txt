@@ -19,6 +19,7 @@
 433845	Telarañas en erupción
 433841	Salva de veneno
 434252	Embate masivo
+433821	Golpe arrasador
 
 ; Boss: Avanoxx
 438471	Mordedura voraz
@@ -95,17 +96,22 @@
 ; -------------------------------------
 
 ; Boss: Trash
+448305	Poder robado
 443437	Sombras de duda
+443433	Retorcer pensamientos
 443430	Atadura de seda
 443500	Rompeterra
+443507	Enjambre voraz
 450784	Lanzamiento de perfume
 451423	Tromba de telarañas
 441795	Velo de feromonas
 448047	Trampa arácnida
 451543	Embate anulador
+451222	Carga del Vacío
 452162	Telaraña sanadora
 434137	Pulverizador venenoso
 445813	Salva oscura
+436205	Pisotón feroz
 446086	Ola del Vacío
 446717	Tejido umbrío
 447271	Embate tembloroso
@@ -129,8 +135,8 @@
 ; Boss: The Coaglamation
 441289	Oscuridad viscosa
 461842	Machaque rezumante
-441395	Pulso oscuro
 461880	Oleada sangrienta
+441395	Pulso oscuro
 461825	Sangre negra
 
 ; Boss: Izo, the Grand Splicer

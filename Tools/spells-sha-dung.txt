@@ -108,6 +108,7 @@
 322938	Cosechar esencia
 322569	Mano de Thros
 322557	División de alma
+322968	Aliento moribundo
 324909	Paliza furiosa
 324923	Ráfaga de zarzas
 463256	Resguardo de niebla
@@ -131,6 +132,7 @@
 460092	Nova de ácido
 326021	Glóbulo ácido
 326017	Ácido de descomposición
+326090	Asalto punzante
 
 ; Boss: Ingra Maloch
 323137	Polen desconcertante
@@ -414,7 +416,6 @@
 
 ; Boss: Trash
 334748	Drenar fluidos
-323190	Escudo de carne
 323347	Oscuridad aferradora
 322756	Cólera de Zolramus
 321780	Animar a los muertos
@@ -470,6 +471,7 @@
 321368	Égida ligada al hielo
 320788	Ataduras congeladas
 321894	Exilio oscuro
+328181	Frío gélido
 
 
 ; -------------------------------------

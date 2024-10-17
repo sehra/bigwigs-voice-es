@@ -7,7 +7,7 @@
 ; Boss: Trash
 451871	Temblor masivo
 456696	Pisotón de obsidiana
-451613	Llama Crepuscular
+451612	Llama Crepuscular
 451614	Ascua crepuscular
 451939	Viento umbrío
 76711	Abrasar mente

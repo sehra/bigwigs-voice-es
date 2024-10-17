@@ -80,6 +80,8 @@
 458090	Corte del Vacío
 458099	Oscuridad enredadora
 449038	Púas empaladoras
+457880	Ascensión
+457448	Erupción de las Sombras
 450519	Red de pescador
 450492	Rugido horrendo
 450505	Babas debilitantes

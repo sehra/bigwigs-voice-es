@@ -353,14 +353,16 @@
 256957	Caparazón hermético
 272662	Gancho de hierro
 257170	Tempestad salvaje
+257270	Emboscada de hierro
 257288	Tajo pesado
 454437	Carga de azerita
+275826	Grito reforzador
 272421	Artillería avistada
 268260	Andanada
-275826	Grito reforzador
 257169	Rugido aterrorizador
 272711	Embate aplastante
 272546	Aluvión de plátanos
+454440	Vómito apestoso
 272571	Aguas asfixiantes
 275835	Revestimiento de veneno punzante
 
@@ -368,6 +370,7 @@
 274002	Llamar a los Marea de Hierro
 257459	Enganche
 257348	Gancho de carnicero
+;272662	Gancho de hierro
 257326	Choque sangriento
 257585	Tromba de cañón
 273721	Artillería pesada

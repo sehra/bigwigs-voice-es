@@ -160,14 +160,15 @@
 447456	Veneno paralizante
 447411	Arrebatar
 443403	Penumbra
+460369	Puerta de las Sombras
 449940	Apocalipsis ácido
 447950	Explosión de las Sombras
 448046	Erupción de penumbra
 447967	Toque de penumbra
-462558	Ruptura sísmica
 448458	Apocalipsis cósmico
 448147	Expulsión
 451600	Haz de expulsión
+455374	Detonación oscura
 449236	Colmillos cáusticos
 443888	Infusión abisal
 455387	Reverberación abisal
