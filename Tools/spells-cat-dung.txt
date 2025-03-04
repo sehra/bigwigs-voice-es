@@ -7,10 +7,12 @@
 ; Boss: Trash
 451871	Temblor masivo
 456696	Pisotón de obsidiana
+451364	Golpe brutal
 451612	Llama Crepuscular
 451614	Ascua crepuscular
 451939	Viento umbrío
-76711	Abrasar mente
+451378	Desgarre
+76711	Mente encadenada
 451965	Despertar fundido
 451971	Puño de lava
 451224	Llama de las Sombras envolvente

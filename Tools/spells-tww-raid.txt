@@ -115,6 +115,7 @@
 440179	Enredado
 441791	Erupción enterrada
 438801	Llamada del enjambre
+438749	Fijación de escarabajo
 440504	Erupción empaladora
 449857	Empalado
 438218	Golpe perforador
@@ -183,5 +184,166 @@
 443726	Prole de la penumbra
 443336	Engullir
 451832	Evolución cataclísmica
+
+
+; -------------------------------------
+; Zone: Liberation of Undermine
+; -------------------------------------
+
+; Boss: Trash
+
+; Boss: Vexie and the Geargrinders
+466615	Blindaje protector
+471403	Motocarnicería implacable
+459943	Llamar a moteros
+459678	Derramar aceite
+459683	Mancha de petróleo
+468216	Fuego incendiario
+459978	¡Bomba voyage!
+465865	Tronchatanques
+468147	Vapores de combustión
+460116	Puesta a punto
+
+; Boss: Cauldron of Carnage
+465833	Choque colosal
+471660	Guardia levantada
+471557	Rey de la carnicería
+1221826	Altercado diminuto
+472222	Flema virulenta
+473650	Bomba chatarra
+1214039	Poza de arrabio
+1213690	Flema fundida
+472233	Rugicañón de ráfaga ígnea
+1214190	Pisotón de erupción
+472225	Flema galvanizada
+474159	Carga estática
+463900	Salva de tambores atronadores
+1213994	Imagen voltaica
+463925	Electricidad persistente
+466178	Azote de relámpago
+
+; Boss: Rik Reverb
+473748	¡Amplificación!
+1217122	Voltaje persistente
+468119	Ecos resonantes
+1214598	En trance
+466093	Averiado
+466866	Cántico resonante
+467606	Cañón sónico
+466979	Descarga defectuosa
+472306	Ignición de chispa explosiva
+1214164	Emoción
+464518	Acúfenos
+473260	Caída estridente
+473655	¡Fiebre de bombo!
+
+; Boss: Stix Bunkjunker
+464399	Clasificación electromagnética
+461536	Chatarra rodante
+465741	Vertedero
+465611	¡Arrollado!
+464854	Montón de basura
+465747	Explosión destructora amortiguada
+1217975	Afectado por una explosión destructora
+1219384	Cohetes de chatarra
+1220648	Marcado para reciclaje
+466748	Mordedura infectada
+464149	Incinerador
+472893	Incineración
+464248	Basura ardiente
+464112	Demoler
+1217954	Fusión
+467117	Sobrecarga
+467135	Compactador de basura
+1218704	Prototipo de bobina eléctrica
+
+; Boss: Sprocketmonger Lockenstock
+1216802	Generador de polarización
+1216911	Posipolarización
+1216934	Negapolarización
+1219047	Explosión catastrófica polarizada
+473276	¡Activar inventos!
+1217231	Acribillapiés
+1218342	Metralla inestable
+1218418	Transferencia de cable
+1216509	Metedura de pata
+465232	Gran bum sónico
+1214878	Paquete pirotécnico festivo
+465917	Mugre gravitacional
+466860	Filo sangrante
+1218319	Reventón del Vacío
+468791	Gigamuerte
+
+; Boss: The One-Armed Bandit
+460181	Línea de pago
+460444	¡Apostador!
+469993	Escape repugnante
+460472	El gran golpe
+461060	¡Gira para ganar!
+461068	¡Fraude detectado!
+465009	Mirada explosiva
+474665	Imán de monedas
+464705	Oportunidad de oro
+460582	¡Sobrecarga!
+471927	Llamas fulminantes
+465765	Ciclo de mantenimiento
+465432	Máquinas conectadas
+465322	Calor caliente
+465580	Pago desperdigado
+465587	Premio explosivo
+
+; Boss: Mug’Zee, Heads of Security
+466385	Moxie
+1216142	Furia ambivalente
+472631	Cárcel sacudetierras
+1214623	Enfurecido
+472782	Presentar respetos
+470910	Fuga de la prisión
+466476	Botas de escarcha fragmentada
+466480	Lanza de escarcha fragmentada
+466509	Pistola de dedo de furia de tormenta
+466518	Nudillos de oro fundido
+467202	Goteo dorado
+466539	Minas reptadoras inestables
+469043	Metralla abrasadora
+467380	Cohete guiado goblin
+466545	Lluvia de proyectiles
+-31766	Emisor de descargas Mk. II
+1215595	Cableado defectuoso
+469491	Tiro de hachazo doble
+469391	Herida perforante
+1215953	Carga estática
+471574	Tormenta de balas
+463967	Ansia de sangre
+
+; Boss: Chrome King Gallywix
+1220761	Botes del ingeniero mecánico
+466340	Botes de dispersión
+465952	Montonazos de bombas enormes
+466154	Quemaduras de explosión
+466165	Torpedo de fogueo
+466246	Detonación enfocada
+1217292	Chisporroteo de liberación temporal
+467182	Supresión
+466751	Soltando calor
+1220290	Disparos trucados
+469286	Gigabobinas
+469327	Gigaexplosión
+469404	¡Giga-BUM!
+1220846	Fallo de controles
+1215209	Sabotear zona
+466341	Botes explosivos
+-31482	Técnico de Fundisombras
+469362	Gigabomba cargada
+471352	¡Ponlo en marcha!
+466834	Ráfaga de descargas
+1216845	Llave
+1216852	Ira torpe
+1214226	Haciendo un cráter
+1214229	Blindaje apocalíptico
+1214369	¡¡DESTRUCCIÓN TOTAL!!
+1214607	Gran tromba de explosiones
+466342	Botes tic-tac
+466958	Comprobación de ego
 
 

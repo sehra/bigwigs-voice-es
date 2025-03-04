@@ -416,13 +416,16 @@
 
 ; Boss: Trash
 334748	Drenar fluidos
+320696	Garra ósea
 323347	Oscuridad aferradora
 322756	Cólera de Zolramus
 321780	Animar a los muertos
 327396	Destino lúgubre
 328667	Salva de descarga de Escarcha
+321807	Deshuesar
 324293	Chillido estridente
 343470	Escudo triturahuesos
+324323	Cuchilla espantosa
 335143	Alivio de huesos
 320822	Trato final
 320464	Pozo de las Sombras
@@ -443,9 +446,11 @@
 
 ; Boss: Blightbone
 320596	Arcadas fulminantes
-320630	Atracón de sangre
 320637	Gas fétido
 320655	Morder
+320717	Hambre de sangre
+320630	Atracón de sangre
+320631	Erupción de carroñero
 
 ; Boss: Amarth, The Harvester
 321226	Tierra de los muertos
@@ -479,65 +484,67 @@
 ; -------------------------------------
 
 ; Boss: Trash
+341902	Fervor profano
 333241	Rabieta enfurecida
-319290	Escudo de carne
-330700	Añublo putrefacto
-341969	Descarga marchitadora
+341977	Escudo de carne
+330697	Golpe putrefacto
+321039	Ráfaga desagradable
 341949	Añublo marchitador
+341969	Descarga marchitadora
 330586	Devorar carne
-332836	Golpe cortante
 330614	Erupción vil
-342139	Trance de batalla
-342125	Salto brutal
-342135	Rugido interruptor
+342103	Bilis rancia
+1215850	Aplastatierras
+331316	Aluvión salvaje
 317605	Torbellino
-337037	Hoja giratoria
-332708	Golpe en el suelo
+342135	Rugido interruptor
+336995	Hoja giratoria
+331288	Machaque colosal
 333861	Hoja rebotadora
+333845	Arremetida desequilibrante
 334023	Arremetida sanguinaria
 330562	Grito desmoralizador
+330565	Azote de escudo
 333827	Pisotón sísmico
-331275	Guardia inquebrantable
-333845	Arremetida desequilibrante
 330716	Tormenta de almas
 330725	Vulnerabilidad a las Sombras
 330868	Salva de descarga necrótica
-333708	Corrupción de alma
 342675	Lanza ósea
 333294	Vientos de la muerte
+333299	Maldición de desolación
 331223	Tormenta de huesos
 331237	Púas óseas
 
 ; Boss: An Affront of Challengers
-320063	Embate
+1215741	Machaque poderoso
 320069	Golpe mortal
-324085	Enfurecer
-326892	Fijar
-320248	Alteración genética
+320182	Esporas nocivas
+1215738	Aliento putrefacto
 333231	Muerte abrasadora
-320293	Unión con la muerte
-320272	Transferencia espectral
-333540	Golpes oportunos
+1215600	Toque marchitador
 
 ; Boss: Gorechop
-323515	Golpe de odio
 322795	Ganchos de carnicero
+323515	Golpe de odio
+323750	Gas inmundo
 318406	Machaque reblandecedor
+321447	Moco coagulante
 
 ; Boss: Xav the Unfallen
-320644	Combo brutal
-320102	Sangre y gloria
+320114	Sangre y gloria
 331618	Estandarte opresivo
+320644	Combo brutal
 320050	Poderío de Maldraxxus
 320729	Tajo enorme
 317231	Embate aplastante
 339415	Pisotón ensordecedor
 
 ; Boss: Kul'tharok
-319521	Extraer alma
-319637	Alma reclamada
-319626	Parásito fantasmal
-319669	Alcance espectral
+474087	Erupción necrótica
+1223803	Pozo de oscuridad
+474298	Extraer alma
+473513	Festín del condenado
+1215787	Espiral de muerte
 
 ; Boss: Mordretha, the Endless Empress
 324079	Guadaña segadora

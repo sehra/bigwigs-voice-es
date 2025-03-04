@@ -208,22 +208,21 @@
 303941	Contramedida defensiva
 301088	Detonar
 294103	Tromba de cohetes
-294324	Megataladro
-294290	Procesar residuos
-294349	Residuos volátiles
+1215409	Megataladro
+1215411	Pinchar
+1215412	Mugre corrosiva
+1217819	Mandíbulas ígneas
 293827	Gigadescarga
+293854	Activar ardilla antipersona
 293861	Ardilla antipersona
 294195	Electrocución voltaica
 297133	Contramedida defensiva
 297128	Provocar cortocircuito
-294015	Lanzar cohetes altamente explosivos
 293986	Impulso sónico
 295169	Descarga de capacitador
 293729	Puesta a punto
 293930	Revolucionar
-293670	Hoja de cadenas
 293683	Generador de escudo
-294180	Desecho llameante
 
 ; Boss: King Gobbamak
 297254	Machaque cargado
@@ -256,30 +255,34 @@
 303885	Explosión fulminante
 
 ; Boss: Tussle Tonks
+1216443	Tormenta eléctrica
 282801	Blindaje de platino
-285020	Filo giratorio
-285344	Colocar mina
-285152	Lanzaenemigos
-285388	Conductos de reactor
+1215065	Porrazo de platino
+1215102	Aporrear suelo
 283422	Aceleración máxima
+1216431	Mina de C0MB473
+285152	Lanzaenemigos
 
 ; Boss: K.U.-J.0.
 291930	Entrega aérea
 291946	Soltar llamas
+291937	Ocultándose tras la chatarra
 291973	Salto explosivo
 294929	Dentellada llameante
 
 ; Boss: Machinist's Garden
+294853	Activar planta
 294855	Explosión de pétalos
 285440	Cañón de llamas "oculto"
 285454	Descombo-BUM-lador
 
 ; Boss: King Mechagon
 291865	Recalibración
-291928	Gigachispazo
+291928	Megadescarga
 291613	¡Despegue!
 291626	Haz cortante
 283551	Magnetobrazo
+292264	Megadescarga
 292290	Protocolo noventa y nueve
 
 
@@ -349,14 +352,17 @@
 ; Boss: Trash
 256627	Zumbababas
 ;257732	Bramido devastador
+256616	Rompedientes
 256640	Alquitrán ardiente
 256957	Caparazón hermético
 272662	Gancho de hierro
 257170	Tempestad salvaje
 257270	Emboscada de hierro
+256709	Acero silbante
 257288	Tajo pesado
 454437	Carga de azerita
 275826	Grito reforzador
+257168	Tajo maldito
 272421	Artillería avistada
 268260	Andanada
 257169	Rugido aterrorizador
@@ -364,6 +370,7 @@
 272546	Aluvión de plátanos
 454440	Vómito apestoso
 272571	Aguas asfixiantes
+272588	Heridas putrefactas
 275835	Revestimiento de veneno punzante
 
 ; Boss: Chopper Redhook
@@ -450,56 +457,56 @@
 ; -------------------------------------
 
 ; Boss: Trash
-268846	Hoja de eco
-268865	Cañón de fuerza
-269302	Hojas tóxicas
-267433	Activar meca
-281621	Carga de conmoción
-268709	Escudo de tierra
-263202	Lanza de roca
-268702	Temblor furioso
-263215	Barrera tectónica
-263066	Suero de transfiguración
-263103	Soplete
-262540	Sobrecarga
-262554	Reparar
-262947	Inyección de azerita
-268797	Transmutar: enemigo en baba
-269313	Explosión final
-268362	Carga minera
-280605	Congelación cerebral
 280604	Chorro helado
-268129	Refresco de Kaja'Cola
-268415	Descarga de poder
+267433	Activar meca
+263628	Escudo cargado
+472041	Gas lacrimógeno
 262092	Inhalar vapores
-269090	Tromba de artillería
-263601	Medidas desesperadas
+1217279	Gancho
+269302	Hojas tóxicas
+267354	Abanico de cuchillos
+473168	Extracción rápida
+;1215411	Pinchar
+263202	Lanza de roca
+268362	Carga minera
+269313	Explosión final
+268712	Bolsa de bombas
+268702	Temblor furioso
+1214754	Embate masivo
+1213139	¡Horas extra!
+268846	Hoja de eco
+473304	Inspiración mental
+268797	Transmutar: enemigo en baba
 269429	Disparo cargado
-263628	Pinza cargada
+262383	Colocar mina reptadora
+262377	Buscar y destruir
+269090	Tromba de artillería
 
 ; Boss: Coin-Operated Crowd Pummeler
 269493	Lanzador de bombalones
 256493	Azerita llameante
-262347	Pulso estático
-257337	Pinza electrificante
-271784	Lanzar monedas
+271903	Imán de monedas
 271867	Pagar para ganar
+262347	Pulso estático
+1217294	Garra espantosa
+271784	Lanzar monedas
 
 ; Boss: Azerokk
 271698	Infusión de azerita
-258622	Pulso resonante
+258622	Temblor resonante
 257593	Llamar a terracundo
 257582	Mirada enfurecida
 275907	Machaque tectónico
 
 ; Boss: Rixxa Fluxflame
-270028	Catalizador de azerita
-259853	Quemadura química
-260669	Descarga motriz
+270042	Catalizador de azerita
+259940	Descarga motriz
+275992	Catalizador chorreante
+259856	Quemadura química
 
 ; Boss: Mogul Razdunk
 260280	Ametralladora pesada
-260829	Misil buscador
+260813	Misil buscador
 276229	Micromisiles
 271456	Machaque perforante
 

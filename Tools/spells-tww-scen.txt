@@ -5,7 +5,7 @@
 ; -------------------------------------
 
 ; Boss: Fungarian
-427710	Esporexplosión
+1217589	Esporexplosión
 414944	Rugido de batalla
 424891	Lanza de enredadera
 424773	Esporagénesis
@@ -15,6 +15,15 @@
 425042	Oleada de esporas
 424750	Esporas infecciosas
 372529	Risa espantosa
+
+; Boss: Goblin
+473684	Tormenta de engranajes
+473550	Tromba de cohetes
+474001	Baño en sangre
+473995	Baño de sangre
+473972	Carga imprudente
+474004	Temblor de taladro
+1213656	¡Horas extra!
 
 ; Boss: Kobold
 449071	Mecha llameante
@@ -52,6 +61,15 @@
 443482	Bendición del ocaso
 440205	Infligir muerte
 
+; Boss: Old God
+474325	Agarre abisal
+474482	Reclamo del Vacío
+474511	Machaque de las Sombras
+474206	Pisotón de las Sombras
+474223	Machaque de conmoción
+474155	Estela de babas
+474228	Explosión de las Sombras
+
 ; Boss: Underkeep
 451913	Orbe de tejido nefasto
 ;450714	Púas dentadas
@@ -61,7 +79,28 @@
 448161	Enfurecer
 453149	Telaraña de gasa
 
-; Boss: Rares
+; Boss: Underpin Rares
+1216790	Carga frontal
+1216794	Cañón alfa
+1214246	Pellizco aplastante
+1214238	Endurecer caparazón
+1216805	¡Zap!
+1216806	Ahí está la puerta
+1217361	Adoraciones despreciables
+1217326	¡Sácate un selfi!
+433045	Puñalada
+1217418	Llamar a mi agente
+1217449	Llamar a mi especulador
+1217452	Llamar a mi madre
+1217510	Marcación rápida
+1218061	Mecha áurea
+1218017	Bombardeo de cangrebomba
+1218039	Granadas tejidas
+1213497	Yo enloquecer
+1220869	Rompehuesos
+1217301	Carga temeraria
+
+; Boss: Zekvir Rares
 445781	Explosión de lava
 445718	Martillo de magma
 415253	Aliento fúngico
@@ -105,6 +144,7 @@
 415406	Tormenta fúngica
 415499	Mareo
 415492	Carga fúngica
+415495	Hongo viscoso
 425315	Hongoexplosión
 
 
@@ -225,9 +265,7 @@
 447187	Desgarro del Vacío
 447143	Telarañas opresoras
 
-; Boss: Researcher Xik'vi
-;446832	Infusión de veneno
-;463408	Infusión de Escarcha
+; Boss: Researcher Xik'vik
 ;447187	Desgarro del Vacío
 ;447143	Telarañas opresoras
 
