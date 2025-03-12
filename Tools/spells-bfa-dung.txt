@@ -472,6 +472,7 @@
 269313	Explosión final
 268712	Bolsa de bombas
 268702	Temblor furioso
+263215	Barrera tectónica
 1214754	Embate masivo
 1213139	¡Horas extra!
 268846	Hoja de eco

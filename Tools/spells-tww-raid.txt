@@ -245,6 +245,7 @@
 464854	Montón de basura
 465747	Explosión destructora amortiguada
 1217975	Afectado por una explosión destructora
+473119	Mecha corta
 1219384	Cohetes de chatarra
 1220648	Marcado para reciclaje
 466748	Mordedura infectada
@@ -309,7 +310,8 @@
 467380	Cohete guiado goblin
 466545	Lluvia de proyectiles
 -31766	Emisor de descargas Mk. II
-1215595	Cableado defectuoso
+1215591	Cableado defectuoso
+1222948	Escudo electrocargado
 469491	Tiro de hachazo doble
 469391	Herida perforante
 1215953	Carga estática
@@ -318,32 +320,33 @@
 
 ; Boss: Chrome King Gallywix
 1220761	Botes del ingeniero mecánico
-466340	Botes de dispersión
 465952	Montonazos de bombas enormes
 466154	Quemaduras de explosión
+466153	Bumbabum de acción retardada
 466165	Torpedo de fogueo
 466246	Detonación enfocada
 1217292	Chisporroteo de liberación temporal
 467182	Supresión
 466751	Soltando calor
-1220290	Disparos trucados
+1222831	Bobinas sobrecargadas
+466340	Botes de dispersión
 469286	Gigabobinas
 469327	Gigaexplosión
+469362	Gigabomba cargada
 469404	¡Giga-BUM!
-1220846	Fallo de controles
+469795	Detonación de gigabomba
+1220669	Controles saboteados
 1215209	Sabotear zona
 466341	Botes explosivos
--31482	Técnico de Fundisombras
-469362	Gigabomba cargada
-471352	¡Ponlo en marcha!
 466834	Ráfaga de descargas
 1216845	Llave
 1216852	Ira torpe
-1214226	Haciendo un cráter
 1214229	Blindaje apocalíptico
 1214369	¡¡DESTRUCCIÓN TOTAL!!
 1214607	Gran tromba de explosiones
+1214755	Cohetes sobrecargados
 466342	Botes tic-tac
+1219333	Explosión final de Gallybusto
 466958	Comprobación de ego
 
 

@@ -24,6 +24,9 @@
 473972	Carga imprudente
 474004	Temblor de taladro
 1213656	¡Horas extra!
+473541	Frenesí de puñetazos
+473696	Cóctel molotov
+472842	Destruir
 
 ; Boss: Kobold
 449071	Mecha llameante
@@ -42,6 +45,7 @@
 445774	Frenesí vapuleador
 374898	Enfurecer
 445771	Oleada de burbujas
+433040	Paso ilusorio
 
 ; Boss: Nerubian
 450714	Púas dentadas
@@ -69,6 +73,7 @@
 474223	Machaque de conmoción
 474155	Estela de babas
 474228	Explosión de las Sombras
+455662	Sombras enredadoras
 
 ; Boss: Underkeep
 451913	Orbe de tejido nefasto
@@ -80,10 +85,12 @@
 453149	Telaraña de gasa
 
 ; Boss: Underpin Rares
-1216790	Carga frontal
-1216794	Cañón alfa
+418295	Tajo umbrío
+418297	Reprender
 1214246	Pellizco aplastante
 1214238	Endurecer caparazón
+1216790	Carga frontal
+1216794	Cañón alfa
 1216805	¡Zap!
 1216806	Ahí está la puerta
 1217361	Adoraciones despreciables
@@ -99,6 +106,10 @@
 1213497	Yo enloquecer
 1220869	Rompehuesos
 1217301	Carga temeraria
+1216937	Gran entrada del Pez Hondo
+1213852	Machacar
+1217371	Lanzallamas
+1214147	Lanzador de bombas de relojería
 
 ; Boss: Zekvir Rares
 445781	Explosión de lava
@@ -109,8 +120,8 @@
 400335	Trampas de púas
 461741	Consagración
 459421	Luz Sagrada
-418295	Tajo umbrío
-418297	Reprender
+;418295	Tajo umbrío
+;418297	Reprender
 458325	Danza evasiva
 458311	Mordedura de veneno
 458397	Grito interruptor
@@ -127,18 +138,77 @@
 
 
 ; -------------------------------------
+; Zone: Demolition Done
+; -------------------------------------
+
+; Boss: The Underpin (Tier 8)
+;1213852	Machacar
+;1217371	Lanzallamas
+;1214147	Lanzador de bombas de relojería
+1215521	Avisar a secuaces
+1214052	Desviar energía a los escudos
+1214053	Recargar
+1214043	Cañón fundido
+1218153	Restos ardientes
+
+; Boss: The Underpin (Tier 11)
+;1213852	Machacar
+;1217371	Lanzallamas
+;1214147	Lanzador de bombas de relojería
+1217661	Avisar a secuaces
+1217667	Desviar energía a los escudos
+1217666	Recargar
+;1214043	Cañón fundido
+;1218153	Restos ardientes
+
+
+; -------------------------------------
 ; Zone: Earthcrawl Mines
 ; -------------------------------------
+
+; Boss: Maklin Drillstab
+1217905	Pedir máquina topo
+1217903	Descarga de Fuego
+1217913	Quemadura oscura
 
 ; Boss: Web General Ab'enar
 448443	Maldición de agonía
 448412	Carro en llamas
 448444	Grilletes rúnicos
 
+; Boss: The Biggest Bug
+;448443	Maldición de agonía
+;448444	Grilletes rúnicos
+
+
+; -------------------------------------
+; Zone: Excavation Site 9
+; -------------------------------------
+
+; Boss: Craggle Fritzbrains
+1214135	¡Que llueva!
+1214504	Inventiva goblin
+
+; Boss: Harbinger Ul'thul
+1213776	Maldición desesperada
+1213785	Demolición completa
+1213700	Llamada sin respuesta
+
+; Boss: Xel'anegh The Many
+1213804	Tromba de las Sombras
+1213426	Embate de tentáculo
+1213425	Rugido aterrorizador
+
 
 ; -------------------------------------
 ; Zone: Fungal Folly
 ; -------------------------------------
+
+; Boss: Maulspike
+1214614	Destripar y desgarrar
+1214620	Arenga alentadora
+1214656	Bramido molesto
+1214680	Carcajada espantosa
 
 ; Boss: Spinshroom
 415406	Tormenta fúngica
@@ -172,6 +242,11 @@
 ; Zone: Nightfall Sanctum
 ; -------------------------------------
 
+; Boss: Cult Leaders
+;434740	Barrera de las Sombras
+458874	Ola de las Sombras
+;443482	Bendición del ocaso
+
 ; Boss: Reformed Fury
 443837	Difusión de las Sombras
 ;443482	Bendición del ocaso
@@ -184,6 +259,25 @@
 ;443837	Difusión de las Sombras
 443908	¡Fuego!
 443840	Oleada de desolación
+
+
+; -------------------------------------
+; Zone: Sidestreet Sluice
+; -------------------------------------
+
+; Boss: Geargrave
+1215957	Garra temblorosa
+1215905	Cañón de matanza
+1215912	Sangre negra
+1215975	¡Ponlo en marcha!
+
+; Boss: Gold Elemental
+;473696	Cóctel molotov
+
+; Boss: Vindle Snapcrank
+1215870	Machaque de piñones
+1215337	Cacharro bomba
+1215374	Mantenimiento de choque
 
 
 ; -------------------------------------
@@ -200,7 +294,7 @@
 440806	Machaque de falla oscura
 
 ; Boss: Speaker Xanventh
-458874	Ola de las Sombras
+;458874	Ola de las Sombras
 458834	Giro sombrío
 458879	Bendición del ocaso
 
@@ -228,6 +322,11 @@
 ; -------------------------------------
 ; Zone: The Sinkhole
 ; -------------------------------------
+
+; Boss: Cragpie
+470612	Bilis corrosiva
+359016	Presteza
+390943	Cataclismo eléctrico
 
 ; Boss: Leviathan Caller
 446079	Llamada del abismo
@@ -269,10 +368,24 @@
 ;447187	Desgarro del Vacío
 ;447143	Telarañas opresoras
 
+; Boss: Torque Clankfire and Sprok
+1215033	Misiles de mecha larga
+1215090	Tácticas evasivas
+1215084	Cóctel de Fundisombras
+1215015	¿Es este, jefe?
+
 
 ; -------------------------------------
 ; Zone: The Waterworks
 ; -------------------------------------
+
+; Boss: Shroomsprew
+;415406	Tormenta fúngica
+;415499	Mareo
+;415495	Hongo viscoso
+;415492	Carga fúngica
+363194	Estela de babas
+;425315	Hongoexplosión
 
 ; Boss: Waxface
 450330	Lanzar cera
@@ -284,7 +397,7 @@
 ; Zone: Zekvir's Lair
 ; -------------------------------------
 
-; Boss: Zekvir (Tier ?)
+; Boss: Zekvir (Tier 8)
 450451	Machaque con garras
 ;450505	Babas debilitantes
 ;450492	Rugido horrendo
@@ -293,7 +406,7 @@
 453937	Eclosionando...
 450597	Ráfaga de telarañas
 
-; Boss: Zekvir (Tier ??)
+; Boss: Zekvir (Tier 11)
 ;450451	Machaque con garras
 ;450505	Babas debilitantes
 ;450492	Rugido horrendo
