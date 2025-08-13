@@ -8,21 +8,19 @@
 434830	Tela de araña vil
 436614	Trampa arácnida
 439208	Trampa de seda
-438622	¡Amplificación!
 434793	Tromba resonante
 434824	Pulverizador de telaraña
 434802	Berrido horripilante
 438877	Llamada de la progenie
 438826	Nube venenosa
 453161	Empalar
-465012	Embate
+1241693	Enjambre de langostas
 432967	Berrido de alarma
 433002	Golpe de extracción
 448248	Salva repugnante
 433845	Telarañas en erupción
 433841	Salva de veneno
-433785	Tajo enredador
-434252	Embate masivo
+1241785	Sangre corrupta
 433821	Golpe arrasador
 
 ; Boss: Avanoxx
@@ -36,6 +34,7 @@
 439506	Carga enterrada
 433740	Infestación
 433766	Ojo del enjambre
+433781	Enjambre incesante
 442210	Ataduras sedosas
 
 ; Boss: Ki'katal the Harvester
@@ -53,7 +52,10 @@
 ; Boss: Trash
 437721	Llamas hirvientes
 437956	Inferno en erupción
+434773	Jarrazo
 463218	Barril volátil
+434756	Lanzar silla
+441408	Sediento
 434706	Lanzamiento de Tragoceniza
 463206	Ablandar
 434998	Filetes al punto
@@ -61,6 +63,7 @@
 441434	Lote fallido
 448619	Envío imprudente
 441179	Rezumando miel
+441214	Derramar bebida
 441242	¿Muestras gratuitas?
 441119	Abejazuca
 441351	Cólera zumbante
@@ -83,12 +86,13 @@
 440147	¡Llénala!
 439202	Fermentación ardiente
 439031	Gancho por lo bajo
-;441179	Rezumando miel
+440087	Rezumando miel
 
 ; Boss: Benk Buzzbee
 438025	Hora de picotear
 439524	Batida de alas
 440134	Marinado con miel
+438971	Aguijón triturador
 
 ; Boss: Goldie Baronbottom
 435560	¡A repartir amor!
@@ -177,6 +181,7 @@
 426260	Piropuñetazo
 422393	Oscuridad agobiante
 422541	Drenar luz
+469620	Sombra espeluznante
 
 ; Boss: Ol' Waxbeard
 422116	Carga imprudente
@@ -225,9 +230,9 @@
 424423	Golpe en embestida
 424431	Radiancia Sagrada
 448515	Sentencia divina
-424420	Explosión de ceniza
 424462	Tormenta de ascuas
 427609	Grito perturbador
+427621	Empalar
 427342	Defender
 453458	Abrojos
 462859	Tiro sin apuntar
@@ -245,7 +250,7 @@
 
 ; Boss: Captain Dailcry
 424419	Grito de batalla
-447270	Tirar lanza
+1238780	Lanza rompeterra
 424414	Perforar armadura
 447439	Vapuleo salvaje
 
@@ -274,6 +279,7 @@
 
 ; Boss: Trash
 449042	Luz radiante
+1242074	Intensificando la agresión
 431309	Sombras enredadoras
 432448	Semilla estigia
 431364	Rayo atormentador
@@ -290,9 +296,7 @@
 431494	Filo negro
 451112	Ira del estratega
 432520	Barrera umbría
-431637	Carga umbría
 432565	Granizo negro
-431304	Témpanos oscuros
 431349	Erupción atormentadora
 446615	Llamar a los refuerzos
 
@@ -437,15 +441,13 @@
 465827	Distorsionar sangre
 465813	Ponzoña aletargante
 462771	Haz de reconocimiento
+463169	Dinamita para tontos III
 465408	Construcción rápida
 468726	Plantar carga de seforio
 468631	Arpón
 471736	Tirar alga
 471733	Algas restauradoras
 1214337	Colocar bombas
-469818	Eructo de burbuja
-1217496	Salpica, salpica
-469721	Babas restantes
 469799	Sobrecarga
 465666	Embate de chispas
 
@@ -464,6 +466,7 @@
 460867	¡Gran badabum!
 1217653	A.F.C.B.A.
 473690	Gel explosivo cinético
+460602	Disparo presuroso
 459779	Carga arrolladora
 459799	Paliza
 
@@ -479,5 +482,57 @@
 468813	Gigachispa
 466190	Puñetazo de trueno
 468723	Agua electrizante
+
+
+; -------------------------------------
+; Zone: Eco-Dome Al'dani
+; -------------------------------------
+
+; Boss: Trash
+1236981	Granada de alteración
+1239229	Oleada k'areshi
+1229474	Engullir
+1221152	Machaque engullidor
+1221190	Miasma glotón
+1226111	Eyección volátil
+1235368	Tajo Arcano
+1231244	Núcleo inestable
+1222202	Quemadura Arcana
+1229510	Electrocución voltaica
+1222356	Distorsión
+1221483	Arco de energía
+1221532	Ritual errático
+1248699	Consumo de espíritu
+1226492	Ritual interrumpido
+1223000	Abrazo de K'aresh
+1237195	Carga enterrada
+1237220	Tormenta de arena hiriente
+;1215850	Aplastatierras
+1223007	Erupción excavadora
+1222341	Mordisco tenebroso
+
+; Boss: Azhiccar
+1217232	Devorar
+1217247	Festín
+1217327	Graznido invasor
+1227745	Regurgitación tóxica
+1217446	Babas digestivas
+1217664	Vapulear
+
+; Boss: Taah'bat and A'wazj
+1236130	Jabalina vinculadora
+1227918	Golpe de distorsión
+1219482	Garras de falla
+1219700	Ataque relámpago Arcano
+1219457	Incorpóreo
+1219731	Desestabilizado
+
+; Boss: Soul-Scribe
+1224793	Susurros del destino
+1224865	Vinculado al destino
+1226444	Destino herido
+1236703	Tejido eterno
+1225218	Terror a lo desconocido
+1225174	Daga ceremonial
 
 

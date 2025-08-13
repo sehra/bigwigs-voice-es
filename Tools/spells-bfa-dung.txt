@@ -266,7 +266,6 @@
 ; Boss: K.U.-J.0.
 291930	Entrega aérea
 291946	Soltar llamas
-291937	Ocultándose tras la chatarra
 291973	Salto explosivo
 294929	Dentellada llameante
 
@@ -275,6 +274,8 @@
 294855	Explosión de pétalos
 285440	Cañón de llamas "oculto"
 285454	Descombo-BUM-lador
+292332	Seto autopodante
+1213154	Suelo electrificado
 
 ; Boss: King Mechagon
 291865	Recalibración
@@ -459,6 +460,7 @@
 ; Boss: Trash
 280604	Chorro helado
 267433	Activar meca
+267980	Pistola de grasa
 263628	Escudo cargado
 472041	Gas lacrimógeno
 262092	Inhalar vapores
@@ -475,8 +477,10 @@
 263215	Barrera tectónica
 1214754	Embate masivo
 1213139	¡Horas extra!
+1214751	Carga brutal
 268846	Hoja de eco
 473304	Inspiración mental
+262794	Latigazo mental
 268797	Transmutar: enemigo en baba
 269429	Disparo cargado
 262383	Colocar mina reptadora

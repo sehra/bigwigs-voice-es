@@ -25,8 +25,10 @@
 474004	Temblor de taladro
 1213656	¡Horas extra!
 473541	Frenesí de puñetazos
+473537	Gancho
 473696	Cóctel molotov
 472842	Destruir
+1237160	Charco de radiación
 
 ; Boss: Kobold
 449071	Mecha llameante
@@ -138,6 +140,30 @@
 
 
 ; -------------------------------------
+; Zone: Archival Assault
+; -------------------------------------
+
+; Boss: Captain Nihitan
+1239350	¡Tripulación a mí!
+1239427	¡Al fondo con ese!
+1239445	Andanada
+1239533	Residuo cósmico
+1239407	Atravesar
+
+; Boss: Portalmaster Halsan
+1241753	Infusión de portal
+1241991	Bomba de relojería k'areshi
+1242142	Implosión
+
+; Boss: Voidrider Challnax
+1238892	Aliento de la nada
+1238909	Devastación umbría
+1239134	Tranquilización Cósmica
+1238919	Potenciación del Vacío
+1238930	Empalar
+
+
+; -------------------------------------
 ; Zone: Demolition Done
 ; -------------------------------------
 
@@ -195,9 +221,10 @@
 1213700	Llamada sin respuesta
 
 ; Boss: Xel'anegh The Many
-1213804	Tromba de las Sombras
+1213791	Tromba de las Sombras
 1213426	Embate de tentáculo
 1213425	Rugido aterrorizador
+1213275	Herido
 
 
 ; -------------------------------------
@@ -236,6 +263,7 @@
 454213	Carga de mugre
 470582	Descarga del pantano
 453897	Cantoespora
+427710	Esporexplosión
 
 
 ; -------------------------------------
@@ -247,7 +275,7 @@
 458874	Ola de las Sombras
 ;443482	Bendición del ocaso
 
-; Boss: Reformed Fury
+; Boss: Speaker Davenruth
 443837	Difusión de las Sombras
 ;443482	Bendición del ocaso
 444408	Cólera del orador
@@ -259,6 +287,14 @@
 ;443837	Difusión de las Sombras
 443908	¡Fuego!
 443840	Oleada de desolación
+
+; Boss: Speaker Wicke
+;443837	Difusión de las Sombras
+470592	Bendición del ocaso
+;444408	Cólera del orador
+;444479	Salva Fuegoscuro
+470593	Infligir muerte
+;434281	Eco de Renilash
 
 
 ; -------------------------------------
@@ -391,6 +427,19 @@
 450330	Lanzar cera
 450142	Arder
 450128	Gas nocivo
+
+
+; -------------------------------------
+; Zone: Voidrazor Sanctuary
+; -------------------------------------
+
+; Boss: Nexus-Princess Ky'veza (Tier 11)
+1245240	Dagas del Nexo
+1245582	Falla abisal
+1245203	Masacre oscura
+1244462	Invocar a las Sombras
+1244600	Erupción de las Sombras
+1250052	Las Sombras
 
 
 ; -------------------------------------

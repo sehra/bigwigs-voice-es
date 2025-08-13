@@ -196,7 +196,7 @@
 466615	Blindaje protector
 471403	Motocarnicería implacable
 459943	Llamar a moteros
-459678	Derramar aceite
+459678	Derramar petróleo
 459683	Mancha de petróleo
 468216	Fuego incendiario
 459978	¡Bomba voyage!
@@ -255,25 +255,29 @@
 464112	Demoler
 1217954	Fusión
 467117	Sobrecarga
-467135	Compactador de basura
+467109	Compactador de basura
 1218704	Prototipo de bobina eléctrica
 
 ; Boss: Sprocketmonger Lockenstock
+468791	Gigamuerte
 1216802	Generador de polarización
 1216911	Posipolarización
 1216934	Negapolarización
 1219047	Explosión catastrófica polarizada
+1216706	Tromba de Vacío
 473276	¡Activar inventos!
+1221320	¡Activar inventos!
 1217231	Acribillapiés
+1216406	Deflagración inestable
 1218342	Metralla inestable
 1218418	Transferencia de cable
+466235	Transferencia de cable
 1216509	Metedura de pata
 465232	Gran bum sónico
 1214878	Paquete pirotécnico festivo
 465917	Mugre gravitacional
-466860	Filo sangrante
+466765	Lanzamiento beta
 1218319	Reventón del Vacío
-468791	Gigamuerte
 
 ; Boss: The One-Armed Bandit
 460181	Línea de pago
@@ -287,10 +291,12 @@
 464705	Oportunidad de oro
 460582	¡Sobrecarga!
 471927	Llamas fulminantes
+465309	¡Trampa ganadora!
 465765	Ciclo de mantenimiento
+473195	Máquinas conectadas
 465432	Máquinas conectadas
 465322	Calor caliente
-465580	Pago desperdigado
+465325	Calor caliente
 465587	Premio explosivo
 
 ; Boss: Mug’Zee, Heads of Security
@@ -329,13 +335,17 @@
 467182	Supresión
 466751	Soltando calor
 1222831	Bobinas sobrecargadas
+1217987	Botes combinados
+1218488	Botes de bombas de dispersión
+474130	Botes de la eminencia mecánica
+1218546	Tremenda tromba de bombas
+1218696	Cohetes caóticos
 466340	Botes de dispersión
 469286	Gigabobinas
 469327	Gigaexplosión
 469362	Gigabomba cargada
 469404	¡Giga-BUM!
 469795	Detonación de gigabomba
-1220669	Controles saboteados
 1215209	Sabotear zona
 466341	Botes explosivos
 466834	Ráfaga de descargas
@@ -348,5 +358,178 @@
 466342	Botes tic-tac
 1219333	Explosión final de Gallybusto
 466958	Comprobación de ego
+
+
+; -------------------------------------
+; Zone: Manaforge Omega
+; -------------------------------------
+
+; Boss: Trash
+
+; Boss: Plexus Sentinel
+1220679	Traslación de fase
+1219223	Atomización
+1219248	Radiación Arcana
+1227794	Relámpagos Arcanos
+1219607	Salva erradicadora
+1219450	Matrices manifiestas
+1218625	Matriz de desplazamiento
+1219354	Residuo de maná potente
+1219263	Cañón Arcano de aniquilación
+1218668	Cortador de energía
+1233110	Relámpago purgante
+1219471	Zona de expulsión
+
+; Boss: Loom'ithar
+1237272	Tejedura de guarida
+1238502	Resguardo tejido
+1226311	Atadura de infusión
+1226366	Seda viviente
+1226721	Trampa sedosa
+1226395	Ráfaga de sobreinfusión
+1237212	Hebra perforadora
+1228059	Ira desvinculada
+1243771	Icor Arcano
+1227782	Furia Arcana
+1227226	Oleada aviesa
+1246921	Pilones de infusión
+
+; Boss: Soulbinder Naazindhri
+1225582	Convocación de almas
+1227048	Emboscada de hoja del Vacío
+1227052	Ráfaga de Vacío
+1227276	Aniquilación de deshilachado de alma
+1223859	Expulsión Arcana
+1225616	Convergencia de fuego de alma
+1226827	Orbe de desgarre de alma
+1241100	Latigazo místico
+1242086	Energía Arcana
+
+; Boss: Forgeweaver Araz
+1231720	Invocar recolector
+1228214	Cosecha astral
+1236207	Oleada astral
+1228216	Desintegración Arcana
+1228219	Marca astral
+1228188	Tempestad silenciadora
+1228502	Poder sobrecogedor
+1227631	Expulsión Arcana
+1248009	Terminal oscura
+1240705	Quemadura astral
+1240437	Oleada volátil
+1232412	Iris de enfoque
+1234328	Explosión de fotones
+1232590	Convergencia Arcana
+-32596	Auxiliar escudado
+1238266	Poder ascendente
+1233415	Astilla de maná
+1233074	Oscuridad aplastante
+1243901	Cosecha del Vacío
+1243641	Oleada de Vacío
+1248171	Desgarro del Vacío
+1232221	Últimos estertores
+
+; Boss: The Soul Hunters
+1222232	Cólera del Devorador
+1222310	Apetito inagotable
+1227355	Paso del Vacío
+1227685	Tajo hambriento
+1235045	Olvido invasor
+1233105	Residuo oscuro
+1233968	Horizonte de sucesos
+1227809	La caza
+1241306	Danza de hojas
+1218103	Haz ocular
+1221490	Carbonización vil
+1225130	Hoja mácula
+1240891	Sigilo de cadenas
+1241833	Fractura
+1226493	Alma destrozada
+1241946	Flaqueza
+1242259	Bomba de espíritu
+1242284	Machacaalmas
+1242304	Alma expulsada
+1233672	Golpe infernal
+1233381	Llamas fulminantes
+
+; Boss: Fractillus
+1232130	Metralla del Nexo
+1247424	Consunción de la nada
+1225673	Destrozo enfurecido
+1233416	Ola de choque cristalina
+1224414	Ola de choque cristalina
+1220394	Revés fragmentador
+1227373	Conchadestrozo
+1227378	Revestimiento de cristal
+1231871	Embate de onda de choque
+1232760	Laceraciones de cristal
+
+; Boss: Nexus-King Salhadaar
+1224737	Vinculado por el voto
+1224767	Esclavo del rey
+1224776	Regla de subyugación
+1224787	Conquista
+1224812	Vencer
+1227549	Destierro
+1224906	Invocar el voto
+1224827	Decapitar
+1231097	Desgarro cósmico
+1227470	Asedio
+1227734	Fusionar alavacío
+1228115	Rompeabismos
+1228163	Aliento de dimensión
+1234529	Fauces cósmicas
+1230302	Autodestrucción
+1232399	Mortero aterrador
+1228075	Haces del Nexo
+1230261	Explosión abisal
+1228265	Hambre del rey
+1226648	Machaque galáctico
+1225444	Atomizados
+1225645	Pinchos crepusculares
+1226362	Cicatriz Crepuscular
+1226413	Afectado por Quiebraestrellas
+1226442	Golpe mataestrellas
+1225634	Mundo crepuscular
+1238975	Voto de venganza
+
+; Boss: Dimensius, the All-Devouring
+1230087	Embate masivo
+1228206	Exceso de masa
+1228207	Gravedad colectiva
+1230168	Fragilidad mortal
+1229038	Devorar
+1230979	Materia oscura
+1231002	Energía oscura
+1243690	Espacio destrozado
+1243702	Antimateria
+1243699	Fragmento espacial
+1243577	Revertir gravedad
+1243609	Por los aires
+1235114	Reshii planeador
+1237097	Chorro astrofísico
+1230674	Espaguetización
+1246930	Núcleo estelar
+1238765	Extinción
+1237319	Ráfaga gamma
+1237690	Eclipse
+1237694	Eyección en masa
+1237696	Campo de escombros
+1239262	Cruz de conquistador
+1239270	Resguardo del Vacío
+1246541	Atadura de la nada
+1246145	Toque de olvido
+1237695	Nova de polvo estelar
+1245292	Desestabilizado
+1233292	Disco de acrecentamiento
+1231716	Extinguir las estrellas
+1232394	Pozo de gravedad
+1233539	Devorar
+1234044	Cielo oscurecido
+1234054	Temblor de las Sombras
+1234263	Colapso Cósmico
+1234266	Fragilidad cósmica
+1232973	Supernova
+1250055	Presa del Vacío
 
 

@@ -42,7 +42,7 @@
 106864	Patada del Dragón de Jade
 118540	Ola del Dragón de Jade
 396907	Aliento de fuego de jade
-107110	Fuego de jade
+107045	Fuego de jade
 
 ; Boss: Sha of Doubt
 106113	Toque de la nada

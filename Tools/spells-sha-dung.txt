@@ -56,18 +56,21 @@
 
 ; Boss: Trash
 326450	Bestias leales
-325799	Fuego rápido
-344993	Barrido serrado
-346866	Aliento de piedra
-342171	Natopiedra fiel
-325523	Impulso mortal
-325876	Maldición de desintegración
-325700	Recoger pecados
+1237602	Herida sangrante
+1235060	Armadura contaminada por ánima
+325876	Marca de desintegración
 325701	Succionar vida
+326997	Zarpazo poderoso
+1235326	Chirrido paralizante
+1237071	Puño pétreo
 326409	Vapulear
 326441	Temblor de pecado
-326607	Convertir en piedra
-326997	Zarpazo poderoso
+1235762	Convertir en piedra
+1235766	Golpe mortal
+326638	Tirar guja
+326794	Comunión oscura
+1236614	Demostración de poder
+326847	Dispersar pecado
 326891	Angustia
 
 ; Boss: Halkias, the Sin-Stained Goliath
@@ -79,23 +82,23 @@
 
 ; Boss: Echelon
 319733	Llamamiento pétreo
-328206	Maldición de piedra
+328206	Carne en piedra
 319941	Salto destructor de piedras
 326389	Torrente de sangre
 
 ; Boss: High Adjudicator Aleez
-323538	Saeta de poder
-323552	Salva de poder
+323538	Descarga de ánima
 329340	Fuente de ánima
+323597	Procesión espectral
+1236512	Ánima inestable
 323650	Fijación inquietante
 
 ; Boss: Lord Chamberlain
 329104	Puerta de las Sombras
 328791	Ritual de tragedia
-323143	Lanzamiento telequinético
+323142	Lanzamiento telequinético
 323236	Sufrimiento desatado
-323437	Estigma de orgullo
-327885	Tormento emergente
+1236973	Tormento emergente
 
 
 ; -------------------------------------
@@ -313,42 +316,62 @@
 ; -------------------------------------
 
 ; Boss: Trash
-356031	Haz de estasis
-356324	Glifo de contención potenciado
+352796	Golpe mediato
 356548	Pulso radiante
+355900	Granada de alteración
+355888	Bordón de luz sólida
+355891	Teletransporte
+355915	Glifo de contención
 356001	Haz rebanador
+355934	Barrera de luz sólida
+355980	Escudo de refracción
+356537	Glifo de contención potenciado
 356929	Cadena de custodia
 356942	A cal y canto
 356404	Aliento de lava
 356407	Pavor ancestral
 357512	Carga frenética
+357508	Paliza salvaje
+355830	Hoja rauda
+357197	Retirada de fragmentos de luz
 356967	Revés de hiperluz
+357229	Potenciador de cronoluz
 357029	Bomba de hiperluz
-355980	Escudo de refracción
-355934	Barrera de luz sólida
 347721	Abrir jaula
+347775	Filtro de spam
+347716	Abrecartas
+1240821	Embate energizado
+1240912	Perforar
+355640	Campo de falange
 355637	Golpe calmante
 355642	Andanada de hiperluz
-355782	Multiplicador de fuerza
+1244443	Multiplicador de fuerza
 355477	Patada poderosa
-355480	Fuerza letal
+355479	Fuerza letal
+355473	Minas de conmoción
 358443	Sangre en el agua
 355132	Palito de pescado vigorizador
+355234	Pez globo volátil
 355057	Grito de Mrrggllrrgg
+355048	Revientacaparazones
 355429	Pisotón de marea
+355464	Lanzar roca
 355584	Pulso cargado
 355577	Chisporroteo
 356133	Superbrebaje
+1244650	Ráfaga de marea
+368661	Lanzamiento de espada
 357226	Estrella errante
 357238	Púlsar errante
 357260	Falla inestable
-357284	Revigorizar
 
 ; Boss: Zo'phex the Sentinel
-347949	Interrogatorio
+348350	Interrogatorio
 345990	Celda de contención
 345770	Incautación de contrabando
 346204	Seguridad armada
+348128	Rearmamento
+1236348	Tajo cargado
 
 ; Boss: The Grand Menagerie
 349627	Gula
@@ -358,11 +381,14 @@
 349954	Protocolo de purificación
 349934	Protocolo de flagelación
 349987	Protocolo de descarga
+350045	Ánima corrosiva
+350037	Núcleo de ánima expuesto
 350101	Cadenas de condenación
 350086	Aniquilación giratoria
 
 ; Boss: Mailroom Mayhem
 346286	Líquidos peligrosos
+346329	Líquidos derramados
 346742	Torbellino postal
 346962	Giro postal
 346947	Mercancía inestable
@@ -371,43 +397,49 @@
 ; Boss: Myza's Oasis
 356482	Comida podrida
 353783	Teletransporte
-353835	Supresión
 350916	Embate de seguridad
-353706	Tumulto
 350922	Grito amenazador
+353706	Tumulto
 350919	Control de masas
 355438	Chispa de supresión
 359028	Embate de seguridad
+1241032	Advertencia final
+357404	Canción discordante
+357436	Solo infeccioso
+357542	Rasgar acorde
 
 ; Boss: So'azmi
-357188	Técnica doble
-347610	Shuri
-347249	Dividir
-347623	Hoja rauda
+1245579	Shuri
+1245634	Dividir
+1245669	Técnica doble
+1248209	Tajo de fase
+1245752	Técnica triple
 
 ; Boss: Hylbrande
 353312	Ráfaga purificadora
 346116	Golpes tajantes
 347094	Colisión titánica
-346959	Fuego purgador
+346957	Fuego purgador
 346766	Ciclo de desinfección
+358131	Nova de relámpagos
 
 ; Boss: Timecap'n Hooktail
 347149	Aliento infinito
-347151	Barrido con gancho
-354334	¡Enganche!
 352345	Disparo con ancla
-347371	Disparo de racimo
-350517	Doble carga
+358947	Alquitrán ardiente
+1240102	Bombas de relojería
 
 ; Boss: So'leah
-351124	Invocar asesinos
+350796	Chispa de hiperluz
 353635	Estrella en colapso
 350804	Energía en colapso
-350796	Chispa de hiperluz
-351086	Poder sobrecogedor
-351096	Fragmentación de energía
+351124	Invocar asesinos
 351119	Tormenta de shurikens
+351086	Poder sobrecogedor
+350875	Descarga de hiperluz
+351096	Fragmentación de energía
+351646	Nova de hiperluz
+357190	Vulnerabilidad de las estrellas
 
 
 ; -------------------------------------
@@ -494,6 +526,7 @@
 330586	Devorar carne
 330614	Erupción vil
 342103	Bilis rancia
+330532	Virote dentado
 1215850	Aplastatierras
 331316	Aluvión salvaje
 317605	Torbellino
