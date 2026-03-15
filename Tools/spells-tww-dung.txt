@@ -8,11 +8,13 @@
 434830	Tela de araña vil
 436614	Trampa arácnida
 439208	Trampa de seda
+438618	Flema venenosa
 434793	Tromba resonante
 434824	Pulverizador de telaraña
 434802	Berrido horripilante
 438877	Llamada de la progenie
 438826	Nube venenosa
+453583	Cargar
 453161	Empalar
 1241693	Enjambre de langostas
 432967	Berrido de alarma
@@ -290,6 +292,7 @@
 451102	Descomposición sombría
 451119	Descarga abisal
 450854	Orbe oscuro
+460135	Cicatrices oscuras
 451117	Embate terrorífico
 451098	Nova pegajosa
 451097	Concha sedosa
@@ -312,6 +315,7 @@
 ; Boss: Anub'ikkaj
 427001	Embate terrorífico
 426860	Orbe oscuro
+427378	Cicatrices oscuras
 426787	Descomposición sombría
 452127	Animar sombras
 
@@ -464,6 +468,7 @@
 ; Boss: Demolition Duo
 470090	Dúo dividido
 460867	¡Gran badabum!
+461994	Deflagración
 1217653	A.F.C.B.A.
 473690	Gel explosivo cinético
 460602	Disparo presuroso
@@ -499,6 +504,7 @@
 1231244	Núcleo inestable
 1222202	Quemadura Arcana
 1229510	Electrocución voltaica
+1221679	Salto de acechador lejano
 1222356	Distorsión
 1221483	Arco de energía
 1221532	Ritual errático
@@ -515,6 +521,7 @@
 1217232	Devorar
 1217247	Festín
 1217327	Graznido invasor
+1231811	Descontrolados
 1227745	Regurgitación tóxica
 1217446	Babas digestivas
 1217664	Vapulear

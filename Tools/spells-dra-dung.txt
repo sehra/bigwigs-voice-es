@@ -10,28 +10,14 @@
 389521	Insignia del Vuelo Azul
 389536	Promesa del Vuelo Verde
 389501	Insignia del Vuelo Rojo
-388863	Vacío de maná
-388911	Tajo amputador
-396812	Detonación mística
-388976	Aliento de falla
-388984	Emboscada sañosa
-388392	Lección monótona
-377912	Expulsar intrusos
-378003	Vientos mortales
-377991	Tajo de tormenta
-377389	Llamada de la bandada
-377383	Soplo
-390912	Semillas de detonación
-387910	Torbellino astral
-387843	Bomba astral
-387955	Escudo celestial
 
 ; Boss: Vexamus
 386544	Orbes Arcanos
-391977	Supersobrecarga
 388537	Fisura Arcana
 386173	Bombas de maná
 385958	Expulsión Arcana
+386201	Maná corrupto
+391977	Supersobrecarga
 
 ; Boss: Overgrown Ancient
 388796	Germinar
@@ -39,26 +25,26 @@
 388623	Ramificar
 388544	Rompecortezas
 389033	Toxina de azotadora
-396640	Toque de sanación
-396721	Abundancia
+396716	Rajacorteza
 
 ; Boss: Crawth
-377182	¡A jugar a la pelota!
 389481	Meta de la llamarada abrasadora
 376448	Tormenta de Fuego
 389483	Meta de los vientos impetuosos
 376467	Fuerza de vendaval
-377034	Soplo abrumador
 377004	Chirrido ensordecedor
+377034	Soplo abrumador
+376760	Fuerza de vendaval
 376997	Picotazo salvaje
+377009	Chirrido ensordecedor
 
 ; Boss: Echo of Doragosa
-439488	Desatar energía
-389011	Poder sobrecogedor
-388901	Falla Arcana
-374361	Aliento astral
+373326	Misiles Arcanos
+1282251	Explosión astral
+374343	Bomba de energía
 388822	Vacío de poder
-374352	Bomba de energía
+389007	Energía salvaje
+389011	Poder sobrecogedor
 
 
 ; -------------------------------------

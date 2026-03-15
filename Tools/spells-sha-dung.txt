@@ -56,6 +56,7 @@
 
 ; Boss: Trash
 326450	Bestias leales
+329299	Separación
 1237602	Herida sangrante
 1235060	Armadura contaminada por ánima
 325876	Marca de desintegración
@@ -89,8 +90,9 @@
 ; Boss: High Adjudicator Aleez
 323538	Descarga de ánima
 329340	Fuente de ánima
-323597	Procesión espectral
 1236512	Ánima inestable
+323743	Procesión espectral
+323848	Receptáculo de expiación
 323650	Fijación inquietante
 
 ; Boss: Lord Chamberlain
@@ -332,6 +334,7 @@
 356407	Pavor ancestral
 357512	Carga frenética
 357508	Paliza salvaje
+357828	Salto azogado
 355830	Hoja rauda
 357197	Retirada de fragmentos de luz
 356967	Revés de hiperluz
@@ -340,6 +343,7 @@
 347721	Abrir jaula
 347775	Filtro de spam
 347716	Abrecartas
+347842	Abalanzarse
 1240821	Embate energizado
 1240912	Perforar
 355640	Campo de falange
@@ -395,6 +399,7 @@
 346296	Inestabilidad
 
 ; Boss: Myza's Oasis
+359019	¡A subir el ritmo!
 356482	Comida podrida
 353783	Teletransporte
 350916	Embate de seguridad
@@ -420,7 +425,12 @@
 346116	Golpes tajantes
 347094	Colisión titánica
 346957	Fuego purgador
+346961	Campo de purga
 346766	Ciclo de desinfección
+348450	Código de baipás: Fryse
+348437	Código de baipás: Helvete
+348447	Código de baipás: Lys
+348451	Código de baipás: Morke
 358131	Nova de relámpagos
 
 ; Boss: Timecap'n Hooktail

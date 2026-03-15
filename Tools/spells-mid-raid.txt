@@ -1,0 +1,117 @@
+; Type: Midnight Raid
+
+; -------------------------------------
+; Zone: The Dreamrift
+; -------------------------------------
+
+; Boss: Trash
+
+; Boss: Chimaerus the Undreamt God
+1262289	Agitación de polvo de Aln
+1258610	Aparición de falla
+1264756	Locura de falla
+1257087	Miasma acuciante
+1246653	Flema cáustica
+1272726	Desgarro sajador
+1245396	Consumir
+1245486	Devastación corrupta
+1245406	Caída en picado voraz
+1246621	Flema cáustica
+1257085	Miasma acuciante
+
+
+; -------------------------------------
+; Zone: The Voidspire
+; -------------------------------------
+
+; Boss: Trash
+
+; Boss: Imperator Averzian
+1251361	Avance de las Sombras
+1249262	Colapso umbrío
+1280015	Marcado por el Vacío
+1260712	Cólera del olvido
+1258883	Caída del Vacío
+1249251	Agitación oscura
+
+; Boss: Vorasius
+1256855	Aliento del Vacío
+1254199	Expulsión de parásitos
+1241692	Embate zarpasombra
+1260052	Rugido primordial
+
+; Boss: Fallen-King Salhadaar
+1247738	Convergencia del Vacío
+1246175	Desenredo entrópico
+1250803	Crepúsculo destrozador
+1254081	Proyección fracturada
+1248697	Orden despótica
+1250686	Oscuridad sinuosa
+
+; Boss: Vaelgor & Ezzorak
+1249748	Llamas de medianoche
+1262623	Haz de la nada
+1244221	Aliento de pavor
+1265131	Alas de Vaelgor
+1245391	Penumbra
+1244917	Aullido del Vacío
+1245645	Colmillo de Ezzorak
+
+; Boss: Lightblinded Vanguard
+1248449	Aura de cólera
+1248983	Sentencia de ejecución
+1246765	Tormenta divina
+1246749	Estrago sagrado
+1246736	Sentencia
+1246162	Aura de devoción
+1248644	Estrago divino
+1246485	Escudo de vengador
+1251857	Sentencia
+1248451	Aura de paz
+1248710	Cólera de Tyr
+1255738	Radiancia abrasadora
+1248674	Escudo sacro
+1276243	Espíritu fervoroso
+
+; Boss: Crown of the Cosmos
+1233602	Flecha golpeplata
+1232467	Agarre de la nada
+1255368	Expulsión del Vacío
+1233865	Aureola nula
+1233787	Mano oscura
+1243743	Temblor interruptor
+1243753	Abismo voraz
+1234569	Emisión estelar
+1243982	Tromba golpeplata
+1235622	Erupción de singularidad
+1238206	Fisura volátil
+1237614	Marca de capitana forestal
+1237038	Picadura de acechador del Vacío
+1237837	Llamada del Vacío
+1246918	Barrera Cósmica
+1246461	Tajo de falla
+1245874	Materia en órbita
+1238843	Cosmos devorador
+1239080	Aspecto del fin
+1238708	Carga oscura
+
+
+; -------------------------------------
+; Zone: March on Quel'Danas
+; -------------------------------------
+
+; Boss: Trash
+
+; Boss: Belo'ren, Child of Al'ar
+1241282	Ascuas de Belo'ren
+1242981	Ecos radiantes
+1260763	Edicto del guardián
+1244344	Quemaduras eternas
+1242260	Péndolas imbuidas
+1246709	Caída de muerte
+1241313	Renacer
+1242792	Incubación de llamas
+
+; Boss: Midnight Falls
+
+

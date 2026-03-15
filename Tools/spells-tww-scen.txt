@@ -34,6 +34,7 @@
 449071	Mecha llameante
 448399	Grito de batalla
 445210	Carga de fuego
+445193	Zona en llamas
 445191	Salva prendemechas
 448528	Lanzar dinamita
 
@@ -285,7 +286,6 @@
 
 ; Boss: Speaker Halven
 ;443837	Difusión de las Sombras
-443908	¡Fuego!
 443840	Oleada de desolación
 
 ; Boss: Speaker Wicke
@@ -406,7 +406,6 @@
 
 ; Boss: Torque Clankfire and Sprok
 1215033	Misiles de mecha larga
-1215090	Tácticas evasivas
 1215084	Cóctel de Fundisombras
 1215015	¿Es este, jefe?
 

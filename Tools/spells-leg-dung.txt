@@ -585,41 +585,38 @@
 ; -------------------------------------
 
 ; Boss: Trash
-249081	Campo de anulación
-245510	Vacío corruptor
-249078	Difusión de Vacío
-248227	Materia oscura
 
 ; Boss: Zuraal the Ascended
-246134	Palma del abismo
-244579	Diezmar
-244602	Vacío fusionado
-244433	Cambio umbrío
-244653	Fijar
-244621	Desgarro del Vacío
+1263440	Tajo del Vacío
+1263282	Diezmar
+1268916	Palma de la nada
+1263399	Embate rezumante
+1263297	Vacío aplastante
+244588	Residuo del Vacío
 
 ; Boss: Saprish
-245873	Trampa de Vacío
-247206	Trampa de sobrecarga
-247245	Flanqueo umbrío
-245802	Oscuridad devastadora
-248831	Chirrido aterrador
+245742	Abalanzamiento de las Sombras
+1248219	Bomba del Vacío
+1280065	Carrerilla de fase
+1263523	Sobrecarga
 
 ; Boss: Viceroy Nezhar
--15926	Sección 8
-244751	Oscuridad aulladora
-246324	Fuerza entrópica
-244906	Vacío en colapso
-248804	Baluarte oscuro
-248736	Crepúsculo eterno
+244750	Explosión mental
+1277358	Puertas del abismo
+1263542	Infusión del Vacío en masa
+1263538	Tentáculos umbríos
+1263528	Rechazo
+1263532	Tormenta del Vacío
+1268733	Tortura mental
 
 ; Boss: L'ura
-247795	Llamada al Vacío
-248535	Lamento de los naaru
-247930	Cadencia umbría
-245164	Fragmento de desesperación
-247816	Contragolpe
-249009	Gran desplazamiento
+1265421	Réquiem de desesperación
+1264196	Desintegrar
+1265463	Haz discordante
+1265689	Coro funesto
+1266003	Sinfonía de la Noche Eterna
+1266001	Contragolpe
+1265650	Angustia
 
 
 ; -------------------------------------
@@ -705,7 +702,6 @@
 192520	Volcán
 192517	Quebradizo
 192519	Lava
--12727	Contramedidas
 
 ; Boss: Glazer
 194945	Mirada persistente

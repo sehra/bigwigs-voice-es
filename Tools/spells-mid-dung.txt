@@ -1,0 +1,267 @@
+; Type: Midnight Dungeon
+
+; -------------------------------------
+; Zone: Den of Nalorakk
+; -------------------------------------
+
+; Boss: Trash
+
+; Boss: The Hoardmonger
+1234846	Esporas tóxicas
+1235125	Bramido potente
+
+; Boss: Sentinel of Winter
+1235549	Tormento glacial
+1235829	Embozo del invierno
+1235841	Ventisquero
+1235641	Borrasca enfurecida
+1236289	Cólera de la ventisca
+
+; Boss: Nalorakk
+1242869	Machaque resonante
+1243590	Irrupción sobrecogedora
+1255577	Tajo espectral
+1262253	Alarido desmoralizador
+1261781	Actitud defensiva
+
+
+; -------------------------------------
+; Zone: Magisters' Terrace
+; -------------------------------------
+
+; Boss: Trash
+
+; Boss: Arcanotron Custos
+474496	Embate de rechazo
+1214081	Expulsión Arcana
+1214032	Grilletes etéreos
+474345	Protocolo de reabastecimiento
+1214089	Residuo Arcano
+1243905	Energía inestable
+
+; Boss: Seranel Sunlash
+1225787	Marca rúnica
+1224903	Zona de supresión
+1248689	Resguardo acelerador
+1225193	Ola de silencio
+1225015	Zona de supresión
+1225205	Ola de silencio
+1246446	Reacción de la nada
+
+; Boss: Gemellus
+1223847	Triplicar
+1284954	Picadura cósmica
+1253709	Enlace neural
+1224299	Agarre astral
+1224104	Secreciones del Vacío
+1224401	Radiación Cósmica
+
+; Boss: Degentrius
+1280113	Fragmento descomunal
+1215897	Entropía de la Devoración
+1215087	Esencia del Vacío inestable
+1215157	Esencia del Vacío inestable
+1215161	Destrucción del Vacío
+1269631	Orbe de entropía
+
+
+; -------------------------------------
+; Zone: Maisara Caverns
+; -------------------------------------
+
+; Boss: Trash
+
+; Boss: Muro'jin and Nekraxx
+1266480	Lanza de flanco
+1246666	Álulas infectadas
+1260731	Trampa congelante
+1243900	Tormenta de púas fétidas
+1260643	Tromba
+1249479	Descenso en picado de carroñero
+1243741	Trampa congelante
+1243752	Marea gélida
+1249478	Descenso en picado de carroñero
+1260709	Picadura Vilrama
+1266488	Herida abierta
+
+; Boss: Vordaza
+1251554	Drenar alma
+1251204	Arrebatar fantasmas
+1252054	Deshacer
+1250708	Convergencia necrótica
+1251568	Drenar alma
+1251775	Persecución final
+1251813	Pavor persistente
+1251833	Podredumbre del alma
+1252130	Deshacer
+1266706	Restos mortificadores
+
+; Boss: Rak'tul, Vessel of Souls
+1251023	Rompespíritus
+1252676	Machacar almas
+1253788	Rugido desgarrador de almas
+1252675	Machacar almas
+1252777	Nexo de almas
+1252816	Escalofrío de la muerte
+1253779	Putrefacción espectral
+1253844	Alma marchitadora
+1254043	Sufrimiento eterno
+1254175	Gritos de los caídos
+1255629	Residuo espectral
+1266188	Reino de las Sombras
+
+
+; -------------------------------------
+; Zone: Murder Row
+; -------------------------------------
+
+; Boss: Trash
+
+; Boss: Kystia Manaheart
+1228198	Babas corrosivas
+
+; Boss: Zaen Bladesorrow
+474515	Veneno de infarto
+474545	Muerte en el Frontal
+1214352	Bomba de Fuego
+
+; Boss: Xathuux the Annihilator
+473898	Golpe de legión
+474234	Pasos abrasadores
+1214650	Relámpago vil
+
+; Boss: Lithiel Cinderfury
+
+
+; -------------------------------------
+; Zone: Nexus-Point Xenas
+; -------------------------------------
+
+; Boss: Trash
+
+; Boss: Chief Corewright Kasreth
+1251626	Matriz de línea Ley
+1251772	Carga de reflujo
+1257836	Carga de reflujo
+1264042	Vertido Arcano
+1276485	Chispabrasión
+
+; Boss: Corewarden Nysarra
+1247937	Latigazo umbrío
+1249014	Paso eclipsante
+1252703	Vanguardia de la nada
+1264439	Bengala de cicatriz de Luz
+1252828	Cuchillada del Vacío
+
+; Boss: Lothraxion
+1253950	Desgarramiento abrasador
+1253855	Dispersión brillante
+1255531	Visto y no visto
+1257595	Astucia divina
+1255310	Cicatriz radiante
+1255335	Desgarramiento abrasador
+1255503	Dispersión brillante
+
+
+; -------------------------------------
+; Zone: The Blinding Vale
+; -------------------------------------
+
+; Boss: Trash
+
+; Boss: Lightblossom Trinity
+1234802	Marga fértil
+1235574	Haz de floración de Luz
+1235828	Tierra agostada por la Luz
+1235865	Hojaespina
+
+; Boss: Ikuzz the Light Hunter
+1237091	Mirada sedienta de sangre
+1237267	Incisión
+1272290	Triturado
+
+; Boss: Lightwarden Ruia
+1239825	Fuego de Luz
+1239919	Haces de Fuego de Luz
+1241058	Vapuleo doloroso
+1251345	Resina de añublo
+1257094	Pulverizado
+
+; Boss: Ziekket
+1246751	Haz de Luz concentrado
+1246753	Savialuz
+1247746	Pincho de espinas
+
+
+; -------------------------------------
+; Zone: Voidscar Arena
+; -------------------------------------
+
+; Boss: Trash
+
+; Boss: Taz'Rah
+1222103	Arremetida abisal
+1262283	Falla oscura
+1222305	Falla oscura
+
+; Boss: Atroxus
+1222484	Charco de veneno
+1222642	Zarpa descomunal
+1226031	Salpicadura de veneno
+1263971	Envenenamiento persistente
+
+; Boss: Charonus
+1227197	Explosión Cósmica
+1248130	Singularidad inestable
+1264188	Horizonte de sucesos
+
+
+; -------------------------------------
+; Zone: Windrunner Spire
+; -------------------------------------
+
+; Boss: Trash
+
+; Boss: Emberdawn
+466556	Corriente ascendente flameante
+466064	Pico abrasador
+465904	Vendaval abrasador
+466091	Pico abrasador
+466559	Corriente ascendente flameante
+470212	Remolinos llameantes
+472118	Ascuas prendidas
+
+; Boss: Derelict Duo
+472745	Esputo salpicador
+472888	Corte óseo
+474105	Maldición de la oscuridad
+472736	Chillido debilitador
+472777	Esputo de mugre
+472793	Tirón esforzado
+474129	Esputo salpicador
+1215803	Maldición de la oscuridad
+1219491	Chillido debilitador
+1253834	Maldición de la oscuridad
+1282272	Salpicado
+
+; Boss: Commander Kroluk
+1250851	Muro de escudo
+467620	Desenfreno
+472081	Salto temerario
+1253272	Grito intimidador
+470963	Filotormenta
+468659	Lanzar hacha
+
+; Boss: The Restless Heart
+472556	Lluvia de flechas
+472662	Tajo de tempestad
+1253986	Disparo de ráfaga de viento
+468429	Explosión de viento en el blanco
+474528	Descarga de vendaval
+468442	Viento arremolinado
+1216042	Salto de borrasca
+1253979	Disparo de ráfaga de viento
+1282911	Descarga de vendaval
+1282955	Fuentealma tormentosa
+
+

@@ -379,6 +379,7 @@
 1218668	Cortador de energía
 1233110	Relámpago purgante
 1219471	Zona de expulsión
+1234733	Purificar la cámara
 
 ; Boss: Loom'ithar
 1237272	Tejedura de guarida
@@ -387,17 +388,21 @@
 1226366	Seda viviente
 1226721	Trampa sedosa
 1226395	Ráfaga de sobreinfusión
+1226867	Tormenta Geoarcana primigenia
 1237212	Hebra perforadora
+1246921	Pilones de infusión
+1247029	Nova de exceso
+1247045	Hiperinfusión
 1228059	Ira desvinculada
 1243771	Icor Arcano
 1227782	Furia Arcana
 1227226	Oleada aviesa
-1246921	Pilones de infusión
 
 ; Boss: Soulbinder Naazindhri
 1225582	Convocación de almas
 1227048	Emboscada de hoja del Vacío
 1227052	Ráfaga de Vacío
+1227848	Implosión de esencia
 1227276	Aniquilación de deshilachado de alma
 1223859	Expulsión Arcana
 1225616	Convergencia de fuego de alma
@@ -435,6 +440,7 @@
 1227355	Paso del Vacío
 1227685	Tajo hambriento
 1235045	Olvido invasor
+1245726	Erradicar
 1233105	Residuo oscuro
 1233968	Horizonte de sucesos
 1227809	La caza
@@ -472,6 +478,7 @@
 1224812	Vencer
 1227549	Destierro
 1224906	Invocar el voto
+1225099	Imágenes fractales
 1224827	Decapitar
 1231097	Desgarro cósmico
 1227470	Asedio
@@ -483,6 +490,7 @@
 1232399	Mortero aterrador
 1228075	Haces del Nexo
 1230261	Explosión abisal
+1228053	Segar
 1228265	Hambre del rey
 1226648	Machaque galáctico
 1225444	Atomizados
@@ -492,6 +500,7 @@
 1226442	Golpe mataestrellas
 1225634	Mundo crepuscular
 1238975	Voto de venganza
+1237106	Masacre crepuscular
 
 ; Boss: Dimensius, the All-Devouring
 1230087	Embate masivo
@@ -511,15 +520,20 @@
 1230674	Espaguetización
 1246930	Núcleo estelar
 1238765	Extinción
-1237319	Ráfaga gamma
+1237325	Ráfaga gamma
 1237690	Eclipse
-1237694	Eyección en masa
-1237696	Campo de escombros
+1246145	Toque de olvido
 1239262	Cruz de conquistador
 1239270	Resguardo del Vacío
 1246541	Atadura de la nada
-1246145	Toque de olvido
+1237696	Campo de escombros
+1237694	Eyección en masa
 1237695	Nova de polvo estelar
+1249423	Destrucción masiva
+1251619	Nova de fragmento estelar
+1234242	Distorsión gravitacional
+1234243	Gravedad aplastante
+1234244	Gravedad invertida
 1245292	Desestabilizado
 1233292	Disco de acrecentamiento
 1231716	Extinguir las estrellas
