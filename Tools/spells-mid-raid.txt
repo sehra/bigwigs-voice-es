@@ -50,6 +50,7 @@
 
 ; Boss: Vaelgor & Ezzorak
 1249748	Llamas de medianoche
+1280458	Fauces aprisionadoras
 1262623	Haz de la nada
 1244221	Aliento de pavor
 1265131	Alas de Vaelgor
@@ -81,10 +82,7 @@
 1233787	Mano oscura
 1243743	Temblor interruptor
 1243753	Abismo voraz
-1234569	Emisión estelar
 1243982	Tromba golpeplata
-1235622	Erupción de singularidad
-1238206	Fisura volátil
 1237614	Marca de capitana forestal
 1237038	Picadura de acechador del Vacío
 1237837	Llamada del Vacío
@@ -93,7 +91,6 @@
 1245874	Materia en órbita
 1238843	Cosmos devorador
 1239080	Aspecto del fin
-1238708	Carga oscura
 
 
 ; -------------------------------------

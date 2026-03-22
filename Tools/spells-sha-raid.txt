@@ -519,7 +519,6 @@
 
 ; Boss: Anduin Wrynn
 362405	Agonía del Rey está hambrienta
-362055	Alma perdida
 361989	Blasfemia
 365295	Barrera contaminada
 365021	Estrella malvada
@@ -586,7 +585,6 @@
 366374	Trituramundos
 366678	Quiebramundos
 367051	Destrozamundos
-368383	Escudo de salud desviado
 360378	Raja meteórica
 368591	Sentencia de muerte
 

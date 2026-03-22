@@ -7,19 +7,26 @@
 ; Boss: Trash
 
 ; Boss: The Hoardmonger
+1253268	Embate rompeterra
+1235118	Bramido voraz
+1234233	Suministros caducados
 1234846	Esporas tóxicas
 1235125	Bramido potente
 
 ; Boss: Sentinel of Winter
-1235549	Tormento glacial
+1235783	Púa gélida rompedora
+1235548	Tormento glacial
+1235623	Borrasca enfurecida
+1235656	Invierno eterno
 1235829	Embozo del invierno
 1235841	Ventisquero
-1235641	Borrasca enfurecida
 1236289	Cólera de la ventisca
 
 ; Boss: Nalorakk
-1242869	Machaque resonante
-1243590	Irrupción sobrecogedora
+1242860	Machaque resonante
+1243569	Irrupción sobrecogedora
+1255385	Rugido enérgico
+1243011	Furia del dios de la guerra
 1255577	Tajo espectral
 1262253	Alarido desmoralizador
 1261781	Actitud defensiva
@@ -121,9 +128,12 @@
 1228198	Babas corrosivas
 
 ; Boss: Zaen Bladesorrow
+474478	Asesinato múltiple
+474765	Entrega en el mismo día
+1214357	Bomba de Fuego
+1222795	Envenenar
+1218347	Muerte en el Frontal
 474515	Veneno de infarto
-474545	Muerte en el Frontal
-1214352	Bomba de Fuego
 
 ; Boss: Xathuux the Annihilator
 473898	Golpe de legión
