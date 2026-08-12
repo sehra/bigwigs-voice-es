@@ -120,58 +120,36 @@
 ; -------------------------------------
 
 ; Boss: Trash
-270003	Embate de supresión
-270016	Inhibidores soltados
-269936	Fijar
-269976	Furia ancestral
-269972	Salva de descarga de las Sombras
-269931	Tajo huracanado
-270928	Filotormenta
-270920	Seducción
-270891	Canalizar relámpago
-270084	Tromba de hachas
-270901	Inducir regeneración
-270931	Disparo oscuro
-270503	Salto de caza
-270865	Hoja oculta
-270872	Remolino de las Sombras
-270284	Haz purificador
-271564	Líquido de embalsamar
-271555	Confinar
-270492	Maleficio
-270487	Hoja amputadora
-270482	Salto ensangrentado
-270499	Choque de Escarcha
-270507	Tromba de veneno
-270506	Disparo de Mortojo
-270514	Machaque terrestre
-271640	Revelación oscura
 
 ; Boss: The Golden Serpent
 265773	Escupir oro
-265923	Llamada de Lucre
-265781	Soplo serpentino
 265910	Cola apaleadora
+265781	Soplo serpentino
+265923	Llamada de Lucre
 
 ; Boss: Mchimba the Embalmer
-267639	Quemar corrupción
 267618	Drenar fluidos
+1311956	Quemar corrupción
+1312146	Embate del despertar
 267702	Confinar
 
 ; Boss: The Council of Tribes
 266206	Hachas giratorias
 266231	Hacha mutiladora
-266951	Atravesar
+267494	Atravesar
 266237	Revés debilitador
+1305810	Arco eléctrico
 267273	Nova de veneno
 267060	Llamada de los elementos
 
 ; Boss: Dazar, The First King
-268586	Combo de hojas
-268932	Salto sísmico
-268403	Tajo de vendaval
-269231	Salto de caza
+269230	Salto de caza
 269369	Rugido sepulcral
+1303115	Machaque aéreo
+268586	Combo de hojas
+1303267	Destrucción dorada
+1303327	Salto sísmico
+1303488	Magulladura salvaje
 
 
 ; -------------------------------------
@@ -413,44 +391,28 @@
 ; -------------------------------------
 
 ; Boss: Trash
-265968	Oleada de sanación
-264574	Disparo potente
-273563	Neurotoxina
-258908	Aluvión de acero
-272659	Escamas electrificadas
-272657	Aliento nocivo
-272700	Poción de sanación superior
-267237	Drenar
-273995	Explosión pírrica
-265912	Acumular carga
-268008	Amuleto de serpiente
 
 ; Boss: Adderis and Aspix
-263246	Escudo de relámpagos
-263257	Choque estático
-263371	Conducción
-263424	Acometida en arco
-263309	Golpe de ciclón
+1289059	Fuerza de vendaval
+1288864	Vientos tempestuosos
+1288049	Trueno y relámpago
+1288428	Sobrecarga
 
 ; Boss: Merektha
-263912	Aliento nocivo
-263927	Charco tóxico
-263914	Arena cegadora
-264239	Eclosionar
-264206	Excavar
-263958	Nudo de serpientes
+1290797	Mordisco de relámpago
+1290029	Nudo de serpientes
+1289109	Flema de trueno
+1293048	Tormenta serpentina
+1289205	Eclosionar
+264172	Enterrarse
 
 ; Boss: Galvazzt
-266923	Galvanizar
-266512	Consumir carga
+1291618	Aguja de relámpagos
+1309525	Inducción
 
 ; Boss: Avatar of Sethraliss
-268024	Pulso
-274149	Fuerza vital
-269688	Lluvia de ranas
-269686	Peste
-;268008	Amuleto de serpiente
-268007	Ataque al corazón
+1301202	Mácula profanadora
+1273408	Fase uno
 
 
 ; -------------------------------------

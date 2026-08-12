@@ -111,7 +111,7 @@
 274990	Lesiones desgarradoras
 
 ; Boss: Zul, Reborn
-;269936	Fijar
+269936	Fijar
 -18530	Esbirro de Zul
 273365	Revelación oscura
 273361	Charco de oscuridad

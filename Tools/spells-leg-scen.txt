@@ -47,7 +47,7 @@
 233473	Resguardo Sagrado
 234423	Drenar vida
 234422	Aura de decadencia
-234428	Invocar ojo atormentador
+234428	Ojo atormentador
 234631	Machaque
 236572	Aniquilar
 234920	Difusión de las Sombras

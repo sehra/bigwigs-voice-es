@@ -1,6 +1,28 @@
 ; Type: Midnight Raid
 
 ; -------------------------------------
+; Zone: Midnight
+; -------------------------------------
+
+; Boss: Lu'ashal
+1258427	Llamarada radiante
+1276427	Halo enloquecido por el alba
+1276247	Aliento de albafuego
+
+; Boss: Thorm'belan
+1257325	Mota radiante
+1257825	Esquirla centelleante
+1258641	Zarcillos trituradores
+
+; Boss: Predaxas
+
+; Boss: Cragpine
+1235131	Tremorraíz
+1243594	Fijar
+1235144	Garrote de guerra
+
+
+; -------------------------------------
 ; Zone: The Dreamrift
 ; -------------------------------------
 
@@ -9,7 +31,6 @@
 ; Boss: Chimaerus the Undreamt God
 1262289	Agitación de polvo de Aln
 1258610	Aparición de falla
-1264756	Locura de falla
 1257087	Miasma acuciante
 1246653	Flema cáustica
 1272726	Desgarro sajador
@@ -18,6 +39,7 @@
 1245406	Caída en picado voraz
 1246621	Flema cáustica
 1257085	Miasma acuciante
+1264756	Locura de falla
 
 
 ; -------------------------------------
@@ -28,6 +50,7 @@
 
 ; Boss: Imperator Averzian
 1251361	Avance de las Sombras
+1262036	Ruptura del Vacío
 1249262	Colapso umbrío
 1280015	Marcado por el Vacío
 1260712	Cólera del olvido
@@ -52,6 +75,7 @@
 1249748	Llamas de medianoche
 1280458	Fauces aprisionadoras
 1262623	Haz de la nada
+1244672	Zona de la nada
 1244221	Aliento de pavor
 1265131	Alas de Vaelgor
 1245391	Penumbra
@@ -88,9 +112,10 @@
 1237837	Llamada del Vacío
 1246918	Barrera Cósmica
 1246461	Tajo de falla
-1245874	Materia en órbita
+1261016	Simulación de falla
 1238843	Cosmos devorador
 1239080	Aspecto del fin
+1261339	Portal cósmico
 
 
 ; -------------------------------------
@@ -100,15 +125,88 @@
 ; Boss: Trash
 
 ; Boss: Belo'ren, Child of Al'ar
+1242515	Convergencia de luz del Vacío
 1241282	Ascuas de Belo'ren
+1241292	Caída en picado de la Luz
 1242981	Ecos radiantes
 1260763	Edicto del guardián
 1244344	Quemaduras eternas
 1242260	Péndolas imbuidas
 1246709	Caída de muerte
 1241313	Renacer
-1242792	Incubación de llamas
 
 ; Boss: Midnight Falls
+1253915	Gujas celestiales
+1279420	Cuásar oscuro
+1249620	Réquiem de la muerte
+1249609	Runa oscura
+1251386	Prisma de salvaguarda
+1267049	Lanza celestial
+1284980	Sinfonía lúgubre
+1284931	Prisma de eliminación
+1282441	Astillaestrellas
+1282469	Cuásar oscuro
+1284525	Galvanizar
+1282412	Cosecha de núcleos
+1281194	Colapso oscuro
+1250898	El arcángel oscuro
+1266388	Constelación oscura
+1266897	Succión de Luz
+1273158	Réquiem de la muerte
+1276525	Cielo e infierno
+
+
+; -------------------------------------
+; Zone: Sporefall
+; -------------------------------------
+
+; Boss: Trash
+
+; Boss: Rotmire
+1221622	Despertar hongos
+1221637	Brote fúngico
+1222088	Vides purulentas
+1221787	Pústulas detonantes
+1221781	Puño pútrido
+
+
+; -------------------------------------
+; Zone: The Venomous Abyss
+; -------------------------------------
+
+; Boss: Trash
+
+; Boss: Nek'zali the Soulcoiler
+
+; Boss: Entombed Sentinels
+
+; Boss: Vashnik the Malignant
+1283164	Imbuir
+1282525	Catalizador maligno
+1282117	Infección adaptable
+1281907	Espuma pestilente
+1280935	Colmillos goteantes
+
+; Boss: The Lost Explorers
+
+; Boss: Sszorak
+
+; Boss: The Twin Fangs
+1289192	Diluvio cáustico
+1290809	Icor anillado
+1291404	Aparición venenosa
+1294293	Aluvión abyecto
+1291478	Flema corrosiva
+1290516	Festín voraz
+1303230	Torrente de sangre
+1290956	Agitación en lo profundo
+1288538	Rompepiedra
+1306872	Tormenta sanguina
+1293792	Inundación
+1308356	Despertar de la prole
+
+; Boss: The Coiled Altar
+
+; Boss: Ula'tek
 
 

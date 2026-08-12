@@ -592,9 +592,9 @@
 1268916	Palma de la nada
 1263399	Embate rezumante
 1263297	Vacío aplastante
-244588	Residuo del Vacío
 
 ; Boss: Saprish
+248831	Chirrido aterrador
 245742	Abalanzamiento de las Sombras
 1248219	Bomba del Vacío
 1280065	Carrerilla de fase
@@ -606,8 +606,6 @@
 1263542	Infusión del Vacío en masa
 1263538	Tentáculos umbríos
 1263528	Rechazo
-1263532	Tormenta del Vacío
-1268733	Tortura mental
 
 ; Boss: L'ura
 1265421	Réquiem de desesperación
@@ -615,8 +613,7 @@
 1265463	Haz discordante
 1265689	Coro funesto
 1266003	Sinfonía de la Noche Eterna
-1266001	Contragolpe
-1265650	Angustia
+1265999	Succionar Vacío
 
 
 ; -------------------------------------
