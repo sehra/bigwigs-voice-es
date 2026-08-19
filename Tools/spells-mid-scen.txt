@@ -1,0 +1,26 @@
+; Type: Midnight Delves
+
+; -------------------------------------
+; Zone: Torment's Rise
+; -------------------------------------
+
+; Boss: Nullaeus
+1280086	Vaciedad del Vacío
+1280087	Golpe implosionador
+1280088	Esencia devoradora
+
+
+; -------------------------------------
+; Zone: Venomfall Deeps
+; -------------------------------------
+
+; Boss: Azta'rec
+1291555	Bilis nociva
+1293824	Toxina del Vacío
+1293825	Golpe de sierpe
+1294963	Extinción de alma
+1309418	Tormenta de veneno
+1288103	Sermón de Ula'tek
+1288125	Eco de Ula'tek
+
+

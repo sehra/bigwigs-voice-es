@@ -186,9 +186,9 @@
 ; Boss: Atroxus
 1222642	Zarpa descomunal
 1226120	Salpicadura de veneno
-1222371	Provocar a trepador
 1222721	Aliento nocivo
 1262497	Rugido monstruoso
+1222371	Provocar a trepador
 
 ; Boss: Charonus
 1282770	Singularidad inestable

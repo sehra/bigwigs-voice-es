@@ -21,6 +21,15 @@
 1243594	Fijar
 1235144	Garrote de guerra
 
+; Boss: Nymrissa Wavecaller
+1276710	Burbuja atrayente
+1257608	Tromba de Escarcha
+1258668	Remolinos turbulentos
+1260837	Lluvia abisal
+1282937	Aluvión de hoja de hielo
+1313393	Escarcha escalofriante
+1268562	Chorro de agua
+
 
 ; -------------------------------------
 ; Zone: The Dreamrift
@@ -177,8 +186,25 @@
 ; Boss: Trash
 
 ; Boss: Nek'zali the Soulcoiler
+1293212	Profundidades aferradoras
+1285681	Ignición de voluta de almas
+1287426	Desgarro de esencia
+1295397	Amani inquietos
+1287533	Avance sepulcral
+1292036	Tromba de posesión
+1289696	Atadura del despertar
+1305421	Pira hambrienta
+1299673	Invocar
 
 ; Boss: Entombed Sentinels
+1284588	Estasis vitriólica
+1296878	Protoveneno cambiante
+1284251	Coagulación de veneno
+1284434	Gotitas tóxicas
+1284458	Embate potenciador
+1284483	Sangre contagiada
+1288232	Miasma inestable
+1284487	Inyección de veneno de sangre
 
 ; Boss: Vashnik the Malignant
 1283164	Imbuir
@@ -188,25 +214,71 @@
 1280935	Colmillos goteantes
 
 ; Boss: The Lost Explorers
+1296535	Pescado asqueroso
+1297022	Orden de Mor'zahi
+1292779	Ascensión final
+1290711	Nova de traslación
+1286921	Llamas ligadas al hielo
+1295854	Fragmentos trituradores
+1295886	Salva de Pirofrío
+1291390	Invocación cataclísmica
+1291759	Concha giratoria
+1296092	Batacazo potente
+1291933	Lanzar trastos
+1295817	Lanzar pez
+1292104	Lanzamiento de champiñón
+1296249	Sorpresa explosiva
 
 ; Boss: Sszorak
+1285732	Vorágine aullante
+1277025	Depredador alfa
+1305959	Oleada venenosa
+1285425	Vientos cruzados furiosos
+1296898	Ferocidad desmedida
 
 ; Boss: The Twin Fangs
+1308556	Sumersión
 1289192	Diluvio cáustico
-1290809	Icor anillado
 1291404	Aparición venenosa
-1294293	Aluvión abyecto
 1291478	Flema corrosiva
-1290516	Festín voraz
-1303230	Torrente de sangre
 1290956	Agitación en lo profundo
+1294293	Aluvión abyecto
+1303230	Torrente de sangre
+1308356	Despertar de la prole
+1290516	Festín voraz
+1290809	Icor anillado
 1288538	Rompepiedra
 1306872	Tormenta sanguina
-1293792	Inundación
-1308356	Despertar de la prole
 
 ; Boss: The Coiled Altar
+1282487	Colmillos del Altar en Espiral
+1299960	Diluvio tóxico
+1283489	Guillotina
+1299680	Cortar
+1282281	Colmillo de veneno
+1283832	Afilahachas
+1289900	Marcha pavorosa
+1285911	Fijación inquietante
+1286573	Corte de alma
+1286918	Ocaso eterno
+1286895	Bomba de penumbra
+1286441	Risotada espiritual
+1298381	Profanación del Altar en Espiral
+1299266	Guillotina funesta
+1307279	Corte contagiado
 
 ; Boss: Ula'tek
+1292999	Sumersión
+1292188	Olas cáusticas
+1300751	Llamada de la sierpe
+1298367	Cólera de la madre
+1298559	Cascabel de crúor
+1296301	Vapuleo mefítico
+1300530	Espirales espectrales
+1286860	Ira de la encadenada
+1302982	Flema virulenta
+1301510	Rondar a la presa
+1295905	Mordedura de serpiente
+1286905	Furia desatada
 
 
