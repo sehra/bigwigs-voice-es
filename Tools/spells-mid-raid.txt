@@ -23,7 +23,7 @@
 
 ; Boss: Nymrissa Wavecaller
 1276710	Burbuja atrayente
-1257608	Tromba de Escarcha
+1257717	Burbuja atrayente
 1258668	Remolinos turbulentos
 1260837	Lluvia abisal
 1282937	Aluvión de hoja de hielo
@@ -192,7 +192,6 @@
 1295397	Amani inquietos
 1287533	Avance sepulcral
 1292036	Tromba de posesión
-1289696	Atadura del despertar
 1305421	Pira hambrienta
 1299673	Invocar
 
@@ -209,9 +208,9 @@
 ; Boss: Vashnik the Malignant
 1283164	Imbuir
 1282525	Catalizador maligno
-1282117	Infección adaptable
 1281907	Espuma pestilente
 1280935	Colmillos goteantes
+1282117	Infección adaptable
 
 ; Boss: The Lost Explorers
 1296535	Pescado asqueroso
@@ -261,14 +260,13 @@
 1285911	Fijación inquietante
 1286573	Corte de alma
 1286918	Ocaso eterno
-1286895	Bomba de penumbra
 1286441	Risotada espiritual
+1286895	Bomba de penumbra
 1298381	Profanación del Altar en Espiral
 1299266	Guillotina funesta
 1307279	Corte contagiado
 
 ; Boss: Ula'tek
-1292999	Sumersión
 1292188	Olas cáusticas
 1300751	Llamada de la sierpe
 1298367	Cólera de la madre
@@ -278,6 +276,7 @@
 1286860	Ira de la encadenada
 1302982	Flema virulenta
 1301510	Rondar a la presa
+1292999	Sumersión
 1295905	Mordedura de serpiente
 1286905	Furia desatada
 

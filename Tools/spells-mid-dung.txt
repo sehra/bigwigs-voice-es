@@ -5,6 +5,7 @@
 ; -------------------------------------
 
 ; Boss: Trash
+1271545	Incienso de resguardo
 
 ; Boss: The Hoardmonger
 1235118	Bramido voraz
